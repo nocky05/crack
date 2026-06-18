@@ -1,0 +1,852 @@
+[
+  {
+    "id": "lit_1",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Auteur -> Œuvre",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel célèbre livre de théologie allégorique John Bunyan a-t-il rédigé en prison, considéré comme l'un des plus grands classiques de la littérature chrétienne ?",
+    "options": [
+      "Le Voyage du Pèlerin (The Pilgrim's Progress)",
+      "L'Imitation de Jésus-Christ",
+      "Le Château de l'âme",
+      "La Cité de Dieu"
+    ],
+    "answer": "Le Voyage du Pèlerin (The Pilgrim's Progress)",
+    "explanation": "John Bunyan a écrit cette allégorie du voyage chrétien en 1678 alors qu'il était emprisonné pour avoir prêché sans autorisation.",
+    "reference": "John Bunyan, 1678"
+  },
+  {
+    "id": "lit_2",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Auteur -> Œuvre",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "C.S. Lewis a rédigé une célèbre saga fantastique pour enfants contenant de profondes allégories chrétiennes. Quel est son titre ?",
+    "options": [
+      "Les Chroniques de Narnia",
+      "Le Seigneur des Anneaux",
+      "À la croisée des chemins",
+      "La Quête du Graal"
+    ],
+    "answer": "Les Chroniques de Narnia",
+    "explanation": "Les Chroniques de Narnia (1950-1956) mettent en scène Aslan, le lion qui se sacrifie et ressuscite pour sauver Narnia, une allégorie claire du Christ.",
+    "reference": "C.S. Lewis, 1950–1956"
+  },
+  {
+    "id": "lit_3",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Auteur -> Œuvre",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel ouvrage de théologie et d'éthique rédigé par Dietrich Bonhoeffer traite de l'exigence radicale de la foi et de la critique de la 'grâce bon marché' ?",
+    "options": [
+      "Le Prix de la Grâce (The Cost of Discipleship)",
+      "Résistance et Soumission",
+      "La Vie Commune",
+      "Éthique"
+    ],
+    "answer": "Le Prix de la Grâce (The Cost of Discipleship)",
+    "explanation": "Dietrich Bonhoeffer y dénonce la grâce sans repentance ni discipulat, affirmant que la vraie grâce coûte la vie mais donne la vraie liberté.",
+    "reference": "Dietrich Bonhoeffer, 1937"
+  },
+  {
+    "id": "lit_4",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Auteur -> Œuvre",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel livre de saint Augustin retrace sous forme de prière sa jeunesse égarée et sa conversion radicale au Christ ?",
+    "options": [
+      "Les Confessions",
+      "La Cité de Dieu",
+      "De Trinitate",
+      "La Doctrine Chrétienne"
+    ],
+    "answer": "Les Confessions",
+    "explanation": "Rédigées entre 397 et 401, Les Confessions d'Augustin d'Hippone constituent un modèle fondateur de l'autobiographie spirituelle.",
+    "reference": "Saint Augustin, 397–401"
+  },
+  {
+    "id": "lit_5",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Auteur -> Œuvre",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel dévotionnel médiéval, attribué à Thomas à Kempis, est réputé pour être l'ouvrage chrétien le plus traduit et lu au monde après la Bible ?",
+    "options": [
+      "L'Imitation de Christ (De Imitatione Christi)",
+      "La Philocalie",
+      "Introduction à la vie dévote",
+      "L'Échelle sainte"
+    ],
+    "answer": "L'Imitation de Christ (De Imitatione Christi)",
+    "explanation": "Ce classique de la spiritualité chrétienne, écrit au début du XVe siècle, invite à l'humilité et au dépouillement à l'exemple de Jésus.",
+    "reference": "Thomas à Kempis, vers 1418"
+  },
+  {
+    "id": "lit_6",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Auteur -> Œuvre",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Dans quel livre C.S. Lewis partage-t-il de manière poignante ses doutes, sa colère et son deuil après la mort de son épouse Joy Davidman ?",
+    "options": [
+      "Apprendre le deuil (A Grief Observed)",
+      "Le Problème de la douleur",
+      "Surpris par la joie",
+      "Lettres à Malcolm"
+    ],
+    "answer": "Apprendre le deuil (A Grief Observed)",
+    "explanation": "Initialement publié sous un pseudonyme en 1961, ce court récit détaille l'épreuve de la perte et la restauration finale de sa foi.",
+    "reference": "C.S. Lewis, 1961"
+  },
+  {
+    "id": "lit_7",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Auteur -> Œuvre",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel best-seller contemporain écrit par le pasteur Rick Warren propose un parcours spirituel en 40 jours pour découvrir sa mission sur Terre ?",
+    "options": [
+      "Une vie motivée par l'essentiel (The Purpose Driven Life)",
+      "L'Église branchée sur l'essentiel",
+      "Le christianisme simple",
+      "Vivre ma foi aujourd'hui"
+    ],
+    "answer": "Une vie motivée par l'essentiel (The Purpose Driven Life)",
+    "explanation": "Publié en 2002, ce livre s'est vendu à des dizaines de millions d'exemplaires dans le monde et détaille les 5 buts divins de la vie humaine.",
+    "reference": "Rick Warren, 2002"
+  },
+  {
+    "id": "lit_8",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Auteur -> Œuvre",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel théologien anglican a écrit l'explication classique 'Le Message du Sermon sur la Montagne' pour encourager une contre-culture chrétienne ?",
+    "options": [
+      "John Stott",
+      "J.I. Packer",
+      "C.S. Lewis",
+      "N.T. Wright"
+    ],
+    "answer": "Le Message du Sermon sur la Montagne",
+    "explanation": "John Stott y démontre comment les enseignements de Jésus appellent les chrétiens à vivre une vie sainte, en rupture avec les valeurs mondaines.",
+    "reference": "John Stott"
+  },
+  {
+    "id": "lit_9",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Auteur -> Œuvre",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel prédicateur et écrivain sud-africain a rédigé le classique de la prière d'intercession 'Avec Christ à l'école de la prière' ?",
+    "options": [
+      "Andrew Murray",
+      "Oswald Chambers",
+      "E.M. Bounds",
+      "A.W. Tozer"
+    ],
+    "answer": "Avec Christ à l'école de la prière (With Christ in the School of Prayer)",
+    "explanation": "Andrew Murray a publié ce guide en 1885 pour enseigner aux croyants l'art biblique et la puissance de la prière persévérante.",
+    "reference": "Andrew Murray, 1885"
+  },
+  {
+    "id": "lit_10",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Auteur -> Œuvre",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Dans quel livre autobiographique Corrie ten Boom raconte-t-elle comment sa famille a hébergé des Juifs aux Pays-Bas avant d'être déportée ?",
+    "options": [
+      "La Cachette (The Hiding Place)",
+      "Le vagabond de Dieu",
+      "Victorieuse à Ravensbrück",
+      "Au cœur de la tourmente"
+    ],
+    "answer": "La Cachette (The Hiding Place)",
+    "explanation": "Publié en 1971, ce livre témoigne de la foi, de l'épreuve des camps de concentration de la famille ten Boom et de la puissance du pardon.",
+    "reference": "Corrie ten Boom, 1971"
+  },
+  {
+    "id": "lit_11",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Auteur -> Œuvre",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel archevêque français du XVIIe siècle a écrit 'Explication des maximes des saints' sur l'amour pur et désintéressé de Dieu ?",
+    "options": [
+      "François Fénelon",
+      "Jacques-Bénigne Bossuet",
+      "Blaise Pascal",
+      "Jean Racine"
+    ],
+    "answer": "Explication des maximes des saints",
+    "explanation": "Fénelon a défendu dans ce livre une doctrine spirituelle proche du quiétisme, qui a suscité une célèbre controverse avec Bossuet.",
+    "reference": "François Fénelon, XVIIe siècle"
+  },
+  {
+    "id": "lit_12",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Auteur -> Œuvre",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel livre évangélique écrit par Billy Graham en 1953 présente le chemin vers la réconciliation avec Dieu et la paix intérieure ?",
+    "options": [
+      "La Paix avec Dieu (Peace with God)",
+      "La force de l'Esprit",
+      "Rapprochez-vous de Dieu",
+      "Le défi de l'évangélisation"
+    ],
+    "answer": "La Paix avec Dieu (Peace with God)",
+    "explanation": "Ce livre clair et accessible expose le message de l'Évangile pour répondre aux doutes et à l'anxiété de l'homme moderne.",
+    "reference": "Billy Graham, 1953"
+  },
+  {
+    "id": "lit_13",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Auteur -> Œuvre",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel célèbre recueil de méditations quotidiennes a été compilé à partir des enseignements oraux d'Oswald Chambers après sa mort ?",
+    "options": [
+      "Tout pour Son Royaume / Ma Haute Ambition (My Utmost for His Highest)",
+      "Le matin réjouissant",
+      "Pain quotidien de l'âme",
+      "Vers les hauteurs"
+    ],
+    "answer": "Tout pour Son Royaume / Ma Haute Ambition (My Utmost for His Highest)",
+    "explanation": "Édité par sa veuve en 1927, ce dévotionnel quotidien insiste sur la consécration totale et sans compromis du croyant à Dieu.",
+    "reference": "Oswald Chambers, 1927"
+  },
+  {
+    "id": "lit_14",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Auteur -> Œuvre",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel auteur a consacré de nombreux ouvrages à la puissance de la prière, insistant sur le fait que Dieu cherche des hommes de prière plutôt que des méthodes ?",
+    "options": [
+      "E.M. Bounds",
+      "Charles Spurgeon",
+      "A.W. Tozer",
+      "Leonard Ravenhill"
+    ],
+    "answer": "La prière",
+    "explanation": "Edward McKendree Bounds, pasteur et aumônier militaire, a rédigé des traités puissants sur la vie de prière comme moteur spirituel.",
+    "reference": "E.M. Bounds, XIXe–XXe siècle"
+  },
+  {
+    "id": "lit_15",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Auteur -> Œuvre",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel auteur et enseignant chrétien chinois a écrit 'L'Homme Spirituel' pour exposer une vision trichotomique (esprit, âme, corps) de la vie intérieure ?",
+    "options": [
+      "Watchman Nee",
+      "Brother Andrew",
+      "John Sung",
+      "K.P. Yohannan"
+    ],
+    "answer": "L'Homme Spirituel (The Spiritual Man)",
+    "explanation": "Watchman Nee a écrit cet ouvrage de théologie spirituelle profonde pour aider les croyants à discerner l'action de l'Esprit de celle de l'âme.",
+    "reference": "Watchman Nee"
+  },
+  {
+    "id": "lit_16",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Auteur -> Œuvre",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel ouvrage de théologie systématique, écrit en latin puis traduit en français par son auteur au XVIe siècle, est la charte théologique des Églises réformées ?",
+    "options": [
+      "L'Institution de la Religion Chrétienne",
+      "Les Confessions de foi",
+      "La Somme Théologique",
+      "Le catéchisme de Heidelberg"
+    ],
+    "answer": "L'Institution de la Religion Chrétienne",
+    "explanation": "Jean Calvin a publié ce traité pour défendre la foi des réformés français et clarifier l'enseignement scripturaire.",
+    "reference": "Jean Calvin, 1536"
+  },
+  {
+    "id": "lit_17",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Auteur -> Œuvre",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel roman de Charles Sheldon a popularisé l'expression de dévouement chrétien radical 'Que ferait Jésus ?' (What Would Jesus Do ?) ?",
+    "options": [
+      "Sur les pas du Maître (In His Steps)",
+      "La cabane",
+      "Le pèlerin de l'absolu",
+      "La croix et la couronne"
+    ],
+    "answer": "Sur les pas du Maître (In His Steps)",
+    "explanation": "Publié en 1896, ce livre raconte l'histoire de paroissiens qui s'engagent à ne prendre aucune décision sans se poser la question : 'Que ferait Jésus ?'.",
+    "reference": "Charles Sheldon, 1896"
+  },
+  {
+    "id": "lit_18",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Œuvre -> Auteur",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Qui est l'auteur de l'ouvrage d'apologétique 'Mere Christianity' (Simple Christianisme / Les Fondements du christianisme) ?",
+    "options": [
+      "C.S. Lewis",
+      "John Stott",
+      "Alister McGrath",
+      "Francis Schaeffer"
+    ],
+    "answer": "C.S. Lewis",
+    "explanation": "Ce livre compile des causeries radiophoniques diffusées par C.S. Lewis sur la BBC pendant la Seconde Guerre mondiale.",
+    "reference": "1952"
+  },
+  {
+    "id": "lit_19",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Œuvre -> Auteur",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Qui a rédigé la satire spirituelle 'The Screwtape Letters' (La Tactique du Diable), recueil de lettres d'un démon expérimenté à son jeune apprenti ?",
+    "options": [
+      "C.S. Lewis",
+      "G.K. Chesterton",
+      "T.S. Eliot",
+      "J.R.R. Tolkien"
+    ],
+    "answer": "C.S. Lewis",
+    "explanation": "C.S. Lewis y décrit les tentations ordinaires et les pièges spirituels à travers une correspondance inversée très ironique.",
+    "reference": "1942 — lettres d'un démon à son neveu"
+  },
+  {
+    "id": "lit_20",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Œuvre -> Auteur",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel philosophe et théologien juif a écrit 'Dieu en quête de l'homme' (God in Search of Man), influençant profondément le dialogue judéo-chrétien ?",
+    "options": [
+      "Abraham Joshua Heschel",
+      "Martin Buber",
+      "Emmanuel Levinas",
+      "Franz Rosenzweig"
+    ],
+    "answer": "Abraham Joshua Heschel",
+    "explanation": "Dans ce classique de la pensée religieuse, Heschel rappelle que la religion commence par l'appel de Dieu à l'homme plutôt que par la quête humaine de Dieu.",
+    "reference": "Philosophe judéo-chrétien"
+  },
+  {
+    "id": "lit_21",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Œuvre -> Auteur",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Qui est l'auteur spirituel de 'La Pratique de la présence de Dieu' (Practicing the Presence of God), recueil de maximes sur la communion constante avec Dieu ?",
+    "options": [
+      "Frère Laurent de la Résurrection",
+      "François de Sales",
+      "Jean de la Croix",
+      "Madame Guyon"
+    ],
+    "answer": "Frère Laurent de la Résurrection",
+    "explanation": "Ce carme déchaux du XVIIe siècle, cuisinier au monastère de Paris, enseignait l'art de demeurer en prière dans les tâches les plus humbles.",
+    "reference": "XVIIe siècle"
+  },
+  {
+    "id": "lit_22",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Œuvre -> Auteur",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Qui a écrit le best-seller biographique 'La Croix et le Couteau' (The Cross and the Switchblade) narrant son action auprès des gangs de New York ?",
+    "options": [
+      "David Wilkerson",
+      "Nicky Cruz",
+      "Billy Graham",
+      "Brother Andrew"
+    ],
+    "answer": "David Wilkerson",
+    "explanation": "David Wilkerson y raconte comment il a été conduit à prêcher l'Évangile aux chefs de gangs de New York, menant notamment à la conversion de Nicky Cruz.",
+    "reference": "1962 — ministère à New York"
+  },
+  {
+    "id": "lit_23",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Œuvre -> Auteur",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Qui est l'auteur du puissant traité spirituel et d'exhortation personnelle 'À la poursuite de Dieu' (The Pursuit of God) ?",
+    "options": [
+      "A.W. Tozer",
+      "Leonard Ravenhill",
+      "D.L. Moody",
+      "Charles Spurgeon"
+    ],
+    "answer": "A.W. Tozer",
+    "explanation": "Aiden Wilson Tozer, prédicateur de l'Alliance Chrétienne et Missionnaire, a écrit ce livre en une seule nuit dans un train pour appeler à une soif ardente de Dieu.",
+    "reference": "1948"
+  },
+  {
+    "id": "lit_24",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Œuvre -> Auteur",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Qui a rédigé le guide théologique populaire 'Knowing God' (Connaître Dieu) pour inviter les croyants à passer de la théorie sur Dieu à une relation intime ?",
+    "options": [
+      "J.I. Packer",
+      "John Stott",
+      "Francis Schaeffer",
+      "R.C. Sproul"
+    ],
+    "answer": "J.I. Packer",
+    "explanation": "James Innell Packer y explore les attributs divins (amour, grâce, colère, etc.) pour aider le lecteur à approfondir son adoration personnelle.",
+    "reference": "1973"
+  },
+  {
+    "id": "lit_25",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Œuvre -> Auteur",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Qui a écrit l'ouvrage populaire 'Une Femme au foyer selon le cœur de Dieu', destiné à la spiritualité et à l'édification de la femme chrétienne ?",
+    "options": [
+      "Elizabeth George",
+      "Joyce Meyer",
+      "Stormie Omartian",
+      "Beth Moore"
+    ],
+    "answer": "Elizabeth George",
+    "explanation": "Cet ouvrage s'est imposé comme une référence de la littérature chrétienne féminine pour organiser sa vie de famille autour de priorités bibliques.",
+    "reference": "Littérature chrétienne féminine"
+  },
+  {
+    "id": "lit_26",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Œuvre -> Auteur",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quels auteurs ont co-écrit la célèbre série de romans eschatologiques à succès 'Left Behind' (Laissé en arrière) ?",
+    "options": [
+      "Tim LaHaye et Jerry B. Jenkins",
+      "Frank Peretti et Ted Dekker",
+      "C.S. Lewis et J.R.R. Tolkien",
+      "Billy Graham et John Hagee"
+    ],
+    "answer": "Tim LaHaye et Jerry B. Jenkins",
+    "explanation": "Cette série de 16 romans (1995-2007) imagine la vie sur Terre de ceux qui ont été 'laissés en arrière' après l'enlèvement des croyants.",
+    "reference": "1995–2007"
+  },
+  {
+    "id": "lit_27",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Œuvre -> Auteur",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel écrivain piétiste a rédigé le classique de la vie spirituelle intérieure 'Humilité, la beauté de la sainteté' ?",
+    "options": [
+      "Andrew Murray",
+      "Thomas à Kempis",
+      "François de Sales",
+      "Charles Finney"
+    ],
+    "answer": "Andrew Murray",
+    "explanation": "Andrew Murray y affirme que l'humilité est la racine même de toute vertu et la marque indispensable de la véritable maturité spirituelle.",
+    "reference": "Classique de la spiritualité"
+  },
+  {
+    "id": "lit_28",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Œuvre -> Auteur",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Qui a écrit 'The Normal Christian Life' (La Vie chrétienne normale), commentaire spirituel basé sur l'épître aux Romains ?",
+    "options": [
+      "Watchman Nee",
+      "John Wesley",
+      "Martin Luther",
+      "A.W. Tozer"
+    ],
+    "answer": "Watchman Nee",
+    "explanation": "Le théologien chinois Watchman Nee y expose le secret d'une marche victorieuse à travers l'identification avec Christ en sa mort et sa résurrection.",
+    "reference": "Théologien chinois"
+  },
+  {
+    "id": "lit_29",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Œuvre -> Auteur",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel auteur a rédigé le traité court et percutant 'Power Through Prayer' (La Puissance par la prière) ?",
+    "options": [
+      "E.M. Bounds",
+      "Charles Spurgeon",
+      "D.L. Moody",
+      "George Müller"
+    ],
+    "answer": "E.M. Bounds",
+    "explanation": "Bounds y insiste sur le fait que la vie intérieure du prédicateur est plus importante que son éloquence ou sa préparation théologique.",
+    "reference": "XIXe siècle"
+  },
+  {
+    "id": "lit_30",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Œuvre -> Auteur",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel évangéliste américain a écrit 'L'Esprit de Dieu' (Holy Spirit) en 1978 pour clarifier l'identité et le rôle du Saint-Esprit ?",
+    "options": [
+      "Billy Graham",
+      "T.L. Osborn",
+      "Jimmy Swaggart",
+      "Kenneth Hagin"
+    ],
+    "answer": "Billy Graham",
+    "explanation": "Dans cet ouvrage, Billy Graham présente une étude biblique équilibrée sur le Saint-Esprit, évitant les polémiques doctrinales excessives.",
+    "reference": "1978"
+  },
+  {
+    "id": "lit_31",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Œuvre -> Auteur",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Qui a rédigé le brûlot spirituel 'Why Revival Tarries' (Pourquoi le réveil tarde), appel ardent à la repentance de l'Église ?",
+    "options": [
+      "Leonard Ravenhill",
+      "A.W. Tozer",
+      "Duncan Campbell",
+      "David Wilkerson"
+    ],
+    "answer": "Leonard Ravenhill",
+    "explanation": "Ravenhill y dénonce le compromis spirituel, la tiédeur des pasteurs et l'absence de prière fervente pour le réveil.",
+    "reference": "Prédicateur du réveil"
+  },
+  {
+    "id": "lit_32",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Œuvre -> Auteur",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel auteur a rédigé 'Dieu n'est pas mort' (God's Not Dead), ouvrage d'apologétique populaire adapté avec succès au cinéma ?",
+    "options": [
+      "Rice Broocks",
+      "Lee Strobel",
+      "William P. Young",
+      "Josh McDowell"
+    ],
+    "answer": "Rice Broocks",
+    "explanation": "Rice Broocks y présente des arguments philosophiques et scientifiques pour prouver l'existence de Dieu face au scepticisme moderne.",
+    "reference": "2013 — aussi adapté en film"
+  },
+  {
+    "id": "lit_33",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Œuvre -> Auteur",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Qui a écrit l'essai apologétique 'The Problem of Pain' (Le problème de la douleur / de la souffrance) en 1940 ?",
+    "options": [
+      "C.S. Lewis",
+      "Dietrich Bonhoeffer",
+      "Alister McGrath",
+      "G.K. Chesterton"
+    ],
+    "answer": "C.S. Lewis",
+    "explanation": "C.S. Lewis y aborde de façon intellectuelle et philosophique la question cruciale : comment un Dieu d'amour peut-il tolérer la souffrance ?",
+    "reference": "1940"
+  },
+  {
+    "id": "lit_34",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Œuvre -> Auteur",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Qui a écrit l'ouvrage documenté et enthousiaste 'Heaven' (Le Paradis) explorant la vie future de manière très concrète selon la Bible ?",
+    "options": [
+      "Randy Alcorn",
+      "John Piper",
+      "Francis Chan",
+      "Max Lucado"
+    ],
+    "answer": "Randy Alcorn",
+    "explanation": "Alcorn combat l'idée d'un paradis ennuyeux et éthéré, insistant sur le fait que la Bible promet la restauration physique de la Nouvelle Terre.",
+    "reference": "2004"
+  },
+  {
+    "id": "lit_35",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Contenu",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Dans 'Le Voyage du Pèlerin' de John Bunyan, quel chemin parcourt le personnage principal nommé 'Chrétien' ?",
+    "options": [
+      "De la Cité de la Destruction jusqu'à la Cité Céleste",
+      "De l'Égypte jusqu'à la Terre Promise",
+      "De Babylone jusqu'à Jérusalem",
+      "De la Cité Céleste jusqu'au Purgatoire"
+    ],
+    "answer": "De la Cité de la Destruction jusqu'à la Cité Céleste",
+    "explanation": "Le roman décrit la marche difficile de Chrétien vers la Cité Céleste, symbole du paradis et de la gloire éternelle.",
+    "reference": "Allégorie du chemin chrétien"
+  },
+  {
+    "id": "lit_36",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Contenu",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel est le message central développé par Thomas à Kempis dans son ouvrage 'L'Imitation de Christ' ?",
+    "options": [
+      "Renoncer aux illusions du monde et suivre humblement Jésus dans la vie quotidienne",
+      "Partir en croisade pour délivrer les lieux saints",
+      "Construire des églises majestueuses pour honorer Dieu",
+      "Développer une théologie spéculative sur la Trinité"
+    ],
+    "answer": "Renoncer aux illusions du monde et suivre humblement Jésus dans la vie quotidienne",
+    "explanation": "L'œuvre exhorte le lecteur à la prière intérieure, à l'humilité et à l'amour désintéressé pour s'approcher de l'état de disciple du Christ.",
+    "reference": "Spiritualité médiévale"
+  },
+  {
+    "id": "lit_37",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Contenu",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Que raconte principalement le livre biographique 'La Cachette' de Corrie ten Boom ?",
+    "options": [
+      "La préservation de Juifs par sa famille à Haarlem, leur arrestation et sa détention à Ravensbrück",
+      "La vie secrète de Paul de Tarse à Rome",
+      "La cachette de David face au roi Saül",
+      "L'histoire de chrétiens cachés dans les catacombes de Rome"
+    ],
+    "answer": "La préservation de Juifs par sa famille à Haarlem, leur arrestation et sa détention à Ravensbrück",
+    "explanation": "Le livre raconte l'engagement héroïque de la famille ten Boom pour sauver des Juifs de la déportation nazie, puis son calvaire et son message de pardon.",
+    "reference": "Corrie ten Boom, 1971"
+  },
+  {
+    "id": "lit_38",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Contenu",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel est le fil conducteur de l'ouvrage 'Une vie motivée par l'essentiel' de Rick Warren ?",
+    "options": [
+      "Découvrir que l'existence humaine a un but conçu et désiré par Dieu (5 objectifs précis)",
+      "Apprendre à maximiser ses gains financiers selon la morale biblique",
+      "Comprendre les mystères des prophéties de Daniel et de l'Apocalypse",
+      "Écrire des sermons inspirants pour l'évangélisation publique"
+    ],
+    "answer": "Découvrir que l'existence humaine a un but conçu et désiré par Dieu (5 objectifs précis)",
+    "explanation": "Rick Warren présente la vie sous l'angle de 5 objectifs divins : l'adoration, la communion, le discipulat, le service et la mission.",
+    "reference": "5 objectifs de vie chrétienne"
+  },
+  {
+    "id": "lit_39",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Contenu",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel est le sujet central du récit réaliste 'La Croix et le Couteau' de David Wilkerson ?",
+    "options": [
+      "Le ministère d'un pasteur de campagne auprès des gangs de drogués et la conversion de Nicky Cruz",
+      "L'histoire des templiers lors des croisades",
+      "Une étude théologique sur la crucifixion du Christ",
+      "Une guerre des gangs fictive à Chicago"
+    ],
+    "answer": "Le ministère d'un pasteur de campagne auprès des gangs de drogués et la conversion de Nicky Cruz",
+    "explanation": "David Wilkerson raconte comment le Saint-Esprit l'a poussé à quitter sa campagne pour prêcher aux délinquants new-yorkais.",
+    "reference": "1962"
+  },
+  {
+    "id": "lit_40",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Contenu",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel est le cœur théologique des 'Confessions' rédigées par saint Augustin ?",
+    "options": [
+      "Sa confession de foi publique, sa conversion radicale après des années d'égarement et sa louange à la grâce de Dieu",
+      "Le catalogue secret de tous les péchés commis par l'empereur",
+      "Les révélations mystiques sur le Millénium",
+      "La défense dogmatique du pape face aux hérésies d'Orient"
+    ],
+    "answer": "Sa confession de foi publique, sa conversion radicale après des années d'égarement et sa louange à la grâce de Dieu",
+    "explanation": "Augustin y retrace ses doutes intellectuels et sa libération finale du péché grâce à l'onction de la grâce de Dieu.",
+    "reference": "'Notre cœur est sans repos jusqu'à ce qu'il trouve son repos en toi'"
+  },
+  {
+    "id": "lit_41",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Contenu",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "De quoi traite en substance l'ouvrage 'Mere Christianity' (Simple Christianisme / Les Fondements du christianisme) de C.S. Lewis ?",
+    "options": [
+      "Une défense intellectuelle, logique et accessible des vérités doctrinales communes aux chrétiens",
+      "L'histoire de l'anglicanisme moderne",
+      "Un manuel pour simplifier l'administration paroissiale",
+      "Un recueil d'allégories fantastiques sur le paradis"
+    ],
+    "answer": "Une défense intellectuelle, logique et accessible des vérités doctrinales communes aux chrétiens",
+    "explanation": "Lewis cherche à présenter le 'simple christianisme', c'est-à-dire le noyau commun de la foi chrétienne partagé par les catholiques, protestants et orthodoxes.",
+    "reference": "Apologétique chrétienne"
+  },
+  {
+    "id": "lit_42",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Contenu",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Qui représente le lion Aslan dans la série fantastique 'Les Chroniques de Narnia' de C.S. Lewis ?",
+    "options": [
+      "Jésus-Christ (dans son incarnation, son sacrifice et sa résurrection)",
+      "L'apôtre Paul",
+      "L'empereur romain Constantin",
+      "Le diable sous une apparence flatteuse"
+    ],
+    "answer": "Jésus-Christ (dans son incarnation, son sacrifice et sa résurrection)",
+    "explanation": "Aslan se sacrifie volontairement à la Table de Pierre pour sauver le traître Edmond, puis ressuscite par une magie plus ancienne, allégorie évidente du Christ.",
+    "reference": "Allégorie christologique"
+  },
+  {
+    "id": "lit_43",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Contenu",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel est le message spirituel central de l'ouvrage classique 'À la poursuite de Dieu' d'A.W. Tozer ?",
+    "options": [
+      "Un appel passionné à dépasser la religion formelle pour rechercher expérimentalement la présence de Dieu",
+      "Une étude historique sur les méthodes de croissance de l'église au XXe siècle",
+      "Une analyse sociologique de la sécularisation en Occident",
+      "Un manuel pratique pour faire de l'évangélisation de rue"
+    ],
+    "answer": "Un appel passionné à dépasser la religion formelle pour rechercher expérimentalement la présence de Dieu",
+    "explanation": "Tozer y insiste sur le fait que la véritable spiritualité réside dans une communion vécue et constante de l'esprit humain avec Dieu.",
+    "reference": "Vie spirituelle profonde"
+  },
+  {
+    "id": "lit_44",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Contenu",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Comment est construite la satire spirituelle 'Tactique du Diable' de C.S. Lewis ?",
+    "options": [
+      "Sous forme de lettres d'un démon haut gradé (Screwtape) à son neveu démon (Wormwood) chargé de faire trébucher un homme",
+      "Comme une biographie historique de l'antéchrist",
+      "Sous forme d'une pièce de théâtre entre Dieu et Satan",
+      "Comme un manuel d'exorcisme pour les pasteurs"
+    ],
+    "answer": "Sous forme de lettres d'un démon haut gradé (Screwtape) à son neveu démon (Wormwood) chargé de faire trébucher un homme",
+    "explanation": "C.S. Lewis utilise l'ironie pour exposer avec finesse les défaillances morales et les faiblesses psychologiques des êtres humains.",
+    "reference": "Satire spirituelle"
+  },
+  {
+    "id": "lit_45",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Contenu",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quelle distinction théologique Dietrich Bonhoeffer fait-il dans 'Le Prix de la Grâce' ?",
+    "options": [
+      "La grâce bon marché (pure adhésion intellectuelle sans obéissance) et la grâce coûteuse (qui exige de suivre le Christ)",
+      "La grâce commune de Dieu et la grâce spéciale réservée aux prêtres",
+      "La grâce des sacrements catholiques et la grâce de la foi protestante",
+      "La grâce temporelle sur Terre et la grâce éternelle au ciel"
+    ],
+    "answer": "La grâce bon marché (pure adhésion intellectuelle sans obéissance) et la grâce coûteuse (qui exige de suivre le Christ)",
+    "explanation": "La grâce bon marché est la justification du péché sans justification du pécheur, tandis que la grâce coûteuse exige le don total de sa vie au Christ.",
+    "reference": "Bonhoeffer, martyr nazi"
+  },
+  {
+    "id": "lit_46",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Contenu",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Que signifie concrètement 'La Pratique de la présence de Dieu' enseignée par le frère Laurent de la Résurrection ?",
+    "options": [
+      "Cultiver une conscience continuelle et amoureuse de Dieu dans nos activités quotidiennes les plus ordinaires",
+      "Faire des retraites de silence prolongées dans le désert",
+      "Prier à genoux au moins sept heures par jour",
+      "Pratiquer la liturgie stricte des heures au monastère"
+    ],
+    "answer": "Cultiver une conscience continuelle et amoureuse de Dieu dans nos activités quotidiennes les plus ordinaires",
+    "explanation": "Le frère Laurent préconisait de faire toutes les tâches courantes (y compris faire la vaisselle ou éplucher les légumes) par pur amour de Dieu.",
+    "reference": "Frère Laurent, cuisinier monastique"
+  },
+  {
+    "id": "lit_47",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Contenu",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel est le sujet et la structure de 'L'Institution de la Religion Chrétienne' écrite par Jean Calvin ?",
+    "options": [
+      "Un exposé théologique systématique et apologétique basé sur les Écritures pour guider la foi réformée",
+      "Une biographie romancée des réformateurs",
+      "Un code de lois civiles pour la république de Genève",
+      "Une suite de lettres ouvertes adressées aux rois d'Europe"
+    ],
+    "answer": "Un exposé théologique systématique et apologétique basé sur les Écritures pour guider la foi réformée",
+    "explanation": "Le livre est structuré en plusieurs parties reprenant le Symbole des Apôtres (le Créateur, le Rédempteur, le Saint-Esprit, l'Église).",
+    "reference": "Pilier de la Réforme protestante"
+  },
+  {
+    "id": "lit_48",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Contenu",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "De quels événements traite en détail la série de romans théologiques 'Left Behind' de Tim LaHaye ?",
+    "options": [
+      "L'enlèvement soudain de l'Église chrétienne, suivi de la période de grande tribulation et du retour physique de Christ",
+      "L'histoire de la conquête de Canaan par Josué",
+      "La survie des premiers chrétiens persécutés par l'empereur Néron",
+      "L'histoire des missions protestantes en Asie"
+    ],
+    "answer": "L'enlèvement soudain de l'Église chrétienne, suivi de la période de grande tribulation et du retour physique de Christ",
+    "explanation": "La série illustre de façon vivante la théologie dispensationaliste prémillénariste de la fin des temps.",
+    "reference": "Eschatologie prémillénariste"
+  },
+  {
+    "id": "lit_49",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Contenu",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel est le message du recueil dévotionnel 'Ma Haute Ambition' (Tout pour Son Royaume) d'Oswald Chambers ?",
+    "options": [
+      "Des réflexions quotidiennes exigeantes sur le renoncement à soi et la consécration sans réserve à Dieu",
+      "Des méthodes de croissance spirituelle pour les pasteurs",
+      "Des explications littérales des prophéties d'Isaïe",
+      "Un manuel pour former les évangélistes en Afrique"
+    ],
+    "answer": "Des réflexions quotidiennes exigeantes sur le renoncement à soi et la consécration sans réserve à Dieu",
+    "explanation": "Ce livre invite le croyant à être 'le meilleur de lui-même pour Dieu' et à vivre une foi active basée sur l'abandon complet.",
+    "reference": "Dévotionnel quotidien classique"
+  },
+  {
+    "id": "lit_50",
+    "category": "Littérature Chrétienne",
+    "subcategory": "Contenu",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel est l'appel fondamental lancé par Leonard Ravenhill dans 'Why Revival Tarries' (Pourquoi le réveil tarde) ?",
+    "options": [
+      "Un appel urgent à la prière de repentance, à l'intercession fervente et à la sainteté personnelle des leaders chrétiens",
+      "Une explication théologique de l'apocalypse et des sceaux",
+      "Une critique de la musique de louange contemporaine",
+      "Un manuel d'organisation pour les églises en croissance"
+    ],
+    "answer": "Un appel urgent à la prière de repentance, à l'intercession fervente et à la sainteté personnelle des leaders chrétiens",
+    "explanation": "Ravenhill soutient que le réveil spirituel ne vient pas par des campagnes programmées mais par des cœurs brisés dans l'intercession secrète.",
+    "reference": "Prédication du réveil"
+  }
+]

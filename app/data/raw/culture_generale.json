@@ -1,0 +1,1702 @@
+[
+  {
+    "id": "cg_1",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Combien de livres contient la Bible protestante dans son ensemble ?",
+    "options": [
+      "66 livres (39 AT + 27 NT)",
+      "73 livres (46 AT + 27 NT)",
+      "39 livres (27 AT + 12 NT)",
+      "81 livres (46 AT + 35 NT)"
+    ],
+    "answer": "66 livres (39 AT + 27 NT)",
+    "explanation": "La Bible protestante standard contient 66 livres, répartis en 39 livres dans l'Ancien Testament (AT) et 27 dans le Nouveau Testament (NT).",
+    "reference": "Canon biblique"
+  },
+  {
+    "id": "cg_2",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel est le premier livre de la Bible ?",
+    "options": [
+      "La Genèse",
+      "L'Exode",
+      "Le Lévitique",
+      "Les Nombres"
+    ],
+    "answer": "La Genèse",
+    "explanation": "Le premier livre de la Bible est la Genèse (Bereshit en hébreu), qui commence par le récit de la création du monde par Dieu.",
+    "reference": "Gn 1:1"
+  },
+  {
+    "id": "cg_3",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel est le dernier livre de la Bible ?",
+    "options": [
+      "L'Apocalypse",
+      "L'Épître de Jude",
+      "L'Évangile de Jean",
+      "Le livre de Malachie"
+    ],
+    "answer": "L'Apocalypse",
+    "explanation": "L'Apocalypse de Jean est le dernier livre du Nouveau Testament et clôt le canon biblique chrétien.",
+    "reference": "Ap 22:21"
+  },
+  {
+    "id": "cg_4",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Combien de livres contient le Nouveau Testament ?",
+    "options": [
+      "27 livres",
+      "39 livres",
+      "12 livres",
+      "46 livres"
+    ],
+    "answer": "27 livres",
+    "explanation": "Le Nouveau Testament contient 27 livres acceptés de façon universelle par l'ensemble des confessions chrétiennes.",
+    "reference": "Canon NT"
+  },
+  {
+    "id": "cg_5",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Qui a baptisé Jésus dans le Jourdain ?",
+    "options": [
+      "Jean-Baptiste",
+      "L'apôtre Pierre",
+      "L'apôtre Jean",
+      "Le prophète Élie"
+    ],
+    "answer": "Jean-Baptiste",
+    "explanation": "C'est son cousin Jean-Baptiste qui a baptisé Jésus au début de son ministère public.",
+    "reference": "Mt 3:13–17"
+  },
+  {
+    "id": "cg_6",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Dans quelle ville Jésus-Christ est-il né ?",
+    "options": [
+      "Bethléhem",
+      "Nazareth",
+      "Jérusalem",
+      "Capernaüm"
+    ],
+    "answer": "Bethléhem",
+    "explanation": "Jésus est né à Bethléhem en Judée, accomplissant ainsi la prophétie de Michée.",
+    "reference": "Lc 2:4–7"
+  },
+  {
+    "id": "cg_7",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Combien d'apôtres initiaux Jésus a-t-il choisis pour le suivre ?",
+    "options": [
+      "Douze apôtres",
+      "Dix apôtres",
+      "Sept apôtres",
+      "Soixante-dix apôtres"
+    ],
+    "answer": "Douze apôtres",
+    "explanation": "Jésus a choisi douze disciples qu'il a nommés apôtres pour représenter symboliquement les douze tribus d'Israël.",
+    "reference": "Mc 3:14"
+  },
+  {
+    "id": "cg_8",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel est le verset le plus court de la Bible (en français standard) ?",
+    "options": [
+      "'Jésus pleura.' (Jean 11:35)",
+      "'Réjouissez-vous toujours.' (1 Thes 5:16)",
+      "'Priez sans cesse.' (1 Thes 5:17)",
+      "'Dieu est amour.' (1 Jean 4:8)"
+    ],
+    "answer": "'Jésus pleura.' (Jean 11:35)",
+    "explanation": "Avec seulement deux mots en français, 'Jésus pleura' lors de la mort de son ami Lazare est le verset le plus court de la Bible.",
+    "reference": "Jn 11:35"
+  },
+  {
+    "id": "cg_9",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel prophète a été avalé par un grand poisson après avoir fui la présence de Dieu ?",
+    "options": [
+      "Jonas",
+      "Isaïe",
+      "Jérémie",
+      "Daniel"
+    ],
+    "answer": "Jonas",
+    "explanation": "Jonas a tenté de fuir à Tarsis au lieu d'aller à Ninive, et a été englouti par un grand poisson pendant trois jours.",
+    "reference": "Jon 1:17"
+  },
+  {
+    "id": "cg_10",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Qui a construit l'arche pour échapper au grand Déluge ?",
+    "options": [
+      "Noé",
+      "Moïse",
+      "Abraham",
+      "Hénoch"
+    ],
+    "answer": "Noé",
+    "explanation": "Sur l'ordre de Dieu, Noé a construit une arche pour sauver sa famille et un couple de chaque espèce animale du Déluge.",
+    "reference": "Gn 6:14"
+  },
+  {
+    "id": "cg_11",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Combien de commandements Dieu a-t-il gravés sur les Tables de la Loi remises à Moïse ?",
+    "options": [
+      "Dix commandements",
+      "Douze commandements",
+      "Sept commandements",
+      "Trois commandements"
+    ],
+    "answer": "Dix commandements",
+    "explanation": "Dieu a donné à Moïse les Dix Commandements (le Décalogue) gravés sur deux tables de pierre sur le mont Sinaï.",
+    "reference": "Ex 20"
+  },
+  {
+    "id": "cg_12",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel roi d'Israël, fils de David, était universellement réputé pour sa sagesse ?",
+    "options": [
+      "Salomon",
+      "Saül",
+      "Ézéchias",
+      "Josias"
+    ],
+    "answer": "Salomon",
+    "explanation": "Le roi Salomon a demandé à Dieu un cœur intelligent pour gouverner son peuple, et est devenu le symbole suprême de la sagesse.",
+    "reference": "1 Rois 4:29"
+  },
+  {
+    "id": "cg_13",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel jeune berger d'Israël a vaincu le géant philistin Goliath avec une fronde ?",
+    "options": [
+      "David",
+      "Saül",
+      "Jonathan",
+      "Samson"
+    ],
+    "answer": "David",
+    "explanation": "Armé d'une simple fronde et de cinq pierres lisses, et fort de sa foi en l'Éternel, David a terrassé le champion philistin Goliath.",
+    "reference": "1 Sam 17:50"
+  },
+  {
+    "id": "cg_14",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Sur quelle montagne Moïse a-t-il reçu les Tables de la Loi des mains de Dieu ?",
+    "options": [
+      "Le mont Sinaï",
+      "Le mont Horeb",
+      "Le mont Carmel",
+      "Le mont des Oliviers"
+    ],
+    "answer": "Le mont Sinaï",
+    "explanation": "Les Tables de la Loi ont été données à Moïse au sommet du mont Sinaï dans le désert.",
+    "reference": "Ex 19:20"
+  },
+  {
+    "id": "cg_15",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel fleuve Jésus a-t-il traversé et dans lequel s'est-il fait baptiser ?",
+    "options": [
+      "Le Jourdain",
+      "Le Nil",
+      "L'Euphrate",
+      "Le Tigre"
+    ],
+    "answer": "Le Jourdain",
+    "explanation": "C'est dans les eaux du Jourdain que Jean-Baptiste baptisait les foules et qu'il a baptisé Jésus.",
+    "reference": "Mt 3:13"
+  },
+  {
+    "id": "cg_16",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Combien de chants et poèmes sacrés contient le livre des Psaumes ?",
+    "options": [
+      "150 Psaumes",
+      "120 Psaumes",
+      "100 Psaumes",
+      "160 Psaumes"
+    ],
+    "answer": "150 Psaumes",
+    "explanation": "Le livre des Psaumes (le psautier) est composé d'exactement 150 cantiques et prières poétiques.",
+    "reference": "Ps 1–150"
+  },
+  {
+    "id": "cg_17",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel apôtre a renié connaître Jésus trois fois avant le chant du coq ?",
+    "options": [
+      "Pierre",
+      "Judas",
+      "Thomas",
+      "André"
+    ],
+    "answer": "Pierre",
+    "explanation": "Pris de peur lors du procès de Jésus, l'apôtre Pierre a nié par trois fois être l'un de ses disciples, comme Jésus l'avait annoncé.",
+    "reference": "Mt 26:75"
+  },
+  {
+    "id": "cg_18",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel livre historique de l'Ancien Testament a la particularité de ne jamais mentionner explicitement le nom de Dieu ?",
+    "options": [
+      "Le livre d'Esther",
+      "Le livre de Ruth",
+      "Le livre de l'Ecclésiaste",
+      "Le livre du Cantique des Cantiques"
+    ],
+    "answer": "Le livre d'Esther",
+    "explanation": "Le livre d'Esther ne contient aucune mention du nom de Dieu, bien que sa providence divine y soit évidente à travers le salut providentiel des Juifs.",
+    "reference": "Esther"
+  },
+  {
+    "id": "cg_19",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Combien de livres contient l'Ancien Testament dans le canon protestant ?",
+    "options": [
+      "39 livres",
+      "46 livres",
+      "27 livres",
+      "33 livres"
+    ],
+    "answer": "39 livres",
+    "explanation": "L'Ancien Testament protestant compte 39 livres (reprenant le canon hébraïque), tandis que le canon catholique en contient 46.",
+    "reference": "Canon AT"
+  },
+  {
+    "id": "cg_20",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel est le livre le plus long de la Bible en nombre total de versets ?",
+    "options": [
+      "Le livre des Psaumes (2 461 versets)",
+      "Le livre de la Genèse",
+      "Le livre d'Ésaïe",
+      "Le livre de Jérémie"
+    ],
+    "answer": "Le livre des Psaumes (2 461 versets)",
+    "explanation": "Avec 150 chapitres et 2 461 versets, le livre des Psaumes est le plus volumineux de la Bible.",
+    "reference": "Ps 1–150"
+  },
+  {
+    "id": "cg_21",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel est le livre le plus court de la Bible en nombre de mots ?",
+    "options": [
+      "La 3e Épître de Jean (ou Abdias)",
+      "La 2e Épître de Jean",
+      "L'Épître de Jude",
+      "Le livre de Philémon"
+    ],
+    "answer": "La 3e Épître de Jean (ou Abdias)",
+    "explanation": "En grec original, 3 Jean est le livre le plus court avec environ 219 mots. Dans l'AT, c'est le livre du prophète Abdias (21 versets) qui est le plus court.",
+    "reference": "3 Jn / Abd"
+  },
+  {
+    "id": "cg_22",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel est le chapitre le plus long et le plus étendu de toute la Bible ?",
+    "options": [
+      "Le Psaume 119 (176 versets)",
+      "Le Psaume 117",
+      "Matthieu 24",
+      "Genèse 1"
+    ],
+    "answer": "Le Psaume 119 (176 versets)",
+    "explanation": "Le Psaume 119, structuré comme un acrostiche alphabétique célébrant la Parole de Dieu, compte 176 versets.",
+    "reference": "Ps 119"
+  },
+  {
+    "id": "cg_23",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel est le chapitre le plus court de toute la Bible ?",
+    "options": [
+      "Le Psaume 117 (2 versets)",
+      "Le Psaume 118",
+      "1 Thessaloniciens 5",
+      "2 Jean 1"
+    ],
+    "answer": "Le Psaume 117 (2 versets)",
+    "explanation": "Le Psaume 117 ne compte que deux versets invitant toutes les nations à louer l'Éternel.",
+    "reference": "Ps 117"
+  },
+  {
+    "id": "cg_24",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Combien de langues principales ont été utilisées à l'origine pour rédiger les textes bibliques ?",
+    "options": [
+      "Trois : hébreu, araméen et grec",
+      "Deux : hébreu et grec",
+      "Quatre : hébreu, grec, latin et copte",
+      "Une seule : l'hébreu ancien"
+    ],
+    "answer": "Trois : hébreu, araméen et grec",
+    "explanation": "L'Ancien Testament a été écrit en hébreu (avec quelques passages en araméen), tandis que le Nouveau Testament a été rédigé en grec koinè.",
+    "reference": "Histoire biblique"
+  },
+  {
+    "id": "cg_25",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel apôtre a écrit le plus grand nombre de lettres (épîtres) insérées dans le Nouveau Testament ?",
+    "options": [
+      "Paul (13 ou 14 épîtres)",
+      "Jean",
+      "Pierre",
+      "Jacques"
+    ],
+    "answer": "Paul (13 ou 14 épîtres)",
+    "explanation": "L'apôtre Paul is l'auteur de 13 épîtres qui lui sont explicitement attribuées (14 si l'on y inclut l'Épître aux Hébreux).",
+    "reference": "NT"
+  },
+  {
+    "id": "cg_26",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel est le nom d'origine hébraïque de Jésus ?",
+    "options": [
+      "Yeshua (Josué)",
+      "Emmanuel",
+      "Yitzhak",
+      "Messiah"
+    ],
+    "answer": "Yeshua (Josué)",
+    "explanation": "Le nom de Jésus vient de l'hébreu Yeshua, qui signifie 'L'Éternel sauve' ou 'Sauveur', équivalent du nom Josué.",
+    "reference": "Mt 1:21"
+  },
+  {
+    "id": "cg_27",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel prophète de l'Ancien Testament a été enlevé au ciel dans un tourbillon par un char de feu ?",
+    "options": [
+      "Élie",
+      "Élisée",
+      "Énoch",
+      "Moïse"
+    ],
+    "answer": "Élie",
+    "explanation": "Le prophète Élie a été enlevé au ciel sous les yeux de son disciple Élisée dans un char de feu tiré par des chevaux de feu.",
+    "reference": "2 Rois 2:11"
+  },
+  {
+    "id": "cg_28",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Pendant combien de temps Jésus a-t-il jeûné dans le désert avant d'être tenté par le diable ?",
+    "options": [
+      "40 jours et 40 nuits",
+      "7 jours et 7 nuits",
+      "12 jours et 12 nuits",
+      "3 jours et 3 nuits"
+    ],
+    "answer": "40 jours et 40 nuits",
+    "explanation": "Jésus a jeûné quarante jours et quarante nuits dans le désert de Judée après son baptême.",
+    "reference": "Mt 4:2"
+  },
+  {
+    "id": "cg_29",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel personnage biblique détient le record de la plus longue vie mentionnée dans les généalogies ?",
+    "options": [
+      "Mathusalem (969 ans)",
+      "Adam",
+      "Noé",
+      "Jared"
+    ],
+    "answer": "Mathusalem (969 ans)",
+    "explanation": "Mathusalem, grand-père de Noé, est décédé à l'âge exceptionnel de 969 ans juste avant le Déluge.",
+    "reference": "Gn 5:27"
+  },
+  {
+    "id": "cg_30",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quels sont les quatre récits biographiques (Évangiles) qui ouvrent le Nouveau Testament ?",
+    "options": [
+      "Matthieu, Marc, Luc, Jean",
+      "Pierre, Paul, Jacques, Jean",
+      "Actes, Romains, Corinthiens, Galates",
+      "Genèse, Exode, Lévitique, Nombres"
+    ],
+    "answer": "Matthieu, Marc, Luc, Jean",
+    "explanation": "Les quatre Évangiles canoniques qui racontent la vie, la mort et la résurrection de Jésus sont Matthieu, Marc, Luc et Jean.",
+    "reference": "NT"
+  },
+  {
+    "id": "cg_31",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quelle était la profession de l'apôtre Matthieu (Lévi) avant son appel par Jésus ?",
+    "options": [
+      "Percepteur d'impôts (publicain)",
+      "Pêcheur",
+      "Charpentier",
+      "Tisseur de tentes"
+    ],
+    "answer": "Percepteur d'impôts (publicain)",
+    "explanation": "Matthieu était collecteur de taxes à Capernaüm pour le compte de l'occupant romain avant de tout quitter pour suivre Jésus.",
+    "reference": "Mt 9:9"
+  },
+  {
+    "id": "cg_32",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quelle femme de Jéricho a caché chez elle les deux espions hébreux envoyés par Josué ?",
+    "options": [
+      "Rahab",
+      "Ruth",
+      "Déborah",
+      "Jézabel"
+    ],
+    "answer": "Rahab",
+    "explanation": "La prostituée Rahab a caché les espions envoyés par Josué et a ainsi préservé sa vie et celle de sa famille lors de la chute de Jéricho.",
+    "reference": "Jos 2:1"
+  },
+  {
+    "id": "cg_33",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel roi d'Israël a édifié le premier Temple en pierre dédié à l'Éternel à Jérusalem ?",
+    "options": [
+      "Salomon",
+      "David",
+      "Saül",
+      "Josias"
+    ],
+    "answer": "Salomon",
+    "explanation": "Bien que David en ait conçu le projet et réuni les matériaux, c'est son fils Salomon qui a bâti le Temple de Jérusalem.",
+    "reference": "1 Rois 6:1"
+  },
+  {
+    "id": "cg_34",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quelle tribu d'Israël était exclusivement mise à part pour le service du Temple et le sacerdoce ?",
+    "options": [
+      "La tribu de Lévi",
+      "La tribu de Juda",
+      "La tribu de Benjamin",
+      "La tribu de Joseph"
+    ],
+    "answer": "La tribu de Lévi",
+    "explanation": "Les Lévites ne possédaient pas de territoire propre car leur héritage était le service de l'Éternel au Tabernacle puis au Temple.",
+    "reference": "Nb 3:5–10"
+  },
+  {
+    "id": "cg_35",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel livre se trouve exactement au milieu de la plupart des Bibles imprimées ?",
+    "options": [
+      "Le livre des Psaumes",
+      "Le livre des Proverbes",
+      "L'Évangile de Marc",
+      "Le livre d'Isaïe"
+    ],
+    "answer": "Le livre des Psaumes",
+    "explanation": "Du fait de sa position centrale et de sa taille, le livre des Psaumes se trouve généralement au milieu physique de la Bible.",
+    "reference": "Bible"
+  },
+  {
+    "id": "cg_36",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Dans quel discours célèbre de Jésus se trouvent les 'Béatitudes' ('Heureux les pauvres en esprit...') ?",
+    "options": [
+      "Le Sermon sur la montagne (Matthieu 5)",
+      "Le Discours sur le mont des Oliviers",
+      "L'entretien avec Nicodème",
+      "La prière sacerdotale (Jean 17)"
+    ],
+    "answer": "Le Sermon sur la montagne (Matthieu 5)",
+    "explanation": "Jésus énonce les Béatitudes au début de son Sermon sur la montagne rapporté dans Matthieu 5 et sous une forme plus courte dans Luc 6.",
+    "reference": "Mt 5:3–12"
+  },
+  {
+    "id": "cg_37",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel animal a parlé de manière surnaturelle au devin Balaam pour l'avertir du danger ?",
+    "options": [
+      "Son ânesse",
+      "Un serpent",
+      "Un lion",
+      "Un aigle"
+    ],
+    "answer": "Son ânesse",
+    "explanation": "L'Éternel ouvrit la bouche de l'ânesse de Balaam pour lui reprocher de l'avoir frappée alors qu'elle évitait l'ange de l'Éternel.",
+    "reference": "Nb 22:28"
+  },
+  {
+    "id": "cg_38",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Combien de fils a eu Jacob, dont descendent directement les douze tribus d'Israël ?",
+    "options": [
+      "12 fils",
+      "10 fils",
+      "7 fils",
+      "14 fils"
+    ],
+    "answer": "12 fils",
+    "explanation": "Jacob a engendré 12 fils avec Léa, Rachel, Bilha et Zilpa. Leurs descendants ont formé les 12 tribus d'Israël.",
+    "reference": "Gn 35:22–26"
+  },
+  {
+    "id": "cg_39",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Entre quelles années Jérôme de Stridon a-t-il traduit la Bible en latin, version connue sous le nom de 'Vulgate' ?",
+    "options": [
+      "Vers 382–405 après J.-C.",
+      "Vers 100–125 après J.-C.",
+      "Vers 700–725 après J.-C.",
+      "Vers 550–575 après J.-C."
+    ],
+    "answer": "Vers 382–405 après J.-C.",
+    "explanation": "Jérôme a traduit la Bible en latin à la demande du pape Damase Ier à partir de 382 jusqu'en 405 après J.-C.",
+    "reference": "Histoire de la Bible"
+  },
+  {
+    "id": "cg_40",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel est le verset considéré par beaucoup comme le centre géographique et mathématique de la Bible ?",
+    "options": [
+      "Psaume 118:8",
+      "Jean 3:16",
+      "Psaume 23:1",
+      "Genèse 1:1"
+    ],
+    "answer": "Psaume 118:8",
+    "explanation": "Le Psaume 118:8 ('Mieux vaut chercher un refuge en l'Éternel que de se confier à l'homme') est statistiquement le verset central de la Bible.",
+    "reference": "Ps 118:8"
+  },
+  {
+    "id": "cg_41",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Combien de fois environ le mot 'amour' apparaît-il dans la Bible (selon les traductions courantes) ?",
+    "options": [
+      "Environ 500 fois",
+      "Environ 100 fois",
+      "Environ 1000 fois",
+      "Environ 250 fois"
+    ],
+    "answer": "Environ 500 fois",
+    "explanation": "Selon les traductions et les termes originaux (ahava, agape), le mot amour apparaît approximativement 500 fois dans les Écritures.",
+    "reference": "Lexique biblique"
+  },
+  {
+    "id": "cg_42",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel verset du Nouveau Testament mentionne explicitement et ensemble les trois personnes de la Trinité lors de l'envoi en mission ?",
+    "options": [
+      "Matthieu 28:19",
+      "Jean 14:6",
+      "Romains 1:7",
+      "Éphésiens 4:4"
+    ],
+    "answer": "Matthieu 28:19",
+    "explanation": "Matthieu 28:19 mentionne le baptême 'au nom du Père, du Fils et du Saint-Esprit'. L'autre verset classique (la virgule johannique en 1 Jean 5:7) ne figure pas dans tous les manuscrits anciens.",
+    "reference": "Mt 28:19"
+  },
+  {
+    "id": "cg_43",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel souverain de l'Empire néo-babylonien a fait ériger la statue d'or géante et jeter les compagnons de Daniel dans la fournaise ?",
+    "options": [
+      "Nabuchodonosor II",
+      "Belshatsar",
+      "Darius le Mède",
+      "Cyrus le Grand"
+    ],
+    "answer": "Nabuchodonosor II",
+    "explanation": "C'est Nabuchodonosor II, le conquérant de Jérusalem, qui fit jeter Shadrac, Méshac et Abed-Nego dans la fournaise ardente.",
+    "reference": "Dan 1:1"
+  },
+  {
+    "id": "cg_44",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Combien de livres (dits deutérocanoniques) la Bible catholique contient-elle en plus de la Bible protestante ?",
+    "options": [
+      "7 livres",
+      "12 livres",
+      "5 livres",
+      "10 livres"
+    ],
+    "answer": "7 livres",
+    "explanation": "La Bible catholique intègre 7 livres deutérocanoniques (Tobie, Judith, 1 et 2 Maccabées, Sagesse, Ecclésiastique, Baruch) non reconnus dans le canon hébreu et protestant.",
+    "reference": "Canon catholique"
+  },
+  {
+    "id": "cg_45",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Dans quel livre prophétique de l'Ancien Testament se trouve la célèbre prophétie messianique des '70 semaines' ?",
+    "options": [
+      "Le livre de Daniel",
+      "Le livre d'Isaïe",
+      "Le livre d'Ézéchiel",
+      "Le livre de Zacharie"
+    ],
+    "answer": "Le livre de Daniel",
+    "explanation": "La prophétie des 70 semaines (Daniel 9:24-27) annonce le temps fixé pour la venue du Messie et l'expiation de l'iniquité.",
+    "reference": "Dn 9"
+  },
+  {
+    "id": "cg_46",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel était le nom originel de l'apôtre Paul, sous lequel il persécutait l'Église naissante ?",
+    "options": [
+      "Saul de Tarse",
+      "Simon de Cyrène",
+      "Barnabas",
+      "Apollos"
+    ],
+    "answer": "Saul de Tarse",
+    "explanation": "Originaire de Tarse en Cilicie, il portait le nom juif de Saul avant de prendre le nom romain de Paul dans ses voyages missionnaires.",
+    "reference": "Actes 9:11"
+  },
+  {
+    "id": "cg_47",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "En quelle langue a été rédigée la majeure partie de l'Ancien Testament ?",
+    "options": [
+      "En hébreu (avec quelques chapitres en araméen)",
+      "En araméen",
+      "En grec",
+      "En latin"
+    ],
+    "answer": "En hébreu (avec quelques chapitres en araméen)",
+    "explanation": "L'Ancien Testament a été rédigé en hébreu, à l'exception de quelques chapitres d'Esdras et de Daniel écrits en araméen.",
+    "reference": "Canon AT"
+  },
+  {
+    "id": "cg_48",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel prophète a reçu l'ordre divin d'épouser Gomer, une prostituée, comme symbole de l'infidélité d'Israël envers Dieu ?",
+    "options": [
+      "Osée",
+      "Amos",
+      "Michée",
+      "Malachie"
+    ],
+    "answer": "Osée",
+    "explanation": "L'Éternel dit à Osée d'épouser Gomer pour illustrer la relation douloureuse de Dieu avec un peuple spirituellement adultère.",
+    "reference": "Os 1:2"
+  },
+  {
+    "id": "cg_49",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel est le seul Évangile synoptique qui s'ouvre directement sans aucun récit d'enfance ou généalogie de Jésus ?",
+    "options": [
+      "L'Évangile de Marc",
+      "L'Évangile de Matthieu",
+      "L'Évangile de Luc",
+      "L'Évangile de Jean"
+    ],
+    "answer": "L'Évangile de Marc",
+    "explanation": "L'Évangile de Marc débute directement par le ministère de Jean-Baptiste et le baptême de Jésus adulte.",
+    "reference": "Mc 1:1"
+  },
+  {
+    "id": "cg_50",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Combien d'années dura l'exil du peuple d'Israël à Babylone ?",
+    "options": [
+      "70 ans",
+      "50 ans",
+      "100 ans",
+      "40 ans"
+    ],
+    "answer": "70 ans",
+    "explanation": "Jérémie a prophétisé que la dévastation de Jérusalem et la captivité à Babylone dureraient 70 ans, ce que Daniel a compris en étudiant les livres.",
+    "reference": "Jér 25:11"
+  },
+  {
+    "id": "cg_51",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel est le nom de la traduction grecque de l'Ancien Testament réalisée à Alexandrie par 72 savants juifs ?",
+    "options": [
+      "La Septante (LXX)",
+      "La Vulgate",
+      "La Peshitta",
+      "Le Pentateuque Samaritain"
+    ],
+    "answer": "La Septante (LXX)",
+    "explanation": "La Septante, ainsi nommée d'après la légende des 72 traducteurs, est la traduction grecque de la Bible hébraïque effectuée au IIIe siècle av. J.-C.",
+    "reference": "Histoire biblique"
+  },
+  {
+    "id": "cg_52",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Combien de chapitres compte le livre prophétique d'Ésaïe (Isaïe) ?",
+    "options": [
+      "66 chapitres",
+      "50 chapitres",
+      "40 chapitres",
+      "150 chapitres"
+    ],
+    "answer": "66 chapitres",
+    "explanation": "Le livre d'Ésaïe compte 66 chapitres, une structure souvent mise en parallèle avec les 66 livres de la Bible (39 sur le jugement et 27 sur la consolation).",
+    "reference": "Ésaïe"
+  },
+  {
+    "id": "cg_53",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel apôtre a écrit l'Évangile et les Actes des Apôtres ?",
+    "options": [
+      "Luc",
+      "Marc",
+      "Jean",
+      "Matthieu"
+    ],
+    "answer": "Luc",
+    "explanation": "Luc est le médecin bien-aimé qui a rédigé son Évangile et le livre des Actes comme une œuvre historique en deux volumes dédiée à Théophile.",
+    "reference": "Lc 1:3 ; Actes 1:1"
+  },
+  {
+    "id": "cg_54",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel est le nom du grand-père maternel du roi David selon les généalogies ?",
+    "options": [
+      "Boaz (arrière-grand-père) et Jesse / Isaï (père)",
+      "Obed (arrière-grand-père) et Salomon (père)",
+      "Salmon (arrière-grand-père) et Jesse / Isaï (père)",
+      "Boaz (arrière-grand-père) et Obed (père)"
+    ],
+    "answer": "Boaz (arrière-grand-père) et Jesse / Isaï (père)",
+    "explanation": "La généalogie finale de Ruth indique : Boaz engendra Obed, Obed engendra Jesse (Isaï), et Jesse engendra David.",
+    "reference": "Rt 4:17–22"
+  },
+  {
+    "id": "cg_55",
+    "category": "Culture Générale",
+    "subcategory": "Culture Biblique",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Dans quel ordre canonique classique les quatre Évangiles apparaissent-ils dans le Nouveau Testament ?",
+    "options": [
+      "Matthieu, Marc, Luc, Jean",
+      "Matthieu, Luc, Marc, Jean",
+      "Marc, Matthieu, Luc, Jean",
+      "Jean, Matthieu, Marc, Luc"
+    ],
+    "answer": "Matthieu, Marc, Luc, Jean",
+    "explanation": "L'ordre traditionnel et canonique place Matthieu en premier, suivi de Marc (le plus court), Luc (le plus détaillé historiquement) et Jean (l'Évangile spirituel/théologique).",
+    "reference": "Canon NT"
+  },
+  {
+    "id": "cg_56",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Que célèbre la fête chrétienne de la Pentecôte ?",
+    "options": [
+      "La descente du Saint-Esprit sur les disciples (50 jours après Pâques)",
+      "L'Ascension de Jésus au ciel",
+      "La résurrection de Jésus-Christ",
+      "La naissance de Jésus à Bethléhem"
+    ],
+    "answer": "La descente du Saint-Esprit sur les disciples (50 jours après Pâques)",
+    "explanation": "La Pentecôte commémore le don de l'Esprit Saint aux apôtres réunis à Jérusalem, marquant la naissance de l'Église chrétienne.",
+    "reference": "Actes 2"
+  },
+  {
+    "id": "cg_57",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Que signifie étymologiquement le mot 'Évangile' issu du grec ancien ?",
+    "options": [
+      "Bonne nouvelle",
+      "Parole sainte",
+      "Loi de Dieu",
+      "Récit de vie"
+    ],
+    "answer": "Bonne nouvelle",
+    "explanation": "Le mot vient du grec euangélion, qui signifie littéralement 'bonne nouvelle' (portée par un messager).",
+    "reference": "Mc 1:1"
+  },
+  {
+    "id": "cg_58",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Que signifie le titre honorifique de 'Christ' (ou Messie en hébreu) ?",
+    "options": [
+      "L'Oint (sacré par l'onction de Dieu)",
+      "Le Sauveur",
+      "Le Fils unique",
+      "Le Maître"
+    ],
+    "answer": "L'Oint (sacré par l'onction de Dieu)",
+    "explanation": "Christos en grec et Mashiah en hébreu signifient tous deux 'l'oint', c'est-à-dire celui qui a reçu l'onction royale ou sacerdotale de Dieu.",
+    "reference": "Jn 1:41"
+  },
+  {
+    "id": "cg_59",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel est le sens spirituel fondamental du sacrement du baptême d'eau chez les chrétiens ?",
+    "options": [
+      "Le symbole de la mort au péché et de la nouvelle naissance en Christ",
+      "Une simple tradition d'accueil des enfants",
+      "La purification corporelle physique",
+      "La confirmation d'un engagement professionnel"
+    ],
+    "answer": "Le symbole de la mort au péché et de la nouvelle naissance en Christ",
+    "explanation": "Le baptême (par immersion ou aspersion) symbolise le fait d'être enseveli avec Christ dans sa mort et de ressusciter avec lui à une vie nouvelle.",
+    "reference": "Rm 6:3–4"
+  },
+  {
+    "id": "cg_60",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quels sont les deux seuls sacrements officiellement reconnus et pratiqués par la majorité des Églises protestantes ?",
+    "options": [
+      "Le baptême et la Sainte-Cène (Communion)",
+      "Le baptême et le mariage",
+      "La confirmation et l'ordination",
+      "La pénitence et l'extrême-onction"
+    ],
+    "answer": "Le baptême et la Sainte-Cène (Communion)",
+    "explanation": "Les protestants ne reconnaissent comme sacrements que les rites institués directement par Jésus-Christ dans les Évangiles : le baptême et la Sainte-Cène.",
+    "reference": "Tradition protestante"
+  },
+  {
+    "id": "cg_61",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel événement capital de la foi chrétienne célèbre-t-on le jour de Pâques ?",
+    "options": [
+      "La résurrection de Jésus-Christ d'entre les morts",
+      "Le dernier repas du Jeudi Saint",
+      "La crucifixion le Vendredi Saint",
+      "L'effusion du Saint-Esprit"
+    ],
+    "answer": "La résurrection de Jésus-Christ d'entre les morts",
+    "explanation": "La fête de Pâques est la solennité centrale du christianisme, célébrant la victoire de Jésus sur la mort et le péché.",
+    "reference": "1 Cor 15:3–4"
+  },
+  {
+    "id": "cg_62",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Que signifie le cri de louange d'origine hébraïque 'Alléluia' ?",
+    "options": [
+      "Louez l'Éternel (Louez Dieu)",
+      "Sauve-nous, je te prie",
+      "Que ta volonté soit faite",
+      "Gloire au plus haut des cieux"
+    ],
+    "answer": "Louez l'Éternel (Louez Dieu)",
+    "explanation": "Alléluia provient de l'hébreu Hallelou-Yah, qui signifie littéralement 'Louez Yah (l'Éternel)'.",
+    "reference": "Ps 106:1"
+  },
+  {
+    "id": "cg_63",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Qu'est-ce que le dogme de la Trinité dans la théologie chrétienne ?",
+    "options": [
+      "Un seul Dieu en trois personnes distinctes : Père, Fils et Saint-Esprit",
+      "La croyance en trois dieux différents",
+      "Les trois étapes de la vie de Jésus",
+      "Les trois divisions de l'Ancien Testament"
+    ],
+    "answer": "Un seul Dieu en trois personnes distinctes : Père, Fils et Saint-Esprit",
+    "explanation": "La Trinité affirme l'unité de Dieu dans la communion de trois personnes divines coéternelles et consubstantielles.",
+    "reference": "Mt 28:19"
+  },
+  {
+    "id": "cg_64",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Que signifie le mot d'affirmation hébreu 'Amen' utilisé à la fin des prières ?",
+    "options": [
+      "Ainsi soit-il / En vérité / Qu'il en soit ainsi",
+      "Que Dieu nous entende",
+      "Pardonne-nous nos offenses",
+      "Merci Seigneur"
+    ],
+    "answer": "Ainsi soit-il / En vérité / Qu'il en soit ainsi",
+    "explanation": "Amen vient d'une racine hébraïque signifiant 'solidité', 'fidélité'. Il exprime l'approbation, la foi et l'acquiescement aux paroles prononcées.",
+    "reference": "Usage biblique"
+  },
+  {
+    "id": "cg_65",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Que signifie étymologiquement le terme 'Apôtre' employé dans le Nouveau Testament ?",
+    "options": [
+      "Envoyé (missionnaire)",
+      "Disciple attentif",
+      "Écrivain sacré",
+      "Ancien de l'église"
+    ],
+    "answer": "Envoyé (missionnaire)",
+    "explanation": "Du grec apostolos, le terme désigne une personne envoyée au loin pour accomplir une mission et propager un message.",
+    "reference": "Lc 6:13"
+  },
+  {
+    "id": "cg_66",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Que signifie le titre de 'Prophète' dans le contexte biblique ?",
+    "options": [
+      "Celui qui parle au nom de Dieu / un porte-parole divin",
+      "Celui qui prédit uniquement la fin du monde",
+      "Un magicien de cour",
+      "Un historien des rois"
+    ],
+    "answer": "Celui qui parle au nom de Dieu / un porte-parole divin",
+    "explanation": "Le prophète (prophetes en grec, navi en hébreu) est suscité par Dieu pour transmettre fidèlement ses paroles, ses avertissements et sa volonté.",
+    "reference": "Dt 18:18"
+  },
+  {
+    "id": "cg_67",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quelle est la prière modèle enseignée par Jésus à ses disciples dans les Évangiles ?",
+    "options": [
+      "Le Notre Père (La prière du Seigneur)",
+      "Je vous salue Marie",
+      "Le Credo des Apôtres",
+      "Le Psaume de repentance"
+    ],
+    "answer": "Le Notre Père (La prière du Seigneur)",
+    "explanation": "Jésus a donné le 'Notre Père' (Pater Noster) comme modèle de prière équilibrée, abordant la gloire de Dieu et les besoins humains.",
+    "reference": "Mt 6:9–13"
+  },
+  {
+    "id": "cg_68",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel est le symbole universellement reconnu de la foi et de la communauté chrétienne ?",
+    "options": [
+      "La croix",
+      "L'étoile de David",
+      "Le croissant",
+      "La colombe de la paix"
+    ],
+    "answer": "La croix",
+    "explanation": "La croix représente le sacrifice salvateur de Jésus-Christ et sa résurrection, symbole de l'amour de Dieu pour l'humanité.",
+    "reference": "Tradition chrétienne"
+  },
+  {
+    "id": "cg_69",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Combien d'entités ou 'personnes' divines constituent la Trinité chrétienne ?",
+    "options": [
+      "Trois : Père, Fils et Saint-Esprit",
+      "Deux : Dieu le Père et Jésus le Fils",
+      "Une seule sans distinction",
+      "Quatre, incluant la Vierge Marie"
+    ],
+    "answer": "Trois : Père, Fils et Saint-Esprit",
+    "explanation": "Le mystère chrétien de la Trinité affirme qu'il y a un seul Dieu manifesté en trois personnes divines distinctes.",
+    "reference": "Mt 28:19"
+  },
+  {
+    "id": "cg_70",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Que commémore le mémorial de la Sainte-Cène (ou Communion/Eucharistie) ?",
+    "options": [
+      "Le dernier repas de Jésus avec ses disciples / sa mort et son sang versé",
+      "Le miracle des noces de Cana",
+      "La multiplication des pains",
+      "Le sermon sur la montagne"
+    ],
+    "answer": "Le dernier repas de Jésus avec ses disciples / sa mort et son sang versé",
+    "explanation": "La Sainte-Cène obéit à l'injonction de Jésus 'Faites ceci en mémoire de moi', symbolisant son corps brisé et son sang versé sur la croix.",
+    "reference": "1 Cor 11:24–26"
+  },
+  {
+    "id": "cg_71",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel moine et théologien allemand a initié la Réforme protestante en Europe au XVIe siècle ?",
+    "options": [
+      "Martin Luther",
+      "Jean Calvin",
+      "Ulrich Zwingli",
+      "Jean Hus"
+    ],
+    "answer": "Martin Luther",
+    "explanation": "Martin Luther a déclenché la Réforme protestante en publiant ses critiques contre les abus de l'Église romaine de son époque.",
+    "reference": "Histoire de l'Église"
+  },
+  {
+    "id": "cg_72",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel célèbre texte de contestation théologique Martin Luther a-t-il affiché sur la porte de l'église de Wittemberg en 1517 ?",
+    "options": [
+      "Les 95 thèses (contre le commerce des indulgences)",
+      "L'Institution de la religion chrétienne",
+      "La Confession d'Augsbourg",
+      "Le Traité sur la liberté chrétienne"
+    ],
+    "answer": "Les 95 thèses (contre le commerce des indulgences)",
+    "explanation": "Les 95 thèses de Luther dénonçaient principalement le trafic des indulgences par lesquelles l'Église promettait le rachat des peines du purgatoire contre de l'argent.",
+    "reference": "Histoire de l'Église"
+  },
+  {
+    "id": "cg_73",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quelle est la signification d'origine grecque du mot 'Église' (ekklesia) ?",
+    "options": [
+      "L'assemblée de ceux qui sont appelés hors de chez eux (convoqués)",
+      "La maison sainte de pierre",
+      "Le temple sacré du Seigneur",
+      "La hiérarchie des prêtres"
+    ],
+    "answer": "L'assemblée de ceux qui sont appelés hors de chez eux (convoqués)",
+    "explanation": "Ekklesia vient de ek-kaleo (appeler hors de). Il désigne à l'origine l'assemblée des citoyens grecs, puis l'assemblée des croyants convoqués par Dieu.",
+    "reference": "Étymologie"
+  },
+  {
+    "id": "cg_74",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Qu'est-ce que le mouvement protestant des 'Assemblées de Dieu' (AD) ?",
+    "options": [
+      "Un mouvement évangélique de théologie pentecôtiste fondé en 1914 aux États-Unis",
+      "Une secte médiévale disparue",
+      "Un ordre monastique catholique",
+      "Une branche de l'Église orthodoxe"
+    ],
+    "answer": "Un mouvement évangélique de théologie pentecôtiste fondé en 1914 aux États-Unis",
+    "explanation": "Les Assemblées de Dieu forment la plus grande dénomination pentecôtiste mondiale, née lors d'un rassemblement de pasteurs à Hot Springs en 1914.",
+    "reference": "Histoire AD"
+  },
+  {
+    "id": "cg_75",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Dans quelle ville et dans quel pays les Assemblées de Dieu ont-elles été fondées officiellement en avril 1914 ?",
+    "options": [
+      "Hot Springs, Arkansas (États-Unis)",
+      "Los Angeles, Californie (États-Unis)",
+      "Londres (Royaume-Uni)",
+      "Genève (Suisse)"
+    ],
+    "answer": "Hot Springs, Arkansas (États-Unis)",
+    "explanation": "C'est lors du premier Conseil général des AD à Hot Springs, en Arkansas, que le mouvement s'est structuré formellement.",
+    "reference": "Histoire AD"
+  },
+  {
+    "id": "cg_76",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Dans le contexte des Assemblées de Dieu en Afrique, que signifie le sigle 'NJADAC' ?",
+    "options": [
+      "Nuit des Jeunes Assemblées de Dieu en Afrique Centrale",
+      "Nouveau Jour pour l'Adoration Chrétienne",
+      "Nouveau Journal d'Apologétique Chrétienne",
+      "National Jeunesse Assemblées de Dieu d'Afrique Centrale"
+    ],
+    "answer": "Nuit des Jeunes Assemblées de Dieu en Afrique Centrale",
+    "explanation": "La NJADAC is un rassemblement spirituel majeur réunissant la jeunesse des Assemblées de Dieu de la sous-région d'Afrique Centrale.",
+    "reference": "NJADAC"
+  },
+  {
+    "id": "cg_77",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Comment appelle-t-on le don spirituel décrit par Paul qui permet de s'exprimer dans des langues inintelligibles ou célestes ?",
+    "options": [
+      "Le don des langues (glossolalie)",
+      "Le don de prophétie",
+      "Le don de discernement",
+      "Le don de double vue"
+    ],
+    "answer": "Le don des langues (glossolalie)",
+    "explanation": "La glossolalie (parler en langues) is un don de l'Esprit consistant à prier ou parler dans une langue inconnue de celui qui l'exprime.",
+    "reference": "1 Cor 12:10"
+  },
+  {
+    "id": "cg_78",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel réformateur français du XVIe siècle a développé le calvinisme et écrit la somme théologique de la Réforme ?",
+    "options": [
+      "Jean Calvin",
+      "Théodore de Bèze",
+      "Guillaume Farel",
+      "Jacques Lefèvre d'Étaples"
+    ],
+    "answer": "Jean Calvin",
+    "explanation": "Jean Calvin is le grand organisateur et théologien de la Réforme réformée (presbytérienne/calviniste) avec son ouvrage phare publié en 1536.",
+    "reference": "Histoire de l'Église"
+  },
+  {
+    "id": "cg_79",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Dans quelle ville suisse Jean Calvin a-t-il passé la majeure partie de sa vie à structurer la Réforme ?",
+    "options": [
+      "Genève",
+      "Zurich",
+      "Bâle",
+      "Lausanne"
+    ],
+    "answer": "Genève",
+    "explanation": "Calvin a transformé Genève en une 'Rome protestante', y établissant une académie réputée et y influençant fortement la vie politique et religieuse.",
+    "reference": "Histoire de l'Église"
+  },
+  {
+    "id": "cg_80",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel nom porte la traduction latine officielle de la Bible effectuée par saint Jérôme au IVe siècle ?",
+    "options": [
+      "La Vulgate",
+      "La Septante",
+      "La Vetus Latina",
+      "Le Code de théologie"
+    ],
+    "answer": "La Vulgate",
+    "explanation": "Le nom Vulgata signifie 'rendue commune, accessible au peuple', car le latin était alors la langue commune de l'Empire d'Occident.",
+    "reference": "Histoire de la Bible"
+  },
+  {
+    "id": "cg_81",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel missionnaire chrétien a évangélisé une grande partie de l'Afrique au XIXe siècle ?",
+    "options": [
+      "David Livingstone",
+      "William Carey",
+      "Hudson Taylor",
+      "Adoniram Judson"
+    ],
+    "answer": "David Livingstone",
+    "explanation": "David Livingstone a combiné l'exploration géographique (découverte des chutes Victoria) avec l'action missionnaire et la lutte contre l'esclavage en Afrique.",
+    "reference": "Histoire des missions"
+  },
+  {
+    "id": "cg_82",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Comment appelle-t-on la discipline intellectuelle d'étude méthodique et rationnelle de Dieu et des vérités de la foi ?",
+    "options": [
+      "La théologie",
+      "La philosophie",
+      "La dogmatique",
+      "L'apologétique"
+    ],
+    "answer": "La théologie",
+    "explanation": "La théologie (du grec theos, Dieu, et logos, parole/discours) is la science qui étudie la révélation de Dieu et la foi chrétienne.",
+    "reference": "Définition"
+  },
+  {
+    "id": "cg_83",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Combien de dons spirituels particuliers l'apôtre Paul énumère-t-il dans son catalogue de 1 Corinthiens 12 ?",
+    "options": [
+      "Neuf dons",
+      "Sept dons",
+      "Douze dons",
+      "Cinq dons"
+    ],
+    "answer": "Neuf dons",
+    "explanation": "Paul énumère 9 dons de l'Esprit : parole de sagesse, parole de connaissance, foi, dons de guérisons, miracles, prophétie, discernement des esprits, diverses langues, et interprétation des langues.",
+    "reference": "1 Cor 12:8–10"
+  },
+  {
+    "id": "cg_84",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel est le premier concile œcuménique de l'Église chrétienne ?",
+    "options": [
+      "Le Concile de Nicée (325 après J.-C.)",
+      "Le Concile de Constantinople",
+      "Le Concile d'Éphèse",
+      "Le Concile de Chalcédoine"
+    ],
+    "answer": "Le Concile de Nicée (325 après J.-C.)",
+    "explanation": "Convoqué par l'empereur Constantin Ier en 325, le premier concile de Nicée s'est réuni pour condamner l'arianisme et rédiger le symbole de foi.",
+    "reference": "Histoire de l'Église"
+  },
+  {
+    "id": "cg_85",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Qu'affirme de capital le Symbole (ou Credo) de Nicée au sujet de la nature de Jésus-Christ ?",
+    "options": [
+      "Qu'il est vrai Dieu et vrai homme, consubstantiel (de même nature) au Père",
+      "Qu'il est une créature céleste inférieure au Père",
+      "Qu'il n'avait qu'une apparence humaine sans corps physique",
+      "Qu'il est devenu divin uniquement après sa résurrection"
+    ],
+    "answer": "Qu'il est vrai Dieu et vrai homme, consubstantiel (de même nature) au Père",
+    "explanation": "Nicée a défini la divinité de Jésus contre l'arianisme en utilisant le mot grec 'homoousios' (de même substance/nature que le Père).",
+    "reference": "Credo de Nicée"
+  },
+  {
+    "id": "cg_86",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Que signifie 'évangélisation' ?",
+    "options": [
+      "L'annonce publique et le témoignage du message de salut en Jésus-Christ",
+      "La copie manuscrite des évangiles",
+      "L'étude scientifique des textes du Nouveau Testament",
+      "L'exercice de l'autorité pastorale sur une paroisse"
+    ],
+    "answer": "L'annonce publique et le témoignage du message de salut en Jésus-Christ",
+    "explanation": "L'évangélisation découle de la Grande Commission donnée par Jésus d'aller faire de toutes les nations des disciples.",
+    "reference": "Mc 16:15"
+  },
+  {
+    "id": "cg_87",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quelle est la différence entre un pasteur et un évangéliste ?",
+    "options": [
+      "Le pasteur paît et dirige une église locale ; l'évangéliste proclame la Parole à l'extérieur pour amener les âmes au Christ",
+      "L'évangéliste écrit les évangiles ; le pasteur s'occupe de l'administration",
+      "Le pasteur est ordonné par l'État ; l'évangéliste est un bénévole",
+      "Il n'y a absolument aucune différence pratique"
+    ],
+    "answer": "Le pasteur paît et dirige une église locale ; l'évangéliste proclame la Parole à l'extérieur pour amener les âmes au Christ",
+    "explanation": "L'évangéliste implante et convertit les cœurs en voyageant, tandis que le pasteur prend soin de la croissance spirituelle du troupeau déjà constitué.",
+    "reference": "Éph 4:11"
+  },
+  {
+    "id": "cg_88",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quels sont les cinq ministères cités en Éphésiens 4:11 ?",
+    "options": [
+      "Apôtres, prophètes, évangélistes, pasteurs, docteurs",
+      "Pape, cardinaux, archevêques, prêtres, diacres",
+      "Pasteurs, anciens, diacres, chantres, catéchistes",
+      "Apôtres, anciens, prophètes, surveillants, administrateurs"
+    ],
+    "answer": "Apôtres, prophètes, évangélistes, pasteurs, docteurs",
+    "explanation": "Les ministères d'Éphésiens 4:11 sont donnés par Christ pour le perfectionnement des saints et l'édification du corps de Christ.",
+    "reference": "Éph 4:11"
+  },
+  {
+    "id": "cg_89",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "En quelle année le christianisme est-il devenu religion officielle de l'Empire romain ?",
+    "options": [
+      "380 après J.-C. (sous Théodose Ier via l'Édit de Thessalonique)",
+      "313 après J.-C. (sous Constantin Ier via l'Édit de Milan)",
+      "325 après J.-C. (sous Constantin Ier lors de Nicée)",
+      "476 après J.-C. (lors de la chute de Rome)"
+    ],
+    "answer": "380 après J.-C. (sous Théodose Ier via l'Édit de Thessalonique)",
+    "explanation": "L'Édit de Thessalonique édicté par Théodose Ier en 380 a imposé la foi trinitaire à tout l'Empire, faisant du christianisme la religion d'État.",
+    "reference": "Histoire de l'Église"
+  },
+  {
+    "id": "cg_90",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel empereur romain a légalisé le christianisme avec l'Édit de Milan ?",
+    "options": [
+      "Constantin Ier (313 après J.-C.)",
+      "Néron",
+      "Dioclétien",
+      "Théodose Ier"
+    ],
+    "answer": "Constantin Ier (313 après J.-C.)",
+    "explanation": "Constantin Ier et son co-empereur Licinius ont promulgué l'Édit de Milan en 313, accordant la liberté religieuse à tous les citoyens romains.",
+    "reference": "Histoire de l'Église"
+  },
+  {
+    "id": "cg_91",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Que signifie le mot 'herméneutique' ?",
+    "options": [
+      "Les principes de méthode et d'art d'interpréter correctement les textes bibliques",
+      "L'étude des manuscrits anciens en hébreu",
+      "La critique textuelle de l'Évangile de Jean",
+      "L'art de prêcher depuis la chaire"
+    ],
+    "answer": "Les principes de méthode et d'art d'interpréter correctement les textes bibliques",
+    "explanation": "L'herméneutique fournit les clés d'interprétation pour comprendre le contexte historique, culturel et théologique d'un passage biblique.",
+    "reference": "Théologie"
+  },
+  {
+    "id": "cg_92",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel est le nom du mouvement spirituel né à la rue Azusa à Los Angeles en 1906 ?",
+    "options": [
+      "Le Réveil pentecôtiste / le mouvement pentecôtiste moderne",
+      "La fondation des Assemblées de Dieu",
+      "Le réveil gallois",
+      "La création du Conseil œcuménique des Églises"
+    ],
+    "answer": "Le Réveil pentecôtiste / le mouvement pentecôtiste moderne",
+    "explanation": "Le réveil dirigé par le prédicateur afro-américain William J. Seymour à Azusa Street a popularisé le baptême du Saint-Esprit accompagné du parler en langues.",
+    "reference": "Histoire AD"
+  },
+  {
+    "id": "cg_93",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Qui a dirigé le réveil de la rue Azusa Street en 1906 ?",
+    "options": [
+      "William J. Seymour",
+      "Charles Parham",
+      "Martin Luther King Sr.",
+      "Billy Graham"
+    ],
+    "answer": "William J. Seymour",
+    "explanation": "William Joseph Seymour a prêché la doctrine pentecôtiste dans une ancienne église méthodiste de la rue Azusa, initiant un réveil mondial majeur.",
+    "reference": "Histoire AD"
+  },
+  {
+    "id": "cg_94",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quelle est la différence entre la sanctification et la justification ?",
+    "options": [
+      "La justification est un acte instantané où Dieu déclare le croyant juste par la foi ; la sanctification est le processus progressif de transformation par le Saint-Esprit",
+      "La justification concerne uniquement l'Ancien Testament ; la sanctification le Nouveau Testament",
+      "La sanctification est accordée par les hommes ; la justification par les sacrements",
+      "Ce sont deux termes strictement identiques sans nuance"
+    ],
+    "answer": "La justification est un acte instantané où Dieu déclare le croyant juste par la foi ; la sanctification est le processus progressif de transformation par le Saint-Esprit",
+    "explanation": "La justification change la position juridique du croyant devant Dieu (non coupable), tandis que la sanctification purifie son caractère intérieur pour ressembler à Christ.",
+    "reference": "Rm 5:1 ; 1 Thes 5:23"
+  },
+  {
+    "id": "cg_95",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Qu'est-ce que l'eschatologie ?",
+    "options": [
+      "Les événements de la fin des temps (la mort, le jugement, le retour de Christ)",
+      "La doctrine du Saint-Esprit",
+      "L'histoire des premiers Pères de l'Église",
+      "La structure administrative des paroisses"
+    ],
+    "answer": "Les événements de la fin des temps (la mort, le jugement, le retour de Christ)",
+    "explanation": "L'eschatologie (du grec eschatos, dernier) étudie les prophéties bibliques relatives à la destinée ultime de l'humanité et de la création.",
+    "reference": "Théologie"
+  },
+  {
+    "id": "cg_96",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel auteur chrétien a écrit 'La Cité de Dieu' au Ve siècle ?",
+    "options": [
+      "Saint Augustin d'Hippone",
+      "Jean Chrysostome",
+      "Jérôme de Stridon",
+      "Ambroise de Milan"
+    ],
+    "answer": "Saint Augustin d'Hippone",
+    "explanation": "Saint Augustin a rédigé 'La Cité de Dieu' (De Civitate Dei) pour défendre le christianisme contre les païens qui l'accusaient d'avoir causé le déclin de Rome.",
+    "reference": "Patristique"
+  },
+  {
+    "id": "cg_97",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Qu'est-ce que la sotériologie ?",
+    "options": [
+      "La doctrine du salut en théologie chrétienne",
+      "L'ecclésiologie",
+      "La christologie",
+      "L'anthropologie"
+    ],
+    "answer": "La doctrine du salut en théologie chrétienne",
+    "explanation": "La sotériologie (du grec soterion, salut) étudie l'œuvre rédemptrice de Christ et la manière dont l'homme s'approprie le salut.",
+    "reference": "Théologie"
+  },
+  {
+    "id": "cg_98",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel est le nom du schisme qui a séparé l'Église d'Orient et d'Occident en 1054 ?",
+    "options": [
+      "Le Grand Schisme (schisme d'Orient)",
+      "Le Schisme d'Occident",
+      "La Réforme",
+      "Le concile de Trente"
+    ],
+    "answer": "Le Grand Schisme (schisme d'Orient)",
+    "explanation": "Le Grand Schisme de 1054 résulte de tensions doctrinales (le filioque), politiques et culturelles accumulées depuis des siècles entre Rome et Constantinople.",
+    "reference": "Histoire de l'Église"
+  },
+  {
+    "id": "cg_99",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Qu'est-ce que la pneumatologie ?",
+    "options": [
+      "La doctrine du Saint-Esprit en théologie chrétienne",
+      "La sotériologie",
+      "L'eschatologie",
+      "La patristique"
+    ],
+    "answer": "La doctrine du Saint-Esprit en théologie chrétienne",
+    "explanation": "La pneumatologie (du grec pneuma, esprit) examine la nature divine du Saint-Esprit et son action de régénération et de sanctification.",
+    "reference": "Théologie"
+  },
+  {
+    "id": "cg_100",
+    "category": "Culture Générale",
+    "subcategory": "Culture Chrétienne",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel réformateur anglais a traduit la Bible en anglais au XIVe siècle ?",
+    "options": [
+      "John Wycliffe",
+      "William Tyndale",
+      "Thomas Cranmer",
+      "John Knox"
+    ],
+    "answer": "John Wycliffe",
+    "explanation": "John Wycliffe et ses disciples (les Lollards) ont achevé la traduction manuscrite en anglais en 1382, ce qui lui valut la condamnation posthume de l'Église.",
+    "reference": "Histoire de la Bible"
+  }
+]

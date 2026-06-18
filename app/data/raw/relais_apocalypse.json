@@ -1,0 +1,932 @@
+[
+  {
+    "id": "relais_01",
+    "category": "Relais Apocalypse",
+    "title": "Les 7 Églises – Identités",
+    "questions": [
+      {
+        "member": "M1",
+        "question": "Quelle est la première église citée dans l'Apocalypse ?",
+        "answer": "Éphèse",
+        "reference": "Ap 2:1"
+      },
+      {
+        "member": "M2",
+        "question": "Quelle église reçoit le message « Sois fidèle jusqu'à la mort » ?",
+        "answer": "Smyrne",
+        "reference": "Ap 2:10"
+      },
+      {
+        "member": "M3",
+        "question": "Dans quelle ville se trouve le « trône de Satan » ?",
+        "answer": "Pergame",
+        "reference": "Ap 2:13"
+      },
+      {
+        "member": "M4",
+        "question": "Quelle est la dernière des 7 églises citée ?",
+        "answer": "Laodicée",
+        "reference": "Ap 3:14"
+      }
+    ]
+  },
+  {
+    "id": "relais_02",
+    "category": "Relais Apocalypse",
+    "title": "Les 7 Églises – Reproches",
+    "questions": [
+      {
+        "member": "M1",
+        "question": "Quelle Église a perdu son premier amour ?",
+        "answer": "Éphèse",
+        "reference": "Ap 2:4"
+      },
+      {
+        "member": "M2",
+        "question": "Quelle Église tolère la fausse prophétesse Jézabel ?",
+        "answer": "Thyatire",
+        "reference": "Ap 2:20"
+      },
+      {
+        "member": "M3",
+        "question": "Quelle Église est qualifiée de tiède ?",
+        "answer": "Laodicée",
+        "reference": "Ap 3:16"
+      },
+      {
+        "member": "M4",
+        "question": "Quelle Église a un nom qu'elle vit, mais elle est morte ?",
+        "answer": "Sardes",
+        "reference": "Ap 3:1"
+      }
+    ]
+  },
+  {
+    "id": "relais_03",
+    "category": "Relais Apocalypse",
+    "title": "Les 7 Églises – Récompenses",
+    "questions": [
+      {
+        "member": "M1",
+        "question": "Quelle récompense est promise au vainqueur d'Éphèse ?",
+        "answer": "Manger de l'arbre de vie",
+        "reference": "Ap 2:7"
+      },
+      {
+        "member": "M2",
+        "question": "Quelle récompense est promise au vainqueur de Smyrne ?",
+        "answer": "La couronne de vie",
+        "reference": "Ap 2:10"
+      },
+      {
+        "member": "M3",
+        "question": "Que reçoit le vainqueur de Pergame ?",
+        "answer": "La manne cachée et une pierre blanche avec un nom nouveau",
+        "reference": "Ap 2:17"
+      },
+      {
+        "member": "M4",
+        "question": "Que reçoit le vainqueur de Laodicée ?",
+        "answer": "S'asseoir avec Christ sur son trône",
+        "reference": "Ap 3:21"
+      }
+    ]
+  },
+  {
+    "id": "relais_04",
+    "category": "Relais Apocalypse",
+    "title": "La Vision du Trône (chapitre 4)",
+    "questions": [
+      {
+        "member": "M1",
+        "question": "Combien d'anciens sont assis autour du trône de Dieu ?",
+        "answer": "Vingt-quatre anciens",
+        "reference": "Ap 4:4"
+      },
+      {
+        "member": "M2",
+        "question": "Combien de lampes ardentes sont devant le trône de Dieu ?",
+        "answer": "Sept lampes ardentes",
+        "reference": "les 7 esprits de Dieu) (Ap 4:5"
+      },
+      {
+        "member": "M3",
+        "question": "À quoi ressemble le premier des quatre êtres vivants ?",
+        "answer": "À un lion",
+        "reference": "Ap 4:7"
+      },
+      {
+        "member": "M4",
+        "question": "Que font les 24 anciens en adorant Dieu ?",
+        "answer": "Ils jettent leurs couronnes devant le trône",
+        "reference": "Ap 4:10"
+      }
+    ]
+  },
+  {
+    "id": "relais_05",
+    "category": "Relais Apocalypse",
+    "title": "L'Agneau et les Sceaux",
+    "questions": [
+      {
+        "member": "M1",
+        "question": "Qui seul est digne d'ouvrir le livre aux sept sceaux ?",
+        "answer": "L'Agneau",
+        "reference": "Jésus-Christ) (Ap 5:5–6"
+      },
+      {
+        "member": "M2",
+        "question": "Combien de cornes et d'yeux a l'Agneau dans la vision ?",
+        "answer": "Sept cornes et sept yeux",
+        "reference": "Ap 5:6"
+      },
+      {
+        "member": "M3",
+        "question": "Combien de sceaux scellent le livre dans la vision ?",
+        "answer": "Sept sceaux",
+        "reference": "Ap 5:1"
+      },
+      {
+        "member": "M4",
+        "question": "Que tiennent les 24 anciens dans leurs mains lors de l'adoration de l'Agneau ?",
+        "answer": "Des harpes et des coupes d'or remplies de parfums",
+        "reference": "prières des saints) (Ap 5:8"
+      }
+    ]
+  },
+  {
+    "id": "relais_06",
+    "category": "Relais Apocalypse",
+    "title": "Les 4 Cavaliers (chapitre 6)",
+    "questions": [
+      {
+        "member": "M1",
+        "question": "De quelle couleur est le cheval du premier cavalier ?",
+        "answer": "Blanc",
+        "reference": "Ap 6:2"
+      },
+      {
+        "member": "M2",
+        "question": "De quelle couleur est le cheval du deuxième cavalier et que symbolise-t-il ?",
+        "answer": "Rouge / la guerre",
+        "reference": "Ap 6:4"
+      },
+      {
+        "member": "M3",
+        "question": "De quelle couleur est le cheval du troisième cavalier ?",
+        "answer": "Noir",
+        "reference": "Ap 6:5"
+      },
+      {
+        "member": "M4",
+        "question": "Comment s'appelle le cavalier du cheval pâle ?",
+        "answer": "La Mort",
+        "reference": "Ap 6:8"
+      }
+    ]
+  },
+  {
+    "id": "relais_07",
+    "category": "Relais Apocalypse",
+    "title": "Les 144 000 (chapitre 7)",
+    "questions": [
+      {
+        "member": "M1",
+        "question": "Combien de personnes sont scellées parmi les tribus d'Israël ?",
+        "answer": "144 000",
+        "reference": "Ap 7:4"
+      },
+      {
+        "member": "M2",
+        "question": "Combien de personnes sont scellées pour chaque tribu ?",
+        "answer": "12 000 par tribu",
+        "reference": "Ap 7:5"
+      },
+      {
+        "member": "M3",
+        "question": "Quelle est la première tribu citée parmi les 144 000 scellés ?",
+        "answer": "Juda",
+        "reference": "Ap 7:5"
+      },
+      {
+        "member": "M4",
+        "question": "Qui est la grande foule en vêtements blancs vue après les 144 000 ?",
+        "answer": "Ceux qui viennent de la grande tribulation",
+        "reference": "Ap 7:14"
+      }
+    ]
+  },
+  {
+    "id": "relais_08",
+    "category": "Relais Apocalypse",
+    "title": "Les Trompettes – Partie 1 (Ap 8–9)",
+    "questions": [
+      {
+        "member": "M1",
+        "question": "Que se passe-t-il lors de la 1ère trompette ?",
+        "answer": "De la grêle et du feu mêlés de sang tombent sur la terre",
+        "reference": "Ap 8:7"
+      },
+      {
+        "member": "M2",
+        "question": "Que se passe-t-il lors de la 2ème trompette ?",
+        "answer": "Une grande montagne enflammée est jetée dans la mer",
+        "reference": "Ap 8:8"
+      },
+      {
+        "member": "M3",
+        "question": "Comment s'appelle l'étoile qui tombe lors de la 3ème trompette ?",
+        "answer": "Absinthe",
+        "reference": "Armoise) (Ap 8:11"
+      },
+      {
+        "member": "M4",
+        "question": "Que se passe-t-il lors de la 4ème trompette ?",
+        "answer": "Le tiers du soleil, de la lune et des étoiles est frappé",
+        "reference": "Ap 8:12"
+      }
+    ]
+  },
+  {
+    "id": "relais_09",
+    "category": "Relais Apocalypse",
+    "title": "Les Trompettes – Partie 2 (Ap 9)",
+    "questions": [
+      {
+        "member": "M1",
+        "question": "Qu'est-ce qui sort du puits de l'abîme à la 5ème trompette ?",
+        "answer": "Des sauterelles",
+        "reference": "Ap 9:3"
+      },
+      {
+        "member": "M2",
+        "question": "Combien de temps les sauterelles peuvent-elles tourmenter les hommes ?",
+        "answer": "Cinq mois",
+        "reference": "Ap 9:5"
+      },
+      {
+        "member": "M3",
+        "question": "Quel est le nom de l'ange roi de l'abîme en hébreu ?",
+        "answer": "Abaddon",
+        "reference": "Ap 9:11"
+      },
+      {
+        "member": "M4",
+        "question": "Combien de cavaliers forment l'armée libérée à la 6ème trompette ?",
+        "answer": "Deux cents millions",
+        "reference": "deux myriades de myriades) (Ap 9:16"
+      }
+    ]
+  },
+  {
+    "id": "relais_10",
+    "category": "Relais Apocalypse",
+    "title": "Le Petit Livre et les Deux Témoins (Ap 10–11)",
+    "questions": [
+      {
+        "member": "M1",
+        "question": "Quel effet le petit livre a-t-il dans la bouche de Jean ?",
+        "answer": "Doux comme du miel dans la bouche, amer dans le ventre",
+        "reference": "Ap 10:10"
+      },
+      {
+        "member": "M2",
+        "question": "Combien de temps les deux témoins prophétisent-ils ?",
+        "answer": "1 260 jours",
+        "reference": "Ap 11:3"
+      },
+      {
+        "member": "M3",
+        "question": "Combien de temps les corps des deux témoins restent-ils dans la rue ?",
+        "answer": "Trois jours et demi",
+        "reference": "Ap 11:9"
+      },
+      {
+        "member": "M4",
+        "question": "Que se passe-t-il à la 7ème trompette ?",
+        "answer": "Des voix dans le ciel proclament : « Le règne du monde appartient à notre Seigneur »",
+        "reference": "Ap 11:15"
+      }
+    ]
+  },
+  {
+    "id": "relais_11",
+    "category": "Relais Apocalypse",
+    "title": "La Femme et le Dragon (Ap 12)",
+    "questions": [
+      {
+        "member": "M1",
+        "question": "Combien de têtes et de cornes a le grand dragon rouge ?",
+        "answer": "Sept têtes et dix cornes",
+        "reference": "Ap 12:3"
+      },
+      {
+        "member": "M2",
+        "question": "Combien de temps la femme est-elle nourrie au désert ?",
+        "answer": "1 260 jours",
+        "reference": "Ap 12:6"
+      },
+      {
+        "member": "M3",
+        "question": "Quel est le nom donné au dragon dans Apocalypse 12:9 ?",
+        "answer": "Le diable et Satan / l'ancien serpent",
+        "reference": "Ap 12:9"
+      },
+      {
+        "member": "M4",
+        "question": "Par quoi les frères ont-ils vaincu le dragon ?",
+        "answer": "Par le sang de l'Agneau et la parole de leur témoignage",
+        "reference": "Ap 12:11"
+      }
+    ]
+  },
+  {
+    "id": "relais_12",
+    "category": "Relais Apocalypse",
+    "title": "Les Deux Bêtes (Ap 13)",
+    "questions": [
+      {
+        "member": "M1",
+        "question": "Combien de têtes a la bête qui monte de la mer ?",
+        "answer": "Sept têtes",
+        "reference": "Ap 13:1"
+      },
+      {
+        "member": "M2",
+        "question": "Combien de cornes a la bête qui monte de la terre ?",
+        "answer": "Deux cornes",
+        "reference": "Ap 13:11"
+      },
+      {
+        "member": "M3",
+        "question": "Quel est le nombre de la bête ?",
+        "answer": "666",
+        "reference": "Ap 13:18"
+      },
+      {
+        "member": "M4",
+        "question": "Combien de temps de pouvoir est donné à la bête ?",
+        "answer": "42 mois",
+        "reference": "Ap 13:5"
+      }
+    ]
+  },
+  {
+    "id": "relais_13",
+    "category": "Relais Apocalypse",
+    "title": "Les 144 000 sur le Mont Sion (Ap 14)",
+    "questions": [
+      {
+        "member": "M1",
+        "question": "Où se tient l'Agneau avec les 144 000 au chapitre 14 ?",
+        "answer": "Sur le mont Sion",
+        "reference": "Ap 14:1"
+      },
+      {
+        "member": "M2",
+        "question": "Quel nom est écrit sur le front des 144 000 ?",
+        "answer": "Le nom de l'Agneau et le nom de son Père",
+        "reference": "Ap 14:1"
+      },
+      {
+        "member": "M3",
+        "question": "Quel message annonce le premier ange du chapitre 14 ?",
+        "answer": "L'Évangile éternel",
+        "reference": "Ap 14:6"
+      },
+      {
+        "member": "M4",
+        "question": "Que proclame le deuxième ange du chapitre 14 ?",
+        "answer": "« Elle est tombée, Babylone la grande ! »",
+        "reference": "Ap 14:8"
+      }
+    ]
+  },
+  {
+    "id": "relais_14",
+    "category": "Relais Apocalypse",
+    "title": "Les 7 Coupes – Partie 1 (Ap 15–16)",
+    "questions": [
+      {
+        "member": "M1",
+        "question": "Quelle plaie tombe lors de la 1ère coupe ?",
+        "answer": "Des ulcères mauvais et douloureux",
+        "reference": "Ap 16:2"
+      },
+      {
+        "member": "M2",
+        "question": "Que se passe-t-il lors de la 2ème coupe ?",
+        "answer": "La mer devient du sang et tout être vivant dans la mer meurt",
+        "reference": "Ap 16:3"
+      },
+      {
+        "member": "M3",
+        "question": "Que se passe-t-il lors de la 3ème coupe ?",
+        "answer": "Les fleuves et sources d'eau deviennent du sang",
+        "reference": "Ap 16:4"
+      },
+      {
+        "member": "M4",
+        "question": "Que se passe-t-il lors de la 4ème coupe ?",
+        "answer": "Le soleil brûle les hommes d'une grande chaleur",
+        "reference": "Ap 16:8"
+      }
+    ]
+  },
+  {
+    "id": "relais_15",
+    "category": "Relais Apocalypse",
+    "title": "Les 7 Coupes – Partie 2 (Ap 16)",
+    "questions": [
+      {
+        "member": "M1",
+        "question": "Que se passe-t-il lors de la 5ème coupe ?",
+        "answer": "Les ténèbres couvrent le trône de la bête",
+        "reference": "Ap 16:10"
+      },
+      {
+        "member": "M2",
+        "question": "Que se passe-t-il lors de la 6ème coupe ?",
+        "answer": "Le fleuve Euphrate est desséché pour préparer les rois de l'Orient",
+        "reference": "Ap 16:12"
+      },
+      {
+        "member": "M3",
+        "question": "Quel lieu est mentionné lors de la 6ème coupe pour le rassemblement des rois ?",
+        "answer": "Harmaguédon",
+        "reference": "Armageddon) (Ap 16:16"
+      },
+      {
+        "member": "M4",
+        "question": "Que se passe-t-il lors de la 7ème coupe ?",
+        "answer": "Un grand tremblement de terre et de la grêle énorme",
+        "reference": "Ap 16:18–21"
+      }
+    ]
+  },
+  {
+    "id": "relais_16",
+    "category": "Relais Apocalypse",
+    "title": "Babylone la Grande (Ap 17)",
+    "questions": [
+      {
+        "member": "M1",
+        "question": "Sur quoi est assise la femme appelée Babylone ?",
+        "answer": "Sur une bête écarlate aux sept têtes et dix cornes",
+        "reference": "Ap 17:3"
+      },
+      {
+        "member": "M2",
+        "question": "Que porte la femme sur son front ?",
+        "answer": "« Babylone la Grande, la mère des prostitutions »",
+        "reference": "Ap 17:5"
+      },
+      {
+        "member": "M3",
+        "question": "Que représentent les sept têtes de la bête selon Ap 17 ?",
+        "answer": "Sept montagnes",
+        "reference": "et sept rois) (Ap 17:9"
+      },
+      {
+        "member": "M4",
+        "question": "De quoi la femme est-elle ivre dans Ap 17 ?",
+        "answer": "Du sang des saints et des martyrs de Jésus",
+        "reference": "Ap 17:6"
+      }
+    ]
+  },
+  {
+    "id": "relais_17",
+    "category": "Relais Apocalypse",
+    "title": "La Chute de Babylone (Ap 18)",
+    "questions": [
+      {
+        "member": "M1",
+        "question": "Quelle voix du ciel ordonne à son peuple de sortir de Babylone ?",
+        "answer": "« Sortez du milieu d'elle, mon peuple »",
+        "reference": "Ap 18:4"
+      },
+      {
+        "member": "M2",
+        "question": "En combien de temps Babylone est-elle détruite ?",
+        "answer": "En une heure",
+        "reference": "Ap 18:10"
+      },
+      {
+        "member": "M3",
+        "question": "Qui pleure la chute de Babylone en premier ?",
+        "answer": "Les rois de la terre",
+        "reference": "Ap 18:9"
+      },
+      {
+        "member": "M4",
+        "question": "Quelle image annonce la chute définitive de Babylone ?",
+        "answer": "Un ange jette une grande meule dans la mer",
+        "reference": "Ap 18:21"
+      }
+    ]
+  },
+  {
+    "id": "relais_18",
+    "category": "Relais Apocalypse",
+    "title": "Les Noces de l'Agneau (Ap 19)",
+    "questions": [
+      {
+        "member": "M1",
+        "question": "Quel chant retentit dans le ciel au début d'Apocalypse 19 ?",
+        "answer": "Alléluia !",
+        "reference": "Ap 19:1"
+      },
+      {
+        "member": "M2",
+        "question": "Que représente le fin lin blanc que porte l'épouse de l'Agneau ?",
+        "answer": "Les œuvres justes des saints",
+        "reference": "Ap 19:8"
+      },
+      {
+        "member": "M3",
+        "question": "Sur quel cheval Jésus chevauche-t-il lors de sa venue en Ap 19 ?",
+        "answer": "Un cheval blanc",
+        "reference": "Ap 19:11"
+      },
+      {
+        "member": "M4",
+        "question": "Quel nom est écrit sur le vêtement et la cuisse du cavalier ?",
+        "answer": "Roi des rois et Seigneur des seigneurs",
+        "reference": "Ap 19:16"
+      }
+    ]
+  },
+  {
+    "id": "relais_19",
+    "category": "Relais Apocalypse",
+    "title": "Le Millénium (Ap 20:1–6)",
+    "questions": [
+      {
+        "member": "M1",
+        "question": "Combien de temps Satan est lié dans l'abîme ?",
+        "answer": "Mille ans",
+        "reference": "Ap 20:2"
+      },
+      {
+        "member": "M2",
+        "question": "Qu'est-ce que la première résurrection ?",
+        "answer": "La résurrection de ceux qui ont part au règne de l'Agneau durant mille ans",
+        "reference": "Ap 20:5–6"
+      },
+      {
+        "member": "M3",
+        "question": "Quel est le sort de ceux qui ont part à la première résurrection ?",
+        "answer": "La seconde mort n'a pas de pouvoir sur eux",
+        "reference": "Ap 20:6"
+      },
+      {
+        "member": "M4",
+        "question": "Qui est libéré à la fin des mille ans ?",
+        "answer": "Satan",
+        "reference": "Ap 20:7"
+      }
+    ]
+  },
+  {
+    "id": "relais_20",
+    "category": "Relais Apocalypse",
+    "title": "Le Jugement Dernier (Ap 20:7–15)",
+    "questions": [
+      {
+        "member": "M1",
+        "question": "Comment s'appelle la dernière bataille menée par Satan après les mille ans ?",
+        "answer": "La bataille de Gog et Magog",
+        "reference": "Ap 20:8"
+      },
+      {
+        "member": "M2",
+        "question": "Comment Satan est-il finalement vaincu ?",
+        "answer": "Du feu descend du ciel et les consume",
+        "reference": "Ap 20:9"
+      },
+      {
+        "member": "M3",
+        "question": "Où Satan est-il jeté à la fin ?",
+        "answer": "Dans l'étang de feu et de soufre",
+        "reference": "Ap 20:10"
+      },
+      {
+        "member": "M4",
+        "question": "Devant quel trône a lieu le jugement dernier ?",
+        "answer": "Le grand trône blanc",
+        "reference": "Ap 20:11"
+      }
+    ]
+  },
+  {
+    "id": "relais_21",
+    "category": "Relais Apocalypse",
+    "title": "La Nouvelle Jérusalem – Description (Ap 21)",
+    "questions": [
+      {
+        "member": "M1",
+        "question": "De quoi la nouvelle Jérusalem descend-elle ?",
+        "answer": "Du ciel, d'auprès de Dieu",
+        "reference": "Ap 21:2"
+      },
+      {
+        "member": "M2",
+        "question": "Combien de portes a la nouvelle Jérusalem ?",
+        "answer": "Douze portes",
+        "reference": "Ap 21:12"
+      },
+      {
+        "member": "M3",
+        "question": "Combien de fondements a la muraille ?",
+        "answer": "Douze fondements",
+        "reference": "Ap 21:14"
+      },
+      {
+        "member": "M4",
+        "question": "De quelle matière sont les rues de la nouvelle Jérusalem ?",
+        "answer": "D'or pur, semblable à du verre transparent",
+        "reference": "Ap 21:21"
+      }
+    ]
+  },
+  {
+    "id": "relais_22",
+    "category": "Relais Apocalypse",
+    "title": "La Nouvelle Jérusalem – Lumière et Gloire (Ap 21)",
+    "questions": [
+      {
+        "member": "M1",
+        "question": "Quelle est la longueur de la nouvelle Jérusalem en stades ?",
+        "answer": "12 000 stades",
+        "reference": "Ap 21:16"
+      },
+      {
+        "member": "M2",
+        "question": "Quelle est la hauteur de la muraille en coudées ?",
+        "answer": "144 coudées",
+        "reference": "Ap 21:17"
+      },
+      {
+        "member": "M3",
+        "question": "Quel est le temple de la nouvelle Jérusalem ?",
+        "answer": "Le Seigneur Dieu Tout-Puissant et l'Agneau",
+        "reference": "Ap 21:22"
+      },
+      {
+        "member": "M4",
+        "question": "Qu'est-ce qui éclaire la nouvelle Jérusalem à la place du soleil ?",
+        "answer": "La gloire de Dieu et l'Agneau est son flambeau",
+        "reference": "Ap 21:23"
+      }
+    ]
+  },
+  {
+    "id": "relais_23",
+    "category": "Relais Apocalypse",
+    "title": "Le Fleuve de Vie et l'Arbre de Vie (Ap 22)",
+    "questions": [
+      {
+        "member": "M1",
+        "question": "D'où sort le fleuve d'eau de la vie ?",
+        "answer": "Du trône de Dieu et de l'Agneau",
+        "reference": "Ap 22:1"
+      },
+      {
+        "member": "M2",
+        "question": "Combien de sortes de fruits produit l'arbre de vie ?",
+        "answer": "Douze sortes de fruits",
+        "reference": "Ap 22:2"
+      },
+      {
+        "member": "M3",
+        "question": "À quelle fréquence l'arbre de vie produit-il ses fruits ?",
+        "answer": "Chaque mois",
+        "reference": "Ap 22:2"
+      },
+      {
+        "member": "M4",
+        "question": "À quoi servent les feuilles de l'arbre de vie ?",
+        "answer": "À la guérison des nations",
+        "reference": "Ap 22:2"
+      }
+    ]
+  },
+  {
+    "id": "relais_24",
+    "category": "Relais Apocalypse",
+    "title": "Le Retour de Christ (Ap 22:7–21)",
+    "questions": [
+      {
+        "member": "M1",
+        "question": "Combien de fois Jésus dit-il « Je viens bientôt » dans le chapitre 22 ?",
+        "answer": "Trois fois",
+        "reference": "v.7, v.12, v.20) (Ap 22:7,12,20"
+      },
+      {
+        "member": "M2",
+        "question": "Quel est le titre donné à Jésus dans Apocalypse 22:13 ?",
+        "answer": "L'Alpha et l'Oméga, le premier et le dernier, le commencement et la fin",
+        "reference": "Ap 22:13"
+      },
+      {
+        "member": "M3",
+        "question": "Quelle invitation est lancée au verset 17 du chapitre 22 ?",
+        "answer": "« Que celui qui a soif vienne ; que celui qui veut prenne l'eau de la vie gratuitement »",
+        "reference": "Ap 22:17"
+      },
+      {
+        "member": "M4",
+        "question": "Quelle malédiction est prononcée contre quiconque retranche des paroles de l'Apocalypse ?",
+        "answer": "Dieu retranchera sa part de l'arbre de vie et de la ville sainte",
+        "reference": "Ap 22:19"
+      }
+    ]
+  },
+  {
+    "id": "relais_25",
+    "category": "Relais Apocalypse",
+    "title": "Nombres et Chiffres de l'Apocalypse",
+    "questions": [
+      {
+        "member": "M1",
+        "question": "Combien d'anges tiennent les quatre vents de la terre ?",
+        "answer": "Quatre anges",
+        "reference": "Ap 7:1"
+      },
+      {
+        "member": "M2",
+        "question": "Combien de coups donne le troisième malheur sur les hommes ?",
+        "answer": "Un grand tremblement de terre, 7 000 personnes tuées",
+        "reference": "Ap 11:13"
+      },
+      {
+        "member": "M3",
+        "question": "Quel est le nombre des cavaliers de l'armée de la 6ème trompette ?",
+        "answer": "200 millions",
+        "reference": "deux myriades de myriades) (Ap 9:16"
+      },
+      {
+        "member": "M4",
+        "question": "Combien de pierres précieuses ornent les 12 fondements de la nouvelle Jérusalem ?",
+        "answer": "Douze pierres précieuses",
+        "reference": "Ap 21:19–20"
+      }
+    ]
+  },
+  {
+    "id": "relais_26",
+    "category": "Relais Apocalypse",
+    "title": "Anges et Créatures de l'Apocalypse",
+    "questions": [
+      {
+        "member": "M1",
+        "question": "Combien d'ailes ont les quatre êtres vivants autour du trône ?",
+        "answer": "Six ailes chacun",
+        "reference": ""
+      },
+      {
+        "member": "M2",
+        "question": "Quel ange sonne la trompette du grand jour ?",
+        "answer": "Le septième ange",
+        "reference": ""
+      },
+      {
+        "member": "M3",
+        "question": "Quel ange tient la clé de l'abîme pour lier Satan ?",
+        "answer": "Un ange descendant du ciel",
+        "reference": "Ap 20:1"
+      },
+      {
+        "member": "M4",
+        "question": "Combien d'anges tiennent les sept coupes de la colère de Dieu ?",
+        "answer": "Sept anges",
+        "reference": ""
+      }
+    ]
+  },
+  {
+    "id": "relais_27",
+    "category": "Relais Apocalypse",
+    "title": "Paroles et Proclamations de l'Apocalypse",
+    "questions": [
+      {
+        "member": "M1",
+        "question": "Que proclament les quatre êtres vivants sans cesse autour du trône ?",
+        "answer": "Saint, saint, saint est le Seigneur Dieu Tout-Puissant",
+        "reference": "Ap 4:8"
+      },
+      {
+        "member": "M2",
+        "question": "Que dit la voix du ciel après la mort des deux témoins ?",
+        "answer": "« Montez ici ! » / ils montent au ciel dans la nuée",
+        "reference": "Ap 11:12"
+      },
+      {
+        "member": "M3",
+        "question": "Que proclame la grande voix dans le ciel lors de la 7ème trompette ?",
+        "answer": "« Le règne du monde est remis à notre Seigneur et à son Christ »",
+        "reference": "Ap 11:15"
+      },
+      {
+        "member": "M4",
+        "question": "Que crie l'ange debout dans le soleil lors de la bataille finale ?",
+        "answer": "Il appelle les oiseaux à se rassembler pour le grand festin de Dieu",
+        "reference": "Ap 19:17"
+      }
+    ]
+  },
+  {
+    "id": "relais_28",
+    "category": "Relais Apocalypse",
+    "title": "Les 7 Béatitudes de l'Apocalypse",
+    "questions": [
+      {
+        "member": "M1",
+        "question": "Quelle est la 1ère béatitude de l'Apocalypse ?",
+        "answer": "« Heureux celui qui lit et ceux qui entendent cette prophétie »",
+        "reference": "Ap 1:3"
+      },
+      {
+        "member": "M2",
+        "question": "Quelle béatitude parle des morts qui meurent au Seigneur ?",
+        "answer": "« Heureux les morts qui meurent au Seigneur dès maintenant »",
+        "reference": "Ap 14:13"
+      },
+      {
+        "member": "M3",
+        "question": "Quelle béatitude parle de celui qui veille et garde ses vêtements ?",
+        "answer": "« Heureux celui qui veille et qui garde ses vêtements »",
+        "reference": "Ap 16:15"
+      },
+      {
+        "member": "M4",
+        "question": "Quelle est la dernière béatitude de l'Apocalypse ?",
+        "answer": "« Heureux ceux qui lavent leurs robes »",
+        "reference": "Ap 22:14"
+      }
+    ]
+  },
+  {
+    "id": "relais_29",
+    "category": "Relais Apocalypse",
+    "title": "Symboles et Images de l'Apocalypse",
+    "questions": [
+      {
+        "member": "M1",
+        "question": "Que représentent les sept étoiles dans la main droite du Fils de l'homme ?",
+        "answer": "Les anges des sept Églises",
+        "reference": ""
+      },
+      {
+        "member": "M2",
+        "question": "Que représentent les sept lampes d'or ?",
+        "answer": "Les sept Églises",
+        "reference": "Ap 1:20"
+      },
+      {
+        "member": "M3",
+        "question": "Que représentent les parfums dans les coupes d'or tenues par les 24 anciens ?",
+        "answer": "Les prières des saints",
+        "reference": ""
+      },
+      {
+        "member": "M4",
+        "question": "Que représente le lin fin et brillant que porte l'épouse de l'Agneau ?",
+        "answer": "Les œuvres justes des saints",
+        "reference": "Ap 19:8"
+      }
+    ]
+  },
+  {
+    "id": "relais_30",
+    "category": "Relais Apocalypse",
+    "title": "Jean et sa Vision (chapitre 1)",
+    "questions": [
+      {
+        "member": "M1",
+        "question": "Dans quelle île Jean était-il exilé quand il reçut la vision ?",
+        "answer": "Patmos",
+        "reference": "Ap 1:9"
+      },
+      {
+        "member": "M2",
+        "question": "Quel jour Jean a-t-il reçu sa vision ?",
+        "answer": "Le jour du Seigneur",
+        "reference": "dimanche) (Ap 1:10"
+      },
+      {
+        "member": "M3",
+        "question": "Quelle est la couleur des cheveux du Fils de l'homme dans la vision de Jean ?",
+        "answer": "Blancs comme de la laine blanche, comme de la neige",
+        "reference": "Ap 1:14"
+      },
+      {
+        "member": "M4",
+        "question": "À quoi ressemble la voix du Fils de l'homme ?",
+        "answer": "Au bruit de grandes eaux",
+        "reference": "Ap 1:15"
+      }
+    ]
+  }
+]

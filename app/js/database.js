@@ -16,7 +16,7 @@ class DatabaseManager {
    */
   async loadDatabase() {
     try {
-      const response = await fetch('../data/questions.json');
+      const response = await fetch('./data/questions.json');
       if (!response.ok) {
         throw new Error('Erreur lors du chargement du fichier JSON');
       }
