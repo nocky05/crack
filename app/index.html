@@ -1,0 +1,578 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Crack Béréen – Quiz Biblique & Chrétien</title>
+  <meta name="description" content="Un quiz interactif haut de gamme pour tester vos connaissances bibliques et chrétiennes. Conçu pour le jeu en solo et l'animation en groupe.">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- Premium Header -->
+  <header class="glass">
+    <div class="logo-container" id="logo-home">
+      <span class="logo-icon">📖</span>
+      <h1 class="title-gold">Crack Béréen</h1>
+    </div>
+    <div class="nav-links">
+      <button class="btn-nav" id="nav-btn-home">Accueil</button>
+      <button class="btn-nav" id="nav-btn-rules">Règles</button>
+      <button class="btn-nav" id="nav-btn-about">À propos</button>
+    </div>
+  </header>
+
+  <!-- Main Container -->
+  <main>
+
+    <!-- 1. HOME SCREEN -->
+    <section id="screen-home" class="screen active">
+      <div class="home-container">
+        <div class="home-hero">
+          <h2>Êtes-vous un <br><span class="title-gold">Crack Béréen</span> ?</h2>
+          <p>
+            Explorez les écritures, la littérature classique, la musique sacrée et le livre de l'Apocalypse. 
+            Jouez seul pour progresser ou animez des sessions compétitives en direct avec vos équipes !
+          </p>
+          <button class="btn-gold" id="btn-start-solo">
+            <span>🎮 Commencer en Solo</span>
+          </button>
+        </div>
+        
+        <div class="home-cards">
+          <div class="game-card glass" id="card-mode-presenter">
+            <span class="card-icon">🎤</span>
+            <div>
+              <h3>Mode Présentateur</h3>
+              <p>Animez un quiz en direct avec projection écran, 3 équipes, gestion des scores et jokers.</p>
+            </div>
+          </div>
+
+          <div class="game-card glass" id="card-mode-matching">
+            <span class="card-icon">🔗</span>
+            <div>
+              <h3>Questions de Correspondance</h3>
+              <p>Reliez les personnages à leurs actions, les 7 églises à leurs messages, et bien plus encore.</p>
+            </div>
+          </div>
+
+          <div class="game-card glass" id="card-mode-relais">
+            <span class="card-icon">🏃</span>
+            <div>
+              <h3>Mode Relais Apocalypse</h3>
+              <p>Un mode en équipe où chaque membre doit répondre à sa question spécifique (4 questions par relais).</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 2. SETUP SCREEN -->
+    <section id="screen-setup" class="screen">
+      <div class="glass" style="padding: 40px; max-width: 700px; margin: 0 auto; width: 100%;">
+        <h2 class="title-gold" style="margin-bottom: 25px; text-align: center;" id="setup-title">Configuration de la Partie</h2>
+        
+        <!-- Category Selector -->
+        <div id="setup-category-section" style="margin-bottom: 30px;">
+          <h3 style="margin-bottom: 15px; font-family: var(--font-title); font-size: 1.2rem;">Sélectionner les Catégories</h3>
+          <div class="category-select-grid">
+            <div class="category-select-card glass selected" data-cat="Culture Générale">
+              <span style="font-size: 2rem;">🌍</span>
+              <h4>Culture Générale</h4>
+            </div>
+            <div class="category-select-card glass selected" data-cat="Littérature">
+              <span style="font-size: 2rem;">📚</span>
+              <h4>Littérature</h4>
+            </div>
+            <div class="category-select-card glass selected" data-cat="Musique">
+              <span style="font-size: 2rem;">🎵</span>
+              <h4>Musique</h4>
+            </div>
+            <div class="category-select-card glass selected" data-cat="Apocalypse">
+              <span style="font-size: 2rem;">⚡</span>
+              <h4>Apocalypse</h4>
+            </div>
+          </div>
+        </div>
+
+        <!-- Team Setup (only visible for Presenter mode) -->
+        <div id="setup-teams-section" style="margin-bottom: 30px; display: none;">
+          <h3 style="margin-bottom: 15px; font-family: var(--font-title); font-size: 1.2rem;">Noms des Équipes (max 3)</h3>
+          <div style="display: flex; flex-direction: column; gap: 15px;">
+            <div style="display: flex; align-items: center; gap: 15px;">
+              <span style="font-weight: 700; color: var(--color-gold);">1</span>
+              <input type="text" id="input-team1" class="glass" value="Équipe Éphèse" style="padding: 12px; border-radius: 8px; border: 1px solid var(--color-card-border); color: #fff; width: 100%;">
+            </div>
+            <div style="display: flex; align-items: center; gap: 15px;">
+              <span style="font-weight: 700; color: var(--color-gold);">2</span>
+              <input type="text" id="input-team2" class="glass" value="Équipe Philadelphie" style="padding: 12px; border-radius: 8px; border: 1px solid var(--color-card-border); color: #fff; width: 100%;">
+            </div>
+            <div style="display: flex; align-items: center; gap: 15px;">
+              <span style="font-weight: 700; color: var(--color-gold);">3</span>
+              <input type="text" id="input-team3" class="glass" value="Équipe Smyrne" style="padding: 12px; border-radius: 8px; border: 1px solid var(--color-card-border); color: #fff; width: 100%;">
+            </div>
+          </div>
+        </div>
+
+        <!-- Difficulty Setup -->
+        <div style="margin-bottom: 30px;">
+          <h3 style="margin-bottom: 15px; font-family: var(--font-title); font-size: 1.2rem;">Difficulté</h3>
+          <div style="display: flex; gap: 15px; justify-content: center;">
+            <label class="glass" style="padding: 10px 20px; border-radius: 20px; cursor: pointer; display: flex; align-items: center; gap: 8px;">
+              <input type="checkbox" id="diff-easy" checked> Facile
+            </label>
+            <label class="glass" style="padding: 10px 20px; border-radius: 20px; cursor: pointer; display: flex; align-items: center; gap: 8px;">
+              <input type="checkbox" id="diff-medium" checked> Moyen
+            </label>
+            <label class="glass" style="padding: 10px 20px; border-radius: 20px; cursor: pointer; display: flex; align-items: center; gap: 8px;">
+              <input type="checkbox" id="diff-hard" checked> Difficile
+            </label>
+          </div>
+        </div>
+
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 30px;">
+          <button class="btn-nav" id="btn-setup-back">Retour</button>
+          <button class="btn-gold" id="btn-setup-start">Lancer la Partie 🚀</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- 3. SOLO PLAY SCREEN -->
+    <section id="screen-solo" class="screen">
+      <div class="quiz-header">
+        <div class="quiz-info">
+          <span class="category-tag" id="solo-category">Culture Générale</span>
+          <span class="difficulty-badge easy" id="solo-difficulty">Facile</span>
+          <span id="solo-progress" style="font-weight: 500; color: var(--color-text-muted);">Question 1/10</span>
+        </div>
+        <div style="display: flex; align-items: center; gap: 20px;">
+          <div style="font-weight: 600;">Score: <span id="solo-score-val" class="title-gold" style="font-size: 1.2rem;">0</span> pts</div>
+          <div class="timer-container">
+            <span>⏱️</span>
+            <div class="timer-circle" id="solo-timer">30</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Question display box -->
+      <div class="question-box glass">
+        <h2 id="solo-question-text">Chargement de la question...</h2>
+        <p class="question-meta" id="solo-question-meta">Référence : --</p>
+      </div>
+
+      <!-- Options -->
+      <div class="options-grid" id="solo-options">
+        <button class="option-btn">
+          <span class="option-prefix">A</span>
+          <span class="option-text">Option A</span>
+        </button>
+        <button class="option-btn">
+          <span class="option-prefix">B</span>
+          <span class="option-text">Option B</span>
+        </button>
+        <button class="option-btn">
+          <span class="option-prefix">C</span>
+          <span class="option-text">Option C</span>
+        </button>
+        <button class="option-btn">
+          <span class="option-prefix">D</span>
+          <span class="option-text">Option D</span>
+        </button>
+      </div>
+
+      <!-- Explanation -->
+      <div class="explanation-box glass" id="solo-explanation">
+        <h4>💡 Explication pédagogique</h4>
+        <p id="solo-explanation-text">Détail et contexte historique ou biblique.</p>
+        <span class="reference" id="solo-explanation-ref">Source : --</span>
+      </div>
+
+      <div class="action-row">
+        <button class="btn-gold" id="solo-btn-next" style="display: none;">Question Suivante ➡️</button>
+      </div>
+    </section>
+
+    <!-- 4. PRESENTER PLAY SCREEN -->
+    <section id="screen-presenter" class="screen">
+      <div class="presenter-container">
+        
+        <!-- Question display (Projected Area) -->
+        <div class="presenter-main">
+          <div class="quiz-header">
+            <div class="quiz-info">
+              <span class="category-tag" id="pres-category">Culture Générale</span>
+              <span class="difficulty-badge medium" id="pres-difficulty">Moyen</span>
+              <span id="pres-progress" style="font-weight: 500; color: var(--color-text-muted);">Question 1/15</span>
+            </div>
+            <div class="timer-container">
+              <span>⏱️</span>
+              <div class="timer-circle" id="pres-timer">45</div>
+            </div>
+          </div>
+
+          <div class="question-box glass pres-question-box">
+            <h2 id="pres-question-text">Chargement de la question...</h2>
+            <p class="question-meta" id="pres-question-meta">Référence : --</p>
+          </div>
+
+          <div class="options-grid" id="pres-options" style="margin-bottom: 20px;">
+            <!-- Projected options (click disabled by default, just for show) -->
+          </div>
+
+          <!-- Presenter Actions (visible to host) -->
+          <div class="presenter-actions glass">
+            <div class="pres-action-group">
+              <button class="btn-nav" id="pres-btn-reveal">👁️ Révéler</button>
+              <button class="btn-nav" id="pres-btn-sound">🔊 Son</button>
+            </div>
+            
+            <div class="pres-action-group">
+              <button class="btn-nav" id="pres-btn-skip">Passer</button>
+              <button class="btn-gold" id="pres-btn-next">Suivante ➡️</button>
+            </div>
+          </div>
+
+          <!-- Explanation box -->
+          <div class="explanation-box glass" id="pres-explanation" style="margin-top: 25px;">
+            <h4>💡 Note pour l'animateur</h4>
+            <p id="pres-explanation-text">Explication pédagogique.</p>
+            <span class="reference" id="pres-explanation-ref">Source : --</span>
+          </div>
+        </div>
+
+        <!-- Teams and Control Panel (Sidebar) -->
+        <div class="presenter-sidebar">
+          
+          <!-- Teams Scores Panel -->
+          <div class="teams-panel glass">
+            <h3>Scores des Équipes</h3>
+            
+            <!-- Team 1 -->
+            <div class="team-card active-turn" id="team-card-1">
+              <div class="team-header">
+                <span class="team-name" id="team-name-1">Équipe 1</span>
+                <span class="team-score" id="team-score-1">0</span>
+              </div>
+              <div class="score-controls">
+                <button class="btn-score" onclick="adjustScore(1, -10)">-10</button>
+                <button class="btn-score" onclick="adjustScore(1, -5)">-5</button>
+                <button class="btn-score" onclick="adjustScore(1, 5)">+5</button>
+                <button class="btn-score" onclick="adjustScore(1, 10)">+10</button>
+                <button class="btn-score" onclick="adjustScore(1, 20)">+20</button>
+              </div>
+              <div class="jokers-row">
+                <button class="joker-badge" id="joker-1-50" onclick="useJoker(1, '50')">50:50</button>
+                <button class="joker-badge" id="joker-1-pub" onclick="useJoker(1, 'pub')">Public</button>
+                <button class="joker-badge" id="joker-1-double" onclick="useJoker(1, 'double')">Double</button>
+              </div>
+            </div>
+
+            <!-- Team 2 -->
+            <div class="team-card" id="team-card-2">
+              <div class="team-header">
+                <span class="team-name" id="team-name-2">Équipe 2</span>
+                <span class="team-score" id="team-score-2">0</span>
+              </div>
+              <div class="score-controls">
+                <button class="btn-score" onclick="adjustScore(2, -10)">-10</button>
+                <button class="btn-score" onclick="adjustScore(2, -5)">-5</button>
+                <button class="btn-score" onclick="adjustScore(2, 5)">+5</button>
+                <button class="btn-score" onclick="adjustScore(2, 10)">+10</button>
+                <button class="btn-score" onclick="adjustScore(2, 20)">+20</button>
+              </div>
+              <div class="jokers-row">
+                <button class="joker-badge" id="joker-2-50" onclick="useJoker(2, '50')">50:50</button>
+                <button class="joker-badge" id="joker-2-pub" onclick="useJoker(2, 'pub')">Public</button>
+                <button class="joker-badge" id="joker-2-double" onclick="useJoker(2, 'double')">Double</button>
+              </div>
+            </div>
+
+            <!-- Team 3 -->
+            <div class="team-card" id="team-card-3">
+              <div class="team-header">
+                <span class="team-name" id="team-name-3">Équipe 3</span>
+                <span class="team-score" id="team-score-3">0</span>
+              </div>
+              <div class="score-controls">
+                <button class="btn-score" onclick="adjustScore(3, -10)">-10</button>
+                <button class="btn-score" onclick="adjustScore(3, -5)">-5</button>
+                <button class="btn-score" onclick="adjustScore(3, 5)">+5</button>
+                <button class="btn-score" onclick="adjustScore(3, 10)">+10</button>
+                <button class="btn-score" onclick="adjustScore(3, 20)">+20</button>
+              </div>
+              <div class="jokers-row">
+                <button class="joker-badge" id="joker-3-50" onclick="useJoker(3, '50')">50:50</button>
+                <button class="joker-badge" id="joker-3-pub" onclick="useJoker(3, 'pub')">Public</button>
+                <button class="joker-badge" id="joker-3-double" onclick="useJoker(3, 'double')">Double</button>
+              </div>
+            </div>
+
+          </div>
+
+          <!-- Match Control -->
+          <div class="controls-panel glass">
+            <h3>Contrôles du Tour</h3>
+            <button class="control-btn" id="btn-next-turn">
+              <span>🔄</span> Tour Suivant (Équipe)
+            </button>
+            <button class="control-btn" id="btn-timer-toggle">
+              <span>⏸️</span> Pause / Relancer Timer
+            </button>
+            <button class="control-btn" id="btn-trigger-duel" style="background: rgba(255, 191, 0, 0.05); border-color: rgba(255, 191, 0, 0.2);">
+              <span>⚔️</span> Déclencher Mini-Duel
+            </button>
+            <button class="control-btn" id="btn-reset-presenter" style="color: var(--color-wrong);">
+              <span>❌</span> Réinitialiser la partie
+            </button>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+
+    <!-- 5. MATCHING (CORRESPONDANCE) SELECT SCREEN -->
+    <section id="screen-matching-select" class="screen">
+      <div class="glass" style="padding: 40px; text-align: center; margin-bottom: 30px;">
+        <h2 class="title-gold" style="font-size: 2.2rem; margin-bottom: 15px;">Jeux de Correspondance</h2>
+        <p style="color: var(--color-text-muted); max-width: 600px; margin: 0 auto;">
+          Choisissez l'une des 10 séries thématiques ci-dessous et associez correctement les 10 paires. 
+          Gagnez des points en faisant le moins d'erreurs possible !
+        </p>
+      </div>
+
+      <div class="category-select-grid" id="matching-series-grid" style="grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));">
+        <!-- Series cards generated via JS -->
+      </div>
+
+      <div class="action-row">
+        <button class="btn-nav" id="btn-matching-select-back">Retour</button>
+      </div>
+    </section>
+
+    <!-- 6. MATCHING PLAY SCREEN -->
+    <section id="screen-matching-play" class="screen">
+      <div class="quiz-header">
+        <div>
+          <span class="category-tag">Correspondance</span>
+          <h2 class="title-gold" id="matching-title" style="font-size: 1.5rem; margin-top: 5px;">Série 01: --</h2>
+        </div>
+        <div style="display: flex; align-items: center; gap: 20px;">
+          <div style="font-weight: 600;">Essais : <span id="matching-attempts" class="title-gold" style="font-size: 1.2rem;">0</span></div>
+          <div style="font-weight: 600;">Score : <span id="matching-score" class="title-gold" style="font-size: 1.2rem;">0</span> / 10</div>
+        </div>
+      </div>
+
+      <div class="matching-container glass" style="padding: 30px;">
+        <div class="matching-grid">
+          <!-- Left Column (Items) -->
+          <div class="matching-column" id="match-left-col">
+            <div class="matching-column-title">Élément</div>
+            <!-- Dynamic Left Cards -->
+          </div>
+
+          <!-- Right Column (Targets) -->
+          <div class="matching-column" id="match-right-col">
+            <div class="matching-column-title">Message / Caractéristique</div>
+            <!-- Dynamic Right Cards -->
+          </div>
+        </div>
+      </div>
+
+      <div class="action-row" style="margin-top: 30px;">
+        <button class="btn-nav" id="btn-matching-back">Quitter la série</button>
+        <button class="btn-gold" id="btn-matching-next" style="display: none;">Série Suivante ➡️</button>
+      </div>
+    </section>
+
+    <!-- 7. RELAIS SELECT SCREEN -->
+    <section id="screen-relais-select" class="screen">
+      <div class="glass" style="padding: 40px; text-align: center; margin-bottom: 30px;">
+        <h2 class="title-gold" style="font-size: 2.2rem; margin-bottom: 15px;">Mode Relais Apocalypse</h2>
+        <p style="color: var(--color-text-muted); max-width: 600px; margin: 0 auto;">
+          Choisissez l'un des 30 relais disponibles. Chaque relais comporte 4 questions, une pour chaque membre de l'équipe !
+        </p>
+      </div>
+
+      <div class="category-select-grid" id="relais-series-grid" style="grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));">
+        <!-- Relais cards generated via JS -->
+      </div>
+
+      <div class="action-row">
+        <button class="btn-nav" id="btn-relais-select-back">Retour</button>
+      </div>
+    </section>
+
+    <!-- 8. RELAIS PLAY SCREEN -->
+    <section id="screen-relais-play" class="screen">
+      <div class="quiz-header">
+        <div>
+          <span class="category-tag">Relais Apocalypse</span>
+          <h2 class="title-gold" id="relais-title" style="font-size: 1.5rem; margin-top: 5px;">Relais 01: --</h2>
+        </div>
+        <div style="display: flex; align-items: center; gap: 20px;">
+          <div style="font-weight: 600;">Score Équipe : <span id="relais-score" class="title-gold" style="font-size: 1.2rem;">0</span> / 4</div>
+        </div>
+      </div>
+
+      <div class="relais-container glass" style="padding: 30px; display: grid; grid-template-columns: 1fr 1fr; gap: 20px;" id="relais-cards-grid">
+        <!-- 4 Cards generated via JS -->
+      </div>
+
+      <div class="action-row" style="margin-top: 30px;">
+        <button class="btn-nav" id="btn-relais-back">Quitter le relais</button>
+        <button class="btn-gold" id="btn-relais-next" style="display: none;">Relais Suivant ➡️</button>
+      </div>
+    </section>
+
+    <!-- 9. END SCREEN / RESULTS -->
+    <section id="screen-results" class="screen">
+      <div class="results-box glass">
+        <span style="font-size: 4rem;">🏆</span>
+        <h2 class="title-gold">Fin de la Partie !</h2>
+        <div class="score-display" id="results-score-display">0 pts</div>
+        <p class="score-comment" id="results-comment">Excellent travail ! Votre connaissance des écritures et de la culture chrétienne est remarquable.</p>
+        
+        <div class="results-actions">
+          <button class="btn-nav" id="btn-results-home">Menu Principal</button>
+          <button class="btn-gold" id="btn-results-retry">Rejouer 🔄</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- 8. RULES SCREEN -->
+    <section id="screen-rules" class="screen">
+      <div class="glass" style="padding: 40px; line-height: 1.6; max-width: 800px; margin: 0 auto; width: 100%;">
+        <h2 class="title-gold" style="font-size: 2.2rem; margin-bottom: 20px; text-align: center;">Règles du Jeu</h2>
+        
+        <div style="display: flex; flex-direction: column; gap: 20px;">
+          <div>
+            <h3 style="color: var(--color-gold); font-family: var(--font-title); margin-bottom: 8px;">🎮 Mode Solo</h3>
+            <p>Le mode Solo est un excellent moyen de s'entraîner. Vous répondez à une série de 10 questions de QCM. Plus vous répondez vite, plus votre score augmente. Pour chaque question, une explication biblique ou historique détaillée est fournie après validation.</p>
+          </div>
+
+          <div>
+            <h3 style="color: var(--color-gold); font-family: var(--font-title); margin-bottom: 8px;">🎤 Mode Présentateur (Animation)</h3>
+            <p>Conçu pour être projeté en public ou joué avec un groupe. L'animateur divise le public en 3 équipes (ex. Éphèse, Philadelphie, Smyrne) :</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li><strong>Tour de rôle :</strong> Les équipes répondent à tour de rôle. Le panneau de droite indique à qui est le tour.</li>
+              <li><strong>Système de points :</strong> +10 points pour une bonne réponse, -5 points pour une mauvaise réponse. L'animateur valide manuellement ou utilise la révélation automatique.</li>
+              <li><strong>Jokers :</strong> Chaque équipe possède trois jokers utilisables une fois par partie :
+                <ul style="margin-left: 20px; margin-top: 5px;">
+                  <li><em>50:50 :</em> Élimine deux mauvaises propositions.</li>
+                  <li><em>Appel au Public :</em> L'équipe sollicite l'avis de l'audience.</li>
+                  <li><em>Double Chance :</em> Permet à l'équipe de proposer deux réponses.</li>
+                </ul>
+              </li>
+              <li><strong>Mini-Duels (Défis Rapides) :</strong> L'animateur peut déclencher à tout moment un duel. Les représentants de deux équipes doivent s'affronter sur une question de rapidité (celui qui buzze en premier).</li>
+            </ul>
+          </div>
+
+          <div>
+            <h3 style="color: var(--color-gold); font-family: var(--font-title); margin-bottom: 8px;">🔗 Mode Correspondance</h3>
+            <p>Ce mode interactif vous demande de relier 10 éléments de la colonne de gauche à leurs équivalents dans la colonne de droite. Sélectionnez un élément de gauche, puis cliquez sur son équivalent à droite pour créer un lien. Les bonnes liaisons se figent en vert.</p>
+          </div>
+        </div>
+
+        <div style="text-align: center; margin-top: 30px;">
+          <button class="btn-gold" onclick="showScreen('home')">Retour à l'accueil</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- 9. ABOUT SCREEN -->
+    <section id="screen-about" class="screen">
+      <div class="glass" style="padding: 40px; text-align: center; max-width: 600px; margin: 0 auto; width: 100%;">
+        <span style="font-size: 3rem;">🕊️</span>
+        <h2 class="title-gold" style="font-size: 2rem; margin-bottom: 15px;">À propos de Crack Béréen</h2>
+        <p style="color: var(--color-text-muted); line-height: 1.6; margin-bottom: 25px;">
+          Ce projet a été développé pour la préparation de l'édition **NJADAC 2026** (Nuit des Jeunes Assemblées de Dieu en Afrique Centrale).
+          Il vise à promouvoir l'étude des Écritures, la découverte de la littérature chrétienne classique et la richesse du patrimoine musical chrétien à travers une mécanique interactive et ludique.
+        </p>
+        <p style="font-size: 0.9rem; color: var(--color-gold);">Version 1.0.0 — Édition 2026</p>
+        
+        <div style="margin-top: 30px;">
+          <button class="btn-gold" onclick="showScreen('home')">Retour à l'accueil</button>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Premium Footer -->
+  <footer>
+    <p>© NJADAC 2026 – Préparation Culture Générale, Littérature & Musique. Tous droits réservés.</p>
+  </footer>
+
+  <!-- Sound effect utilities (synthesized audio via Web Audio API) -->
+  <script>
+    // Web Audio API Synth helper for sound effects (Premium UX feel!)
+    const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+    
+    function playSound(type) {
+      if (audioCtx.state === 'suspended') {
+        audioCtx.resume();
+      }
+      
+      const osc = audioCtx.createOscillator();
+      const gainNode = audioCtx.createGain();
+      osc.connect(gainNode);
+      gainNode.connect(audioCtx.destination);
+      
+      const now = audioCtx.currentTime;
+      
+      if (type === 'correct') {
+        // High ascending double tone
+        osc.frequency.setValueAtTime(523.25, now); // C5
+        osc.frequency.setValueAtTime(659.25, now + 0.1); // E5
+        gainNode.gain.setValueAtTime(0.1, now);
+        gainNode.gain.exponentialRampToValueAtTime(0.01, now + 0.4);
+        osc.start(now);
+        osc.stop(now + 0.4);
+      } else if (type === 'wrong') {
+        // Low buzzing tone
+        osc.type = 'sawtooth';
+        osc.frequency.setValueAtTime(150, now);
+        osc.frequency.linearRampToValueAtTime(100, now + 0.3);
+        gainNode.gain.setValueAtTime(0.15, now);
+        gainNode.gain.exponentialRampToValueAtTime(0.01, now + 0.3);
+        osc.start(now);
+        osc.stop(now + 0.3);
+      } else if (type === 'click') {
+        // Short high-pitched tick
+        osc.frequency.setValueAtTime(1200, now);
+        gainNode.gain.setValueAtTime(0.05, now);
+        gainNode.gain.exponentialRampToValueAtTime(0.001, now + 0.05);
+        osc.start(now);
+        osc.stop(now + 0.05);
+      } else if (type === 'timer') {
+        // Gentle click for tick
+        osc.frequency.setValueAtTime(800, now);
+        gainNode.gain.setValueAtTime(0.02, now);
+        gainNode.gain.exponentialRampToValueAtTime(0.001, now + 0.03);
+        osc.start(now);
+        osc.stop(now + 0.03);
+      } else if (type === 'victory') {
+        // Short festive arpeggio
+        const notes = [523.25, 659.25, 783.99, 1046.50]; // C5, E5, G5, C6
+        notes.forEach((freq, idx) => {
+          const oscNote = audioCtx.createOscillator();
+          const gainNote = audioCtx.createGain();
+          oscNote.connect(gainNote);
+          gainNote.connect(audioCtx.destination);
+          oscNote.frequency.setValueAtTime(freq, now + idx * 0.1);
+          gainNote.gain.setValueAtTime(0.1, now + idx * 0.1);
+          gainNote.gain.exponentialRampToValueAtTime(0.001, now + idx * 0.1 + 0.3);
+          oscNote.start(now + idx * 0.1);
+          oscNote.stop(now + idx * 0.1 + 0.3);
+        });
+      }
+    }
+  </script>
+
+  <!-- Game Scripts -->
+  <script src="js/database.js"></script>
+  <script src="js/engine.js"></script>
+  <script src="js/ui.js"></script>
+</body>
+</html>

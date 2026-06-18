@@ -1,0 +1,852 @@
+[
+  {
+    "id": "mus_1",
+    "category": "Musique Chrétienne",
+    "subcategory": "Paroles",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "De quel célèbre cantique de combat chrétien sont issues ces paroles : « Debout, sacrée cohorte, soldats du Roi des rois... » ?",
+    "options": [
+      "Debout, sacrée cohorte",
+      "À toi la gloire",
+      "Victoire au troisième jour",
+      "Soldats du Christ, debout !"
+    ],
+    "answer": "Debout, sacrée cohorte",
+    "explanation": "Ce chant est un cantique traditionnel francophone d'encouragement et de combat spirituel inspiré de la vie chrétienne comme un combat.",
+    "reference": "Cantique de combat chrétien"
+  },
+  {
+    "id": "mus_2",
+    "category": "Musique Chrétienne",
+    "subcategory": "Paroles",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel cantique patriotique et religieux contient le refrain : « Gloire, gloire, alléluia ! Sa vérité marche toujours ! » ?",
+    "options": [
+      "Mine Eyes Have Seen the Glory / Gloire Alléluia",
+      "Il est Seigneur",
+      "Louez l'Éternel",
+      "Dieu tout-puissant"
+    ],
+    "answer": "Mine Eyes Have Seen the Glory / Gloire Alléluia",
+    "explanation": "Aussi appelé 'The Battle Hymn of the Republic', ce cantique a été écrit par Julia Ward Howe en 1861 pendant la guerre de Sécession.",
+    "reference": "Julia Ward Howe (1861)"
+  },
+  {
+    "id": "mus_3",
+    "category": "Musique Chrétienne",
+    "subcategory": "Paroles",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel hymne commence par cette vibrante déclaration de foi : « Quelle assurance, Jésus est à moi ! » ?",
+    "options": [
+      "Quelle assurance (Blessed Assurance)",
+      "Jésus est mon salut",
+      "Reste avec moi",
+      "Grand Dieu, nous te bénissons"
+    ],
+    "answer": "Quelle assurance (Blessed Assurance)",
+    "explanation": "Ce cantique mondialement connu a été écrit par la prolifique parolière aveugle Fanny Crosby en 1873.",
+    "reference": "Fanny Crosby (1873)"
+  },
+  {
+    "id": "mus_4",
+    "category": "Musique Chrétienne",
+    "subcategory": "Paroles",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Dans quel cantique de consécration chante-t-on le désir suivant : « Auprès de toi, Seigneur, je veux rester... » ?",
+    "options": [
+      "Auprès de toi, Seigneur",
+      "Prends ma vie",
+      "Mon Dieu, plus près de toi",
+      "Rocher d'âges"
+    ],
+    "answer": "Auprès de toi, Seigneur",
+    "explanation": "C'est un cantique solennel de consécration personnelle et de confiance intime en la direction de Dieu.",
+    "reference": "Cantique de consécration"
+  },
+  {
+    "id": "mus_5",
+    "category": "Musique Chrétienne",
+    "subcategory": "Paroles",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "De quel chant joyeux de célébration pascale provient ce refrain : « Il est vivant, il est vivant ! Christ est ressuscité ! » ?",
+    "options": [
+      "Il est vivant (He Lives)",
+      "À toi la gloire",
+      "Jésus est ressuscité",
+      "Le tombeau est vide"
+    ],
+    "answer": "Il est vivant (He Lives)",
+    "explanation": "Composé en 1933 par Alfred Ackley, ce chant célèbre la présence continue et vivante du Christ ressuscité dans le cœur du croyant.",
+    "reference": "Alfred Ackley (1933)"
+  },
+  {
+    "id": "mus_6",
+    "category": "Musique Chrétienne",
+    "subcategory": "Paroles",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quelle version alternative francophone de Blessed Assurance commence par : « Ô bienheureuse assurance, Jésus m'appartient ! » ?",
+    "options": [
+      "Bienheureuse assurance",
+      "Quelle assurance",
+      "Jésus, mon doux trésor",
+      "Mon ancre en Christ"
+    ],
+    "answer": "Bienheureuse assurance",
+    "explanation": "Cette traduction francophone alternative du chant de Fanny Crosby souligne la joie paisible du salut en Christ.",
+    "reference": "Fanny Crosby"
+  },
+  {
+    "id": "mus_7",
+    "category": "Musique Chrétienne",
+    "subcategory": "Paroles",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Dans quel cantique francophone chante-t-on le refrain joyeux : « Je suis sauvé, je suis sauvé par la grâce de Dieu... » ?",
+    "options": [
+      "Je suis sauvé",
+      "Sublime grâce",
+      "La joie de mon salut",
+      "Racheté à grand prix"
+    ],
+    "answer": "Je suis sauvé",
+    "explanation": "Ce chant exprime la reconnaissance simple et joyeuse du croyant pour la grâce salvatrice reçue gratuitement.",
+    "reference": "Cantique de grâce"
+  },
+  {
+    "id": "mus_8",
+    "category": "Musique Chrétienne",
+    "subcategory": "Paroles",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "De quel chant de conversion mondialement célèbre sont extraites ces paroles : « Sublime grâce, amour puissant qui m'a sauvé, moi le pécheur ! » ?",
+    "options": [
+      "Sublime grâce (Amazing Grace)",
+      "Rocher d'âges",
+      "Mon Rédempteur est vivant",
+      "Quelle grâce infinie"
+    ],
+    "answer": "Sublime grâce (Amazing Grace)",
+    "explanation": "Écrit en 1772 par John Newton, ancien capitaine de navire négrier repenti, ce chant célèbre la grâce qui sauve et éclaire.",
+    "reference": "John Newton (1772)"
+  },
+  {
+    "id": "mus_9",
+    "category": "Musique Chrétienne",
+    "subcategory": "Paroles",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Dans quel cantique d'adoration moderne chante-t-on : « Car il est digne, l'Agneau qui fut immolé... » ?",
+    "options": [
+      "Il est digne (Worthy is the Lamb)",
+      "Agnus Dei",
+      "Majesté",
+      "Saint est le Seigneur"
+    ],
+    "answer": "Il est digne (Worthy is the Lamb)",
+    "explanation": "Ce chant est une hymne d'adoration solennelle calquée sur les louanges célestes du livre de l'Apocalypse.",
+    "reference": "Cantique d'adoration"
+  },
+  {
+    "id": "mus_10",
+    "category": "Musique Chrétienne",
+    "subcategory": "Paroles",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel chant de reconnaissance commence par : « Rendez grâces au Seigneur car il est bon, car éternel est son amour ! » ?",
+    "options": [
+      "Rendez grâces au Seigneur (Give Thanks)",
+      "Merci mon Dieu",
+      "Mon cœur te loue",
+      "Reconnaissance infinie"
+    ],
+    "answer": "Rendez grâces au Seigneur (Give Thanks)",
+    "explanation": "Composé par Henry Smith, ce chant invite à rendre grâce pour le salut et pour ce que Dieu a accompli en Jésus-Christ.",
+    "reference": "Henry Smith"
+  },
+  {
+    "id": "mus_11",
+    "category": "Musique Chrétienne",
+    "subcategory": "Paroles",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel refrain traditionnel francophone répète avec ferveur : « Ô combien j'aime Jésus, ô combien j'aime Jésus... » ?",
+    "options": [
+      "Ô combien j'aime Jésus (O How I Love Jesus)",
+      "Mon amour pour Jésus",
+      "Jésus est mon ami",
+      "Louange à mon Sauveur"
+    ],
+    "answer": "Ô combien j'aime Jésus (O How I Love Jesus)",
+    "explanation": "Inspiré de l'hymne américain 'O How I Love Jesus', ce chant exprime l'affection personnelle et la dévotion du croyant.",
+    "reference": "Frederick Whitfield (1855)"
+  },
+  {
+    "id": "mus_12",
+    "category": "Musique Chrétienne",
+    "subcategory": "Paroles",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "De quel cantique classique provient cette prière de consécration : « Jésus, je t'appartiens à jamais, je suis à toi, rien qu'à toi... » ?",
+    "options": [
+      "Jésus, je t'appartiens",
+      "Prends ma vie",
+      "Entre tes mains j'abandonne",
+      "Plus près de toi"
+    ],
+    "answer": "Jésus, je t'appartiens",
+    "explanation": "Ce cantique traditionnel met l'accent sur l'engagement inconditionnel et le dévouement du croyant à Jésus.",
+    "reference": "Cantique de consécration"
+  },
+  {
+    "id": "mus_13",
+    "category": "Musique Chrétienne",
+    "subcategory": "Paroles",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel hymne solennel traduit de 'Rock of Ages' débute par la prière : « Près de toi, mon Rocher, abrite-moi... » ?",
+    "options": [
+      "Rocher du siècle passé / Rock of Ages",
+      "Rocher d'âges",
+      "Jésus mon rocher",
+      "Ma forteresse divine"
+    ],
+    "answer": "Rocher du siècle passé / Rock of Ages",
+    "explanation": "Composé à l'origine en anglais en 1776 par Augustus Toplady, ce chant fait du Christ le rocher fendu pour abriter le pécheur.",
+    "reference": "Augustus Toplady (1776)"
+  },
+  {
+    "id": "mus_14",
+    "category": "Musique Chrétienne",
+    "subcategory": "Paroles",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quelle composition chorale célèbre se termine par le retentissant refrain : « Alléluia, alléluia, alléluia, amen ! » ?",
+    "options": [
+      "Alléluia (Refrain du Messie)",
+      "L'hymne à la joie",
+      "Le choeur des anges",
+      "Gloria in excelsis"
+    ],
+    "answer": "Alléluia (Refrain du Messie)",
+    "explanation": "Ce célèbre choeur appartient à l'oratorio 'Le Messie' composé par Georg Friedrich Haendel en 1741, couramment chanté à Noël et à Pâques.",
+    "reference": "Georg Friedrich Haendel (1741)"
+  },
+  {
+    "id": "mus_15",
+    "category": "Musique Chrétienne",
+    "subcategory": "Paroles",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel cantique majestueux de louange commence par : « Dieu tout-puissant, quand mon âme émerveillée contemple tous les mondes que ta main a créés... » ?",
+    "options": [
+      "Grand Dieu, nous te bénissons (How Great Thou Art)",
+      "Dieu tout-puissant, roi des cieux",
+      "Louange au Créateur",
+      "Splendeur de la création"
+    ],
+    "answer": "Grand Dieu, nous te bénissons (How Great Thou Art)",
+    "explanation": "Traduit de l'hymne suédoise de Carl Boberg, ce chant est l'une des louanges chrétiennes les plus célèbres, célébrant la création et la rédemption.",
+    "reference": "Carl Boberg / Stuart Hine"
+  },
+  {
+    "id": "mus_16",
+    "category": "Musique Chrétienne",
+    "subcategory": "Paroles",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "De quel cantique classique de consécration proviennent ces paroles : « Prends ma vie et qu'elle soit consacrée, Seigneur, à toi... » ?",
+    "options": [
+      "Prends ma vie (Take My Life)",
+      "Jésus je t'aime",
+      "Entre tes mains",
+      "Consécration totale"
+    ],
+    "answer": "Prends ma vie (Take My Life)",
+    "explanation": "Écrit par Frances Havergal en 1874, ce chant détaille l'abandon volontaire de toutes les facultés physiques et matérielles du croyant à Dieu.",
+    "reference": "Frances Havergal (1874)"
+  },
+  {
+    "id": "mus_17",
+    "category": "Musique Chrétienne",
+    "subcategory": "Paroles",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Dans quel cantique de louange francophone chante-t-on le refrain : « Seigneur, je veux te louer, te remercier pour tout... » ?",
+    "options": [
+      "Seigneur, je veux te louer",
+      "Merci d'un coeur reconnaissant",
+      "Je veux te chanter mon Dieu",
+      "Reconnaissance infinie"
+    ],
+    "answer": "Seigneur, je veux te louer",
+    "explanation": "Il s'agit d'un cantique de louange simple et direct, largement utilisé dans les assemblées francophones pour exprimer la gratitude.",
+    "reference": "Cantique de louange francophone"
+  },
+  {
+    "id": "mus_18",
+    "category": "Musique Chrétienne",
+    "subcategory": "Paroles",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "De quelle ballade d'adoration de Keith Green sont extraites ces paroles : « Ô Seigneur, tu es beau, ta beauté remplit l'univers... » ?",
+    "options": [
+      "Ô Seigneur, tu es beau (O Lord, You're Beautiful)",
+      "Ton amour m'étonne",
+      "Créateur de l'univers",
+      "Beauté céleste"
+    ],
+    "answer": "Ô Seigneur, tu es beau (O Lord, You're Beautiful)",
+    "explanation": "Keith Green a écrit cette chanson en 1980 comme une prière de consécration et un appel à préserver la pureté de son amour pour Dieu.",
+    "reference": "Keith Green (1980)"
+  },
+  {
+    "id": "mus_19",
+    "category": "Musique Chrétienne",
+    "subcategory": "Paroles",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Dans quel chant traditionnel d'invocation chrétienne chante-t-on : « Viens, Saint-Esprit, remplis nos cœurs d'amour divin... » ?",
+    "options": [
+      "Viens, Saint-Esprit",
+      "Esprit de Dieu, souffle sur nous",
+      "Viens en nos coeurs, Consolateur",
+      "Descends, Esprit Saint"
+    ],
+    "answer": "Viens, Saint-Esprit",
+    "explanation": "C'est un cantique classique d'invocation demandant l'effusion, la direction et l'amour du Saint-Esprit au milieu de l'assemblée.",
+    "reference": "Cantique d'invocation du Saint-Esprit"
+  },
+  {
+    "id": "mus_20",
+    "category": "Musique Chrétienne",
+    "subcategory": "Paroles",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "De quel cantique moderne provient cette affirmation : « Au nom de Jésus, au nom de Jésus, toute langue confessera que Jésus-Christ est Seigneur ! » ?",
+    "options": [
+      "Au nom de Jésus (At the Name of Jesus)",
+      "Proclamez son saint nom",
+      "Jésus est Seigneur",
+      "Toute langue confessera"
+    ],
+    "answer": "Au nom de Jésus (At the Name of Jesus)",
+    "explanation": "Basé sur Philippiens 2:9-11, ce cantique célèbre l'élévation et la seigneurie suprême de Jésus-Christ sur toute la création.",
+    "reference": "Caroline Noel / variations modernes"
+  },
+  {
+    "id": "mus_21",
+    "category": "Musique Chrétienne",
+    "subcategory": "Auteurs",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quelle parolière américaine, aveugle depuis l'enfance, a rédigé plus de 8 000 cantiques dont le célèbre 'Blessed Assurance' ?",
+    "options": [
+      "Fanny Crosby",
+      "Charlotte Elliott",
+      "Sarah Adams",
+      "Frances Havergal"
+    ],
+    "answer": "Fanny Crosby",
+    "explanation": "Fanny Crosby (1820-1915) est l'une des plus célèbres compositrices d'hymnes chrétiennes de l'histoire, publiant sous de nombreux pseudonymes.",
+    "reference": "Fanny Crosby (1820–1915)"
+  },
+  {
+    "id": "mus_22",
+    "category": "Musique Chrétienne",
+    "subcategory": "Auteurs",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel compositeur de l'époque baroque a composé le monumental oratorio 'Le Messie' qui contient le célèbre 'Alléluia' ?",
+    "options": [
+      "Georg Friedrich Haendel",
+      "Johann Sebastian Bach",
+      "Antonio Vivaldi",
+      "Wolfgang Amadeus Mozart"
+    ],
+    "answer": "Georg Friedrich Haendel",
+    "explanation": "Haendel a composé cette œuvre magistrale en seulement 24 jours en 1741, retraçant la vie et le ministère prophétique de Jésus.",
+    "reference": "Composé en 1741"
+  },
+  {
+    "id": "mus_23",
+    "category": "Musique Chrétienne",
+    "subcategory": "Auteurs",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Qui a rédigé le chant de repentance et de grâce 'Amazing Grace' après avoir abandonné son métier de marchand d'esclaves ?",
+    "options": [
+      "John Newton",
+      "William Cowper",
+      "Charles Wesley",
+      "Isaac Watts"
+    ],
+    "answer": "John Newton",
+    "explanation": "Touché par la grâce divine lors d'une tempête en mer, Newton a quitté la traite des esclaves pour devenir pasteur anglican et hymnographe.",
+    "reference": "Écrit en 1772"
+  },
+  {
+    "id": "mus_24",
+    "category": "Musique Chrétienne",
+    "subcategory": "Auteurs",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel compositeur luthérien allemand a écrit la monumentale 'Passion selon saint Matthieu' et des centaines de cantates pour l'Église ?",
+    "options": [
+      "Johann Sebastian Bach",
+      "Felix Mendelssohn",
+      "Johannes Brahms",
+      "Dietrich Buxtehude"
+    ],
+    "answer": "Johann Sebastian Bach",
+    "explanation": "Jean-Sébastien Bach (1685-1750) signait toutes ses œuvres musicales de la mention 'S.D.G.' (Soli Deo Gloria : À Dieu seul la gloire).",
+    "reference": "Baroque, 1685–1750"
+  },
+  {
+    "id": "mus_25",
+    "category": "Musique Chrétienne",
+    "subcategory": "Auteurs",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel pasteur suédois a rédigé le poème d'origine 'O Store Gud', devenu mondialement célèbre sous le titre 'How Great Thou Art' (Grand Dieu, nous te bénissons) ?",
+    "options": [
+      "Carl Boberg",
+      "Stuart Hine",
+      "Lars Olsen",
+      "Sven Nilsson"
+    ],
+    "answer": "Carl Boberg (texte suédois, 1885), adapté en anglais par Stuart Hine",
+    "explanation": "Boberg a écrit le poème en 1885 suite à un orage violent. Il a ensuite été traduit en anglais et popularisé par le missionnaire Stuart Hine.",
+    "reference": "Carl Boberg (texte suédois, 1885), adapté en anglais par Stuart Hine"
+  },
+  {
+    "id": "mus_26",
+    "category": "Musique Chrétienne",
+    "subcategory": "Auteurs",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel pasteur anglais du XVIIIe siècle a fondé avec son frère Charles le mouvement méthodiste, réputé pour son renouveau des cantiques ?",
+    "options": [
+      "John Wesley (et Charles Wesley)",
+      "George Whitefield",
+      "Jonathan Edwards",
+      "John Bunyan"
+    ],
+    "answer": "John Wesley (et Charles Wesley)",
+    "explanation": "Les frères Wesley ont utilisé les cantiques pour propager la théologie et réformer spirituellement l'Angleterre.",
+    "reference": "XVIIIe siècle"
+  },
+  {
+    "id": "mus_27",
+    "category": "Musique Chrétienne",
+    "subcategory": "Auteurs",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Combien de cantiques environ le très prolifique théologien méthodiste Charles Wesley a-t-il composés ?",
+    "options": [
+      "Plus de 6 000 cantiques",
+      "Environ 1 000 cantiques",
+      "Plus de 10 000 cantiques",
+      "Environ 500 cantiques"
+    ],
+    "answer": "Plus de 6 000 cantiques",
+    "explanation": "Charles Wesley (1707-1788) est considéré comme l'un des plus grands poètes hymnographes de l'histoire chrétienne, écrivant plus de 6 000 cantiques.",
+    "reference": "Charles Wesley (1707–1788)"
+  },
+  {
+    "id": "mus_28",
+    "category": "Musique Chrétienne",
+    "subcategory": "Auteurs",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Qui a composé la musique du célèbre cantique de Noël 'O Holy Night' (Minuit, chrétiens) ?",
+    "options": [
+      "Adolphe Adam (musique), Placide Cappeau (paroles)",
+      "Franz Schubert",
+      "Charles Gounod",
+      "Hector Berlioz"
+    ],
+    "answer": "Adolphe Adam (musique), Placide Cappeau (paroles)",
+    "explanation": "Les paroles ont été écrites par Placide Cappeau en 1847 et mises en musique par le célèbre compositeur d'opéra Adolphe Adam.",
+    "reference": "1847"
+  },
+  {
+    "id": "mus_29",
+    "category": "Musique Chrétienne",
+    "subcategory": "Auteurs",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quelle leader de louange australienne est l'auteure du chant emblématique 'Shout to the Lord' (Proclamez son nom) ?",
+    "options": [
+      "Darlene Zschech",
+      "Brooke Ligertwood",
+      "Darlene Schech",
+      "Taya Smith"
+    ],
+    "answer": "Darlene Zschech",
+    "explanation": "Darlene Zschech a écrit ce chant en 1993, devenant le pivot du ministère de Hillsong Worship et propulsant la louange contemporaine.",
+    "reference": "Hillsong, 1993"
+  },
+  {
+    "id": "mus_30",
+    "category": "Musique Chrétienne",
+    "subcategory": "Auteurs",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quelle église locale australienne, fondée par Brian Houston, est à l'origine du mouvement de louange mondial contemporain 'Hillsong' ?",
+    "options": [
+      "Hillsong Church / Brian Houston",
+      "Anglican Church of Sydney",
+      "Planetshakers",
+      "C3 Church"
+    ],
+    "answer": "Hillsong Church / Brian Houston",
+    "explanation": "Née à Sydney, Hillsong a révolutionné la musique chrétienne mondiale à travers ses albums live et ses compositions modernes.",
+    "reference": "Sydney, Australie"
+  },
+  {
+    "id": "mus_31",
+    "category": "Musique Chrétienne",
+    "subcategory": "Auteurs",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Qui sont les auteurs de la célèbre hymne traditionnelle 'Great Is Thy Faithfulness' (Grande est ta fidélité) ?",
+    "options": [
+      "Thomas O. Chisholm (paroles), William M. Runyan (musique)",
+      "Horatio Spafford (paroles), Philip Bliss (musique)",
+      "Isaac Watts (paroles), J.S. Bach (musique)",
+      "Fanny Crosby (paroles), William Doane (musique)"
+    ],
+    "answer": "Thomas O. Chisholm (paroles), William M. Runyan (musique)",
+    "explanation": "Chisholm a écrit le poème en 1923 sur les compassions infinies de Dieu (Lamentations 3), et Runyan l'a mis en musique.",
+    "reference": "1923"
+  },
+  {
+    "id": "mus_32",
+    "category": "Musique Chrétienne",
+    "subcategory": "Auteurs",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel musicien américain a écrit et composé le cantique d'adoration 'O How I Love Jesus' en 1855 ?",
+    "options": [
+      "Frederick Whitfield",
+      "Philip Bliss",
+      "Ira Sankey",
+      "Lowell Mason"
+    ],
+    "answer": "Frederick Whitfield",
+    "explanation": "Frederick Whitfield, ministre de l'Église d'Angleterre, a composé ce texte poétique centré sur la beauté du nom de Jésus.",
+    "reference": "1855"
+  },
+  {
+    "id": "mus_33",
+    "category": "Musique Chrétienne",
+    "subcategory": "Auteurs",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel artiste chrétien contemporain et pionnier de la CCM (Contemporary Christian Music) a composé le chant d'adoration liturgique 'Agnus Dei' ?",
+    "options": [
+      "Michael W. Smith",
+      "Chris Tomlin",
+      "Steven Curtis Chapman",
+      "Matt Redman"
+    ],
+    "answer": "Michael W. Smith",
+    "explanation": "Michael W. Smith est l'une des figures majeures de la louange américaine contemporaine, ayant popularisé ce chant à partir des années 1990.",
+    "reference": "Contemporain"
+  },
+  {
+    "id": "mus_34",
+    "category": "Musique Chrétienne",
+    "subcategory": "Auteurs",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel groupe de louange contemporain australien a popularisé le chant à succès planétaire 'Oceans (Where Feet May Fail)' en 2013 ?",
+    "options": [
+      "Hillsong United",
+      "Bethel Music",
+      "Elevation Worship",
+      "Casting Crowns"
+    ],
+    "answer": "Hillsong United",
+    "explanation": "Interprété à l'origine par Taya Smith, ce chant sur la marche par la foi sur les eaux s'est imposé dans le monde entier.",
+    "reference": "2013"
+  },
+  {
+    "id": "mus_35",
+    "category": "Musique Chrétienne",
+    "subcategory": "Auteurs",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Qui a composé le célèbre cantique traditionnel 'What a Friend We Have in Jesus' (Quel ami fidèle et tendre) ?",
+    "options": [
+      "Joseph M. Scriven (paroles), Charles C. Converse (musique)",
+      "John Newton (paroles), traditional (musique)",
+      "Charles Wesley (paroles), Lowell Mason (musique)",
+      "Horatio Spafford (paroles), Philip Bliss (musique)"
+    ],
+    "answer": "Joseph M. Scriven (paroles), Charles C. Converse (musique)",
+    "explanation": "Scriven a écrit ce poème en 1855 pour réconforter sa mère malade restée en Irlande, sans intention de le publier.",
+    "reference": "1855"
+  },
+  {
+    "id": "mus_36",
+    "category": "Musique Chrétienne",
+    "subcategory": "Auteurs",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel écrivain a rédigé les paroles de l'hymne chrétienne 'Joyful, Joyful, We Adore Thee' adaptée sur la mélodie de l'Ode à la Joie de Beethoven ?",
+    "options": [
+      "Henry van Dyke (paroles) sur l'Ode à la Joie de Beethoven",
+      "Isaac Watts",
+      "John Keble",
+      "Charles Wesley"
+    ],
+    "answer": "Henry van Dyke (paroles) sur l'Ode à la Joie de Beethoven",
+    "explanation": "Henry van Dyke a composé ce poème en 1907 lors d'un séjour dans les montagnes de Pennsylvanie pour l'adapter au choeur final de la 9e symphonie de Beethoven.",
+    "reference": "1907"
+  },
+  {
+    "id": "mus_37",
+    "category": "Musique Chrétienne",
+    "subcategory": "Auteurs",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel artiste chrétien francophone africain s'est fait connaître en Afrique de l'Ouest par le chant rythmé 'Dieu est bon' ?",
+    "options": [
+      "Plusieurs artistes — notamment Yoro Mbaye ou chantres francophones selon les régions",
+      "Marcel Boungou",
+      "Maggie Blanchard",
+      "Dena Mwana"
+    ],
+    "answer": "Plusieurs artistes — notamment Yoro Mbaye ou chantres francophones selon les régions",
+    "explanation": "Le chant 'Dieu est bon' est un chant traditionnel populaire d'action de grâce très populaire en Afrique francophone sous différentes adaptations.",
+    "reference": "Musique chrétienne africaine"
+  },
+  {
+    "id": "mus_38",
+    "category": "Musique Chrétienne",
+    "subcategory": "Auteurs",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Qui a composé le célèbre cantique anglican du XIXe siècle 'Abide With Me' (Reste avec moi, le jour décline) ?",
+    "options": [
+      "Henry Francis Lyte (paroles), William Henry Monk (musique)",
+      "John Keble (paroles), Samuel Wesley (musique)",
+      "Reginald Heber (paroles), Arthur Sullivan (musique)",
+      "Horatio Spafford (paroles), Philip Bliss (musique)"
+    ],
+    "answer": "Henry Francis Lyte (paroles), William Henry Monk (musique)",
+    "explanation": "Lyte a écrit ce cantique alors qu'il mourait de la tuberculose en 1847. Monk a composé la musique après sa mort.",
+    "reference": "1847"
+  },
+  {
+    "id": "mus_39",
+    "category": "Musique Chrétienne",
+    "subcategory": "Auteurs",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel chanteur et leader de Bethel Music a écrit et popularisé le chant à succès 'Reckless Love' (Amour fou/extravagant) en 2017 ?",
+    "options": [
+      "Cory Asbury / Bethel Music",
+      "Brian Johnson",
+      "Phil Wickham",
+      "Jeremy Riddle"
+    ],
+    "answer": "Cory Asbury / Bethel Music",
+    "explanation": "Cory Asbury a composé ce chant pour décrire l'amour inconditionnel et 'insensé' de Dieu qui poursuit la brebis perdue.",
+    "reference": "2017"
+  },
+  {
+    "id": "mus_40",
+    "category": "Musique Chrétienne",
+    "subcategory": "Auteurs",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel prédicateur américain a composé le célèbre hymne d'adoration de la croix 'The Old Rugged Cross' (La vieille croix rugueuse) en 1913 ?",
+    "options": [
+      "George Bennard",
+      "Billy Sunday",
+      "A.B. Simpson",
+      "D.L. Moody"
+    ],
+    "answer": "George Bennard",
+    "explanation": "Bennard a composé les paroles et la musique de ce chant après avoir été profondément éprouvé dans son ministère, glorifiant la croix de Christ.",
+    "reference": "1913"
+  },
+  {
+    "id": "mus_41",
+    "category": "Musique Chrétienne",
+    "subcategory": "Histoire",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel livre biblique de l'Ancien Testament est considéré comme le plus ancien recueil officiel de cantiques chrétiens et juifs connu ?",
+    "options": [
+      "Le Psautier (les 150 Psaumes de la Bible)",
+      "Le livre de l'Exode",
+      "Le livre des Lamentations",
+      "Le Cantique des Cantiques"
+    ],
+    "answer": "Le Psautier (les 150 Psaumes de la Bible)",
+    "explanation": "Les Psaumes étaient chantés au Temple de Jérusalem avec des instruments, constituant le recueil de chants liturgiques par excellence.",
+    "reference": "Utilisé depuis l'Antiquité"
+  },
+  {
+    "id": "mus_42",
+    "category": "Musique Chrétienne",
+    "subcategory": "Histoire",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Qu'est-ce qu'un 'cantique' dans la tradition musicale et liturgique chrétienne ?",
+    "options": [
+      "Un chant religieux d'adoration et de louange à Dieu",
+      "Un poème purement profane sans référence spirituelle",
+      "Une pièce instrumentale sans paroles",
+      "Un discours politique mis en musique"
+    ],
+    "answer": "Un chant religieux d'adoration et de louange à Dieu",
+    "explanation": "Le mot cantique vient du latin canticum, désignant un chant d'adoration biblique ou traditionnel chrétien.",
+    "reference": "Du latin 'canticum'"
+  },
+  {
+    "id": "mus_43",
+    "category": "Musique Chrétienne",
+    "subcategory": "Histoire",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "À quelle époque historique la polyphonie (le chant à plusieurs voix indépendantes) a-t-elle été introduite dans la musique d'Église ?",
+    "options": [
+      "Au Moyen Âge (IXe–Xe siècle)",
+      "À la Renaissance (XIVe siècle)",
+      "À la Réforme (XVIe siècle)",
+      "À l'époque classique (XVIIIe siècle)"
+    ],
+    "answer": "Au Moyen Âge (IXe–Xe siècle)",
+    "explanation": "La polyphonie est apparue dans la musique liturgique à travers l'organum médiéval au sein des cathédrales et des monastères.",
+    "reference": "Développée dans les cathédrales"
+  },
+  {
+    "id": "mus_44",
+    "category": "Musique Chrétienne",
+    "subcategory": "Histoire",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel grand réformateur du XVIe siècle a insisté sur l'importance du chant congrégationnel en langue populaire et a lui-même composé des cantiques ?",
+    "options": [
+      "Martin Luther",
+      "Jean Calvin",
+      "Thomas Cranmer",
+      "Menno Simons"
+    ],
+    "answer": "Martin Luther",
+    "explanation": "Martin Luther a réformé le culte en traduisant les chants en allemand et en composant de nombreux cantiques célèbres, comme 'C'est un rempart que notre Dieu'.",
+    "reference": "Il a lui-même composé des cantiques"
+  },
+  {
+    "id": "mus_45",
+    "category": "Musique Chrétienne",
+    "subcategory": "Histoire",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel célèbre cantique de Noël (Silent Night / Stille Nacht) est né en Autriche en 1818 ?",
+    "options": [
+      "Douce nuit (Silent Night / Stille Nacht)",
+      "Mon beau sapin",
+      "Minuit, chrétiens",
+      "Les anges dans nos campagnes"
+    ],
+    "answer": "Douce nuit (Silent Night / Stille Nacht)",
+    "explanation": "Ce chant de paix universel a été écrit par le prêtre Joseph Mohr et mis en musique à la guitare par l'organiste Franz Xaver Gruber en 1818.",
+    "reference": "Franz Gruber et Joseph Mohr"
+  },
+  {
+    "id": "mus_46",
+    "category": "Musique Chrétienne",
+    "subcategory": "Histoire",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Qu'est-ce que le style musical 'Gospel' (ou Gospel Music) dans l'histoire chrétienne ?",
+    "options": [
+      "Une musique chrétienne née dans les communautés afro-américaines aux États-Unis",
+      "Un style liturgique grégorien traditionnel",
+      "Un genre de musique instrumentale sans voix",
+      "La musique officielle de la cour de l'Empire byzantin"
+    ],
+    "answer": "Une musique chrétienne née dans les communautés afro-américaines aux États-Unis",
+    "explanation": "Le Gospel a émergé des Negro spirituals des esclaves afro-américains combinés avec les cantiques des églises méthodistes au XIXe-XXe siècle.",
+    "reference": "XIXe–XXe siècle"
+  },
+  {
+    "id": "mus_47",
+    "category": "Musique Chrétienne",
+    "subcategory": "Histoire",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel mouvement spirituel de jeunesse des années 1960-1970 aux USA a donné naissance à la musique de louange contemporaine (CCM) ?",
+    "options": [
+      "Le mouvement du Jésus (Jesus Movement)",
+      "Le réveil de la rue Azusa",
+      "La contre-culture hippie",
+      "Le réveil gallois"
+    ],
+    "answer": "Le mouvement du Jésus (Jesus Movement)",
+    "explanation": "Le Jesus Movement a combiné la culture musicale rock des hippies convertis avec la foi chrétienne, créant les premiers labels de louange moderne (comme Maranatha! Music).",
+    "reference": "États-Unis, années 1960–1970"
+  },
+  {
+    "id": "mus_48",
+    "category": "Musique Chrétienne",
+    "subcategory": "Histoire",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Que signifie l'expression de chant 'a cappella' dans la liturgie chrétienne ?",
+    "options": [
+      "Un chant exécuté à voix nue, sans aucun accompagnement d'instrument",
+      "Un chant réservé exclusivement au chef de choeur",
+      "Un chant accompagné uniquement d'une guitare acoustique",
+      "Une prière récitée à haute voix sans chant"
+    ],
+    "answer": "Un chant exécuté à voix nue, sans aucun accompagnement d'instrument",
+    "explanation": "D'origine italienne, 'a cappella' signifie 'à la manière de la chapelle', faisant référence à la tradition d'exclure les instruments dans certaines Églises.",
+    "reference": "Tradition de certaines Églises"
+  },
+  {
+    "id": "mus_49",
+    "category": "Musique Chrétienne",
+    "subcategory": "Histoire",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel majestueux instrument à vent et à claviers est traditionnellement associé à la musique liturgique dans les cathédrales chrétiennes ?",
+    "options": [
+      "L'orgue",
+      "Le piano",
+      "Le clavecin",
+      "La harpe céleste"
+    ],
+    "answer": "L'orgue",
+    "explanation": "L'orgue à tuyaux s'est imposé au Moyen Âge comme l'instrument par excellence des grandes églises chrétiennes en Occident pour soutenir le chant choral.",
+    "reference": "Présent dans les cathédrales depuis le Moyen Âge"
+  },
+  {
+    "id": "mus_50",
+    "category": "Musique Chrétienne",
+    "subcategory": "Histoire",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Que signifie le mot d'origine grecque 'Psaume' (psalmos) ?",
+    "options": [
+      "Un chant sacré exécuté avec accompagnement d'instruments à cordes",
+      "Un poème récité en silence",
+      "Une prophétie de jugement",
+      "Une proclamation solennelle du roi"
+    ],
+    "answer": "Un chant sacré exécuté avec accompagnement d'instruments à cordes",
+    "explanation": "Psalmos désignait en grec le son d'un instrument à cordes (le psaltérion) touché par les doigts, puis le chant sacré qui l'accompagnait.",
+    "reference": "Origine grecque"
+  }
+]

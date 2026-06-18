@@ -1,0 +1,18 @@
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Scratch / dev only
+scratch/
+
+# IDE & OS
+.vscode/
+.agents/
+*.log
+Thumbs.db
+.DS_Store
+
+# Temp
+*.tmp
+*.bak

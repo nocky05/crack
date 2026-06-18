@@ -1,0 +1,852 @@
+[
+  {
+    "id": "ap_niv_1",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "À qui Jésus-Christ a-t-il donné la révélation de l'Apocalypse ?",
+    "options": [
+      "À son serviteur Jean",
+      "À l'apôtre Pierre",
+      "À l'apôtre Paul",
+      "À Marie de Magdala"
+    ],
+    "answer": "À son serviteur Jean",
+    "explanation": "La révélation a été donnée par Dieu à Jésus-Christ, qui l'a fait connaître à son serviteur Jean par l'envoi de son ange.",
+    "reference": "Ap 1:1"
+  },
+  {
+    "id": "ap_niv_2",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Dans quelle île Jean était-il exilé quand il a reçu la vision ?",
+    "options": [
+      "L'île de Patmos",
+      "L'île de Malte",
+      "L'île de Chypre",
+      "L'île de Crète"
+    ],
+    "answer": "L'île de Patmos",
+    "explanation": "Jean précise qu'il se trouvait sur l'île de Patmos à cause de la parole de Dieu et du témoignage de Jésus.",
+    "reference": "Ap 1:9"
+  },
+  {
+    "id": "ap_niv_3",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "À combien d'Églises les lettres de l'Apocalypse sont-elles adressées ?",
+    "options": [
+      "Sept Églises",
+      "Trois Églises",
+      "Dix Églises",
+      "Douze Églises"
+    ],
+    "answer": "Sept Églises",
+    "explanation": "Les lettres sont adressées spécifiquement à sept Églises d'Asie Mineure.",
+    "reference": "Ap 1:4, 11"
+  },
+  {
+    "id": "ap_niv_4",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Comment Jésus se désigne-t-il en disant « Je suis l'Alpha et l'Oméga » ?",
+    "options": [
+      "Le Premier et le Dernier / Celui qui est, qui était et qui vient",
+      "Le Chemin et la Vérité",
+      "Le Cep et les Sarments",
+      "Le Bon Berger"
+    ],
+    "answer": "Le Premier et le Dernier / Celui qui est, qui était et qui vient",
+    "explanation": "Ces titres soulignent l'éternité et la souveraineté absolue de Jésus-Christ sur l'histoire.",
+    "reference": "Ap 1:8, 17"
+  },
+  {
+    "id": "ap_niv_5",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel est le nombre de sceaux mentionnés dans l'Apocalypse ?",
+    "options": [
+      "Sept sceaux",
+      "Trois sceaux",
+      "Douze sceaux",
+      "Quarante sceaux"
+    ],
+    "answer": "Sept sceaux",
+    "explanation": "Le livre (ou rouleau) tenu par Dieu sur le trône est scellé de sept sceaux.",
+    "reference": "Ap 5:1 ; 6:1"
+  },
+  {
+    "id": "ap_niv_6",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Combien de trompettes sont sonnées dans l'Apocalypse ?",
+    "options": [
+      "Sept trompettes",
+      "Dix trompettes",
+      "Douze trompettes",
+      "Vingt-quatre trompettes"
+    ],
+    "answer": "Sept trompettes",
+    "explanation": "Après l'ouverture du 7e sceau, sept anges reçoivent sept trompettes annonçant les jugements.",
+    "reference": "Ap 8:2"
+  },
+  {
+    "id": "ap_niv_7",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel animal représente Jésus-Christ comme digne d'ouvrir le livre aux sept sceaux ?",
+    "options": [
+      "L'Agneau (qui avait été immolé)",
+      "Le Lionceau de Juda",
+      "Le Taureau ailé",
+      "L'Aigle majestueux"
+    ],
+    "answer": "L'Agneau (qui avait été immolé)",
+    "explanation": "Bien qu'il soit appelé le Lion de Juda, il apparaît à Jean sous la forme d'un Agneau immolé.",
+    "reference": "Ap 5:6–9"
+  },
+  {
+    "id": "ap_niv_8",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Combien de coupes de la colère de Dieu sont versées dans l'Apocalypse ?",
+    "options": [
+      "Sept coupes",
+      "Trois coupes",
+      "Dix coupes",
+      "Douze coupes"
+    ],
+    "answer": "Sept coupes",
+    "explanation": "Le jugement final de Dieu s'accomplit par le versement des sept coupes d'or.",
+    "reference": "Ap 16:1"
+  },
+  {
+    "id": "ap_niv_9",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quelle est la première Église citée dans les lettres de l'Apocalypse ?",
+    "options": [
+      "Éphèse",
+      "Smyrne",
+      "Pergame",
+      "Laodicée"
+    ],
+    "answer": "Éphèse",
+    "explanation": "Éphèse est la première des 7 Églises adressées dans la vision.",
+    "reference": "Ap 2:1"
+  },
+  {
+    "id": "ap_niv_10",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Comment appelle-t-on la grande ville symbolique représentant l'impiété ?",
+    "options": [
+      "Babylone la Grande",
+      "Sodome l'impure",
+      "Ninive la pécheresse",
+      "Rome la dominatrice"
+    ],
+    "answer": "Babylone la Grande",
+    "explanation": "Babylone symbolise le système mondial opposé à Dieu.",
+    "reference": "Ap 17:5"
+  },
+  {
+    "id": "ap_niv_11",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Combien d'anciens sont assis autour du trône de Dieu ?",
+    "options": [
+      "Vingt-quatre anciens",
+      "Douze anciens",
+      "Sept anciens",
+      "Cent quarante-quatre anciens"
+    ],
+    "answer": "Vingt-quatre anciens",
+    "explanation": "Vingt-quatre anciens siègent sur des trônes autour du trône principal.",
+    "reference": "Ap 4:4"
+  },
+  {
+    "id": "ap_niv_12",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel est le nom du séjour des morts mentionné aux côtés de la mort ?",
+    "options": [
+      "Le séjour des morts (Hadès)",
+      "La Géhenne",
+      "L'Abîme",
+      "Le Tartare"
+    ],
+    "answer": "Le séjour des morts (Hadès)",
+    "explanation": "Jésus déclare tenir les clés de la mort et du séjour des morts (Hadès).",
+    "reference": "Ap 1:18 ; 6:8"
+  },
+  {
+    "id": "ap_niv_13",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel jour Jean a-t-il reçu sa vision selon Apocalypse 1:10 ?",
+    "options": [
+      "Le jour du Seigneur (le dimanche)",
+      "Le jour du Sabbat (samedi)",
+      "Le jour de la Pâque",
+      "Le jour de la Pentecôte"
+    ],
+    "answer": "Le jour du Seigneur (le dimanche)",
+    "explanation": "Jean dit qu'il fut saisi par l'Esprit le jour du Seigneur.",
+    "reference": "Ap 1:10"
+  },
+  {
+    "id": "ap_niv_14",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Comment est appelée la cité sainte qui descend du ciel à la fin de l'Apocalypse ?",
+    "options": [
+      "La nouvelle Jérusalem",
+      "Le nouvel Éden",
+      "La nouvelle Sion",
+      "La Cité d'Or"
+    ],
+    "answer": "La nouvelle Jérusalem",
+    "explanation": "Elle descend du ciel d'auprès de Dieu, préparée comme une épouse.",
+    "reference": "Ap 21:2"
+  },
+  {
+    "id": "ap_niv_15",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Combien de portes a la nouvelle Jérusalem ?",
+    "options": [
+      "Douze portes",
+      "Sept portes",
+      "Trois portes",
+      "Vingt-quatre portes"
+    ],
+    "answer": "Douze portes",
+    "explanation": "La ville a douze portes, gardées par douze anges, aux noms des douze tribus.",
+    "reference": "Ap 21:12"
+  },
+  {
+    "id": "ap_niv_16",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Par quel symbole est représenté Satan dans l'Apocalypse ?",
+    "options": [
+      "Le grand dragon rouge / l'ancien serpent",
+      "Le lion rugissant",
+      "Le bouc émissaire",
+      "Le loup ravisseur"
+    ],
+    "answer": "Le grand dragon rouge / l'ancien serpent",
+    "explanation": "Satan est décrit comme un grand dragon rouge feu et l'ancien serpent.",
+    "reference": "Ap 12:9"
+  },
+  {
+    "id": "ap_niv_17",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quelle Église est qualifiée de « tiède » et risque d'être rejetée par Dieu ?",
+    "options": [
+      "L'Église de Laodicée",
+      "L'Église d'Éphèse",
+      "L'Église de Sardes",
+      "L'Église de Thyatire"
+    ],
+    "answer": "L'Église de Laodicée",
+    "explanation": "L'Église de Laodicée est reprochée pour sa tiédeur spirituelle.",
+    "reference": "Ap 3:14–16"
+  },
+  {
+    "id": "ap_niv_18",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quelle Église a perdu son premier amour ?",
+    "options": [
+      "L'Église d'Éphèse",
+      "L'Église de Smyrne",
+      "L'Église de Laodicée",
+      "L'Église de Pergame"
+    ],
+    "answer": "L'Église d'Éphèse",
+    "explanation": "Jésus reproche à l'Église d'Éphèse d'avoir abandonné son premier amour malgré ses bonnes œuvres.",
+    "reference": "Ap 2:4"
+  },
+  {
+    "id": "ap_niv_19",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel est le nombre des scellés et de combien de tribus proviennent-ils ?",
+    "options": [
+      "144 000 personnes, 12 000 de chacune des 12 tribus d'Israël",
+      "144 000 personnes de la tribu de Juda uniquement",
+      "144 000 lévites exclusivement",
+      "144 000 personnes issues de toutes les nations"
+    ],
+    "answer": "144 000 personnes, 12 000 de chacune des 12 tribus d'Israël",
+    "explanation": "Jean entend le nombre de 144 000 scellés, répartis équitablement parmi 12 tribus.",
+    "reference": "Ap 7:4–8"
+  },
+  {
+    "id": "ap_niv_20",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Combien de temps les deux témoins prophétiseront-ils ?",
+    "options": [
+      "1 260 jours",
+      "40 jours et 40 nuits",
+      "7 ans",
+      "Mille ans"
+    ],
+    "answer": "1 260 jours",
+    "explanation": "Les deux témoins reçoivent le pouvoir de prophétiser pendant 1260 jours, vêtus de sacs.",
+    "reference": "Ap 11:3"
+  },
+  {
+    "id": "ap_niv_21",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel est le nom de l'étoile amère qui empoisonne les eaux lors de la 3ème trompette ?",
+    "options": [
+      "Absinthe (Armoise)",
+      "Lucifer",
+      "Fiel d'amertume",
+      "Ciguë"
+    ],
+    "answer": "Absinthe (Armoise)",
+    "explanation": "L'étoile s'appelle Absinthe, rendant le tiers des eaux amer et mortel.",
+    "reference": "Ap 8:10–11"
+  },
+  {
+    "id": "ap_niv_22",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quelles sont les deux Églises qui reçoivent uniquement des éloges, sans reproche ?",
+    "options": [
+      "Smyrne et Philadelphie",
+      "Éphèse et Laodicée",
+      "Pergame et Thyatire",
+      "Sardes et Philadelphie"
+    ],
+    "answer": "Smyrne et Philadelphie",
+    "explanation": "Ces deux Églises persécutées sont les seules à ne recevoir aucun reproche direct de Christ.",
+    "reference": "Ap 2:8–11 ; 3:7–13"
+  },
+  {
+    "id": "ap_niv_23",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Que représentent les sept étoiles que le Fils de l'homme tient dans sa main droite ?",
+    "options": [
+      "Les anges des sept Églises",
+      "Les sept esprits de Dieu",
+      "Les sept rois de la terre",
+      "Les sept archanges"
+    ],
+    "answer": "Les anges des sept Églises",
+    "explanation": "Le mystère révélé indique que les sept étoiles sont les anges des sept Églises.",
+    "reference": "Ap 1:20"
+  },
+  {
+    "id": "ap_niv_24",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel cavalier monte un cheval pâle et quel est son nom ?",
+    "options": [
+      "La Mort, et le séjour des morts l'accompagne",
+      "La Guerre, et l'épée l'accompagne",
+      "La Famine, et la balance l'accompagne",
+      "La Peste, et la maladie l'accompagne"
+    ],
+    "answer": "La Mort, et le séjour des morts l'accompagne",
+    "explanation": "Le quatrième sceau dévoile un cheval pâle dont le cavalier se nomme la Mort.",
+    "reference": "Ap 6:8"
+  },
+  {
+    "id": "ap_niv_25",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Combien de têtes et de cornes a la bête qui monte de la mer ?",
+    "options": [
+      "Sept têtes et dix cornes",
+      "Dix têtes et sept cornes",
+      "Trois têtes et dix cornes",
+      "Douze têtes et sept cornes"
+    ],
+    "answer": "Sept têtes et dix cornes",
+    "explanation": "La bête marine est décrite avec dix cornes et sept têtes, portant des diadèmes.",
+    "reference": "Ap 13:1"
+  },
+  {
+    "id": "ap_niv_26",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Qui se tient sur la mer de verre mêlée de feu devant le trône de Dieu ?",
+    "options": [
+      "Les vainqueurs de la bête, de son image et de son nombre",
+      "Les vingt-quatre anciens",
+      "Les 144 000 scellés d'Israël",
+      "Les anges qui tiennent les sept coupes"
+    ],
+    "answer": "Les vainqueurs de la bête, de son image et de son nombre",
+    "explanation": "Ces rachetés triomphants se tiennent sur la mer de verre avec des harpes.",
+    "reference": "Ap 15:2"
+  },
+  {
+    "id": "ap_niv_27",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel est le nom hébreu et grec de l'ange de l'abîme ?",
+    "options": [
+      "Abaddon (hébreu) / Apollyon (grec)",
+      "Satan / Diabolos",
+      "Lucifer / Phosphorus",
+      "Belzébuth / Ba'al"
+    ],
+    "answer": "Abaddon (hébreu) / Apollyon (grec)",
+    "explanation": "Ces deux noms signifient « Destructeur » et désignent le roi des sauterelles de l'abîme.",
+    "reference": "Ap 9:11"
+  },
+  {
+    "id": "ap_niv_28",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Que porte sur sa tête la femme symbolique vêtue du soleil dans Apocalypse 12 ?",
+    "options": [
+      "Une couronne de douze étoiles",
+      "Une couronne d'épines",
+      "Un diadème de sept perles",
+      "Une couronne de gloire incandescente"
+    ],
+    "answer": "Une couronne de douze étoiles",
+    "explanation": "La femme céleste est parée du soleil, de la lune et d'une couronne de 12 étoiles.",
+    "reference": "Ap 12:1"
+  },
+  {
+    "id": "ap_niv_29",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Combien de temps Satan sera-t-il lié dans l'abîme selon Apocalypse 20 ?",
+    "options": [
+      "Mille ans",
+      "Cent ans",
+      "Sept ans",
+      "Éternellement"
+    ],
+    "answer": "Mille ans",
+    "explanation": "Satan est enchaîné pour qu'il ne séduise plus les nations pendant le millénium.",
+    "reference": "Ap 20:2–3"
+  },
+  {
+    "id": "ap_niv_30",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel est le nom du lieu où se rassembleront les rois pour la bataille du grand jour de Dieu ?",
+    "options": [
+      "Harmaguédon (Armageddon)",
+      "La vallée de l'Ombre de la Mort",
+      "Le mont Sinaï",
+      "La vallée de Josaphat"
+    ],
+    "answer": "Harmaguédon (Armageddon)",
+    "explanation": "C'est à Harmaguédon que s'opère le rassemblement militaire final décrit dans la 6e coupe.",
+    "reference": "Ap 16:16"
+  },
+  {
+    "id": "ap_niv_31",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Que font les vingt-quatre anciens en présence de Dieu selon Apocalypse 4:10 ?",
+    "options": [
+      "Ils se prosternent et jettent leurs couronnes devant le trône",
+      "Ils chantent sans cesse 'Saint, Saint, Saint'",
+      "Ils offrent des parfums qui sont les prières des saints",
+      "Ils sonnent les sept trompettes"
+    ],
+    "answer": "Ils se prosternent et jettent leurs couronnes devant le trône",
+    "explanation": "En acte d'adoration, ils reconnaissent que toute gloire appartient à Dieu seul.",
+    "reference": "Ap 4:10"
+  },
+  {
+    "id": "ap_niv_32",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "À quoi ressemblent les quatre êtres vivants autour du trône de Dieu ?",
+    "options": [
+      "Un lion, un veau, un être au visage d'homme, et un aigle",
+      "Un lion, un ours, un léopard et une bête terrible",
+      "Un aigle, un corbeau, une colombe et un faucon",
+      "Un taureau, un bélier, un bouc et un agneau"
+    ],
+    "answer": "Un lion, un veau, un être au visage d'homme, et un aigle",
+    "explanation": "Ces quatre figures symbolisent différentes formes de la création honorant Dieu.",
+    "reference": "Ap 4:7"
+  },
+  {
+    "id": "ap_niv_33",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quelle Église est menacée d'avoir son chandelier ôté si elle ne se repent pas ?",
+    "options": [
+      "L'Église d'Éphèse",
+      "L'Église de Laodicée",
+      "L'Église de Sardes",
+      "L'Église de Pergame"
+    ],
+    "answer": "L'Église d'Éphèse",
+    "explanation": "Jésus avertit Éphèse de l'ôter de sa place si elle ne revient pas à son premier amour.",
+    "reference": "Ap 2:5"
+  },
+  {
+    "id": "ap_niv_34",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quelle est la récompense promise au vainqueur de l'Église de Pergame ?",
+    "options": [
+      "La manne cachée et une pierre blanche avec un nom nouveau gravé dessus",
+      "Manger de l'arbre de vie",
+      "Recevoir l'étoile du matin",
+      "S'asseoir sur le trône de Christ"
+    ],
+    "answer": "La manne cachée et une pierre blanche avec un nom nouveau gravé dessus",
+    "explanation": "Cette récompense symbolise la communion intime et l'identité renouvelée en Christ.",
+    "reference": "Ap 2:17"
+  },
+  {
+    "id": "ap_niv_35",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Qu'est-ce que le lac de feu représente-t-il dans l'Apocalypse ?",
+    "options": [
+      "La seconde mort",
+      "La purification finale",
+      "Le purgatoire éternel",
+      "Le lieu du jugement temporaire"
+    ],
+    "answer": "La seconde mort",
+    "explanation": "L'étang de feu est explicitement appelé « la seconde mort », lieu de séparation éternelle d'avec Dieu.",
+    "reference": "Ap 20:14"
+  },
+  {
+    "id": "ap_niv_36",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "À quelle Église Jésus promet-il l'autorité sur les nations pour les régir avec une verge de fer ?",
+    "options": [
+      "L'Église de Thyatire",
+      "L'Église d'Éphèse",
+      "L'Église de Philadelphie",
+      "L'Église de Smyrne"
+    ],
+    "answer": "L'Église de Thyatire",
+    "explanation": "Le vainqueur à Thyatire recevra la même autorité que Christ a reçue de son Père sur les nations.",
+    "reference": "Ap 2:26–27"
+  },
+  {
+    "id": "ap_niv_37",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel est le nombre de stades de la nouvelle Jérusalem (longueur, largeur, hauteur) ?",
+    "options": [
+      "Douze mille stades",
+      "Cent quarante-quatre mille stades",
+      "Sept mille stades",
+      "Mille stades"
+    ],
+    "answer": "Douze mille stades",
+    "explanation": "La ville est un cube parfait dont chaque dimension est de 12 000 stades.",
+    "reference": "Ap 21:16"
+  },
+  {
+    "id": "ap_niv_38",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quelle est la hauteur de la muraille de la nouvelle Jérusalem en coudées ?",
+    "options": [
+      "Cent quarante-quatre coudées",
+      "Douze coudées",
+      "Mille coudées",
+      "Sept coudées"
+    ],
+    "answer": "Cent quarante-quatre coudées",
+    "explanation": "La muraille mesure 144 coudées, un nombre multiple de 12 symbolisant la plénitude du peuple de Dieu.",
+    "reference": "Ap 21:17"
+  },
+  {
+    "id": "ap_niv_39",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Combien de sortes de fruits porte l'arbre de vie, et à quelle fréquence ?",
+    "options": [
+      "Douze sortes de fruits, un fruit chaque mois",
+      "Sept sortes de fruits, un fruit chaque semaine",
+      "Trois sortes de fruits, un fruit chaque année",
+      "Une seule sorte de fruit, un fruit chaque jour"
+    ],
+    "answer": "Douze sortes de fruits, un fruit chaque mois",
+    "explanation": "L'arbre donne un rendement mensuel continu, et ses feuilles servent à la guérison des nations.",
+    "reference": "Ap 22:2"
+  },
+  {
+    "id": "ap_niv_40",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel est le nom de la fausse prophétesse tolérée dans l'Église de Thyatire ?",
+    "options": [
+      "Jézabel",
+      "Athalie",
+      "Hérodiade",
+      "Saphira"
+    ],
+    "answer": "Jézabel",
+    "explanation": "Le nom fait référence à l'épouse idolâtre d'Achab, entraînant les croyants dans l'idolâtrie.",
+    "reference": "Ap 2:20"
+  },
+  {
+    "id": "ap_niv_41",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quelle plaie tombe lors du versement de la première coupe de la colère de Dieu ?",
+    "options": [
+      "Des ulcères mauvais et douloureux sur les hommes portant la marque de la bête",
+      "La mer devient comme du sang",
+      "Le soleil brûle les hommes par le feu",
+      "Les eaux douces deviennent amères"
+    ],
+    "answer": "Des ulcères mauvais et douloureux sur les hommes portant la marque de la bête",
+    "explanation": "Le premier fléau frappe directement et physiquement les adorateurs de la bête.",
+    "reference": "Ap 16:2"
+  },
+  {
+    "id": "ap_niv_42",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quelle Église est accusée d'avoir la doctrine de Balaam et la doctrine des Nicolaïtes ?",
+    "options": [
+      "L'Église de Pergame",
+      "L'Église d'Éphèse",
+      "L'Église de Sardes",
+      "L'Église de Thyatire"
+    ],
+    "answer": "L'Église de Pergame",
+    "explanation": "À Pergame, où se trouve le trône de Satan, ces fausses doctrines séduisaient l'assemblée.",
+    "reference": "Ap 2:14–15"
+  },
+  {
+    "id": "ap_niv_43",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Combien d'ailes ont les quatre êtres vivants, et comment sont-ils couverts d'yeux ?",
+    "options": [
+      "Six ailes chacun, couverts d'yeux tout autour et en dedans",
+      "Quatre ailes chacun, couverts d'yeux sur leurs ailes",
+      "Deux ailes chacun, avec un seul œil grand ouvert",
+      "Huit ailes chacun, sans aucun œil"
+    ],
+    "answer": "Six ailes chacun, couverts d'yeux tout autour et en dedans",
+    "explanation": "Cette description riche en détails symbolise la vigilance absolue et le regard pénétrant de la créature glorifiant Dieu.",
+    "reference": "Ap 4:8"
+  },
+  {
+    "id": "ap_niv_44",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Qu'est-ce que l'ange donne à manger à Jean dans Apocalypse 10, et quel double effet cela produit-il ?",
+    "options": [
+      "Un petit livre ouvert ; doux comme du miel dans la bouche, mais amer dans le ventre",
+      "Un parchemin scellé ; amer dans la bouche mais doux dans le ventre",
+      "Un pain céleste ; nourrissant mais qui brûle les entrailles",
+      "Une manne cachée ; donne la vie éternelle et la connaissance"
+    ],
+    "answer": "Un petit livre ouvert ; doux comme du miel dans la bouche, mais amer dans le ventre",
+    "explanation": "Ce livre, bien qu'agréable à recevoir comme parole prophétique, annonce des jugements douloureux à digérer.",
+    "reference": "Ap 10:9–10"
+  },
+  {
+    "id": "ap_niv_45",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quelles sont les trois choses que Jésus conseille à l'Église de Laodicée d'acheter auprès de lui ?",
+    "options": [
+      "De l'or éprouvé par le feu, des vêtements blancs, et du collyre pour oindre les yeux",
+      "La foi, l'espérance et l'amour",
+      "Du pain de vie, de l'eau vive et du vin nouveau",
+      "L'épée de l'Esprit, le bouclier de la foi et le casque du salut"
+    ],
+    "answer": "De l'or éprouvé par le feu, des vêtements blancs, et du collyre pour oindre les yeux",
+    "explanation": "Ces éléments remédient respectivement à leur pauvreté spirituelle, leur nudité honteuse et leur aveuglement.",
+    "reference": "Ap 3:18"
+  },
+  {
+    "id": "ap_niv_46",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Combien de temps les corps des deux témoins restent-ils dans la rue de la grande ville après leur mort ?",
+    "options": [
+      "Trois jours et demi",
+      "Trois jours exactement",
+      "Sept jours",
+      "Quarante jours"
+    ],
+    "answer": "Trois jours et demi",
+    "explanation": "Après ce délai d'humiliation publique, l'esprit de vie venant de Dieu entre en eux.",
+    "reference": "Ap 11:9"
+  },
+  {
+    "id": "ap_niv_47",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quelle est la première pierre précieuse qui constitue les fondements de la muraille de la nouvelle Jérusalem ?",
+    "options": [
+      "Le jaspe",
+      "Le saphir",
+      "L'émeraude",
+      "Le rubis"
+    ],
+    "answer": "Le jaspe",
+    "explanation": "Le premier des douze fondements précieux est constitué de jaspe.",
+    "reference": "Ap 21:19"
+  },
+  {
+    "id": "ap_niv_48",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "En quelle matière les rues de la nouvelle Jérusalem sont-elles faites ?",
+    "options": [
+      "D'or pur, semblable à du verre transparent",
+      "De cristal étincelant",
+      "De diamants polis",
+      "De pierres précieuses incrustées d'argent"
+    ],
+    "answer": "D'or pur, semblable à du verre transparent",
+    "explanation": "La rue principale de la ville sainte est décrite avec cette image de pureté lumineuse extraordinaire.",
+    "reference": "Ap 21:21"
+  },
+  {
+    "id": "ap_niv_49",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Combien de fois le mot « bienheureux » apparaît-il dans l'Apocalypse, et quelle est la première occurrence ?",
+    "options": [
+      "Sept fois ; première occurrence : heureux celui qui lit et ceux qui entendent cette prophétie",
+      "Trois fois ; première occurrence : heureux les morts qui meurent dans le Seigneur",
+      "Douze fois ; première occurrence : heureux les invités aux noces de l'Agneau",
+      "Dix fois ; première occurrence : heureux celui qui veille"
+    ],
+    "answer": "Sept fois ; première occurrence : heureux celui qui lit et ceux qui entendent cette prophétie",
+    "explanation": "Il y a 7 béatitudes dans l'Apocalypse, la première étant adressée aux lecteurs et auditeurs de la prophétie.",
+    "reference": "Ap 1:3 ; 14:13 ; 16:15 ; 19:9 ; 20:6 ; 22:7, 14"
+  },
+  {
+    "id": "ap_niv_50",
+    "category": "Apocalypse",
+    "subcategory": "Niveaux",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quelle double invitation est lancée dans le dernier chapitre de l'Apocalypse (22:17) ?",
+    "options": [
+      "Que celui qui a soif vienne ; que celui qui veut, prenne de l'eau de la vie gratuitement",
+      "Repentez-vous et croyez à l'Évangile",
+      "Veillez et priez car l'heure est proche",
+      "Entrez par la porte étroite et marchez sur le chemin resserré"
+    ],
+    "answer": "Que celui qui a soif vienne ; que celui qui veut, prenne de l'eau de la vie gratuitement",
+    "explanation": "L'Esprit et l'épouse concluent l'Apocalypse par cet ultime appel à la grâce.",
+    "reference": "Ap 22:17"
+  }
+]

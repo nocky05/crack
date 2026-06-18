@@ -1,0 +1,1685 @@
+[
+  {
+    "id": "ap_1",
+    "category": "Apocalypse",
+    "subcategory": "Questions Générales",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Dans quelle île de la mer Égée l'apôtre Jean a-t-il été exilé et a-t-il reçu les visions de l'Apocalypse ?",
+    "options": [
+      "Patmos",
+      "Chypre",
+      "Crète",
+      "Malte"
+    ],
+    "answer": "Patmos",
+    "explanation": "Jean déclare qu'il était dans l'île appelée Patmos, à cause de la parole de Dieu et du témoignage de Jésus.",
+    "reference": "Ap 1:9"
+  },
+  {
+    "id": "ap_2",
+    "category": "Apocalypse",
+    "subcategory": "Questions Générales",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Combien d'Églises d'Asie Mineure reçoivent une lettre spécifique au début de l'Apocalypse ?",
+    "options": [
+      "Sept Églises",
+      "Douze Églises",
+      "Trois Églises",
+      "Dix Églises"
+    ],
+    "answer": "Sept Églises",
+    "explanation": "L'Apocalypse est adressée aux sept Églises qui sont en Asie : Éphèse, Smyrne, Pergame, Thyatire, Sardes, Philadelphie et Laodicée.",
+    "reference": "Ap 1:4"
+  },
+  {
+    "id": "ap_3",
+    "category": "Apocalypse",
+    "subcategory": "Questions Générales",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel apôtre et évangéliste est traditionnellement reconnu comme l'auteur humain de l'Apocalypse ?",
+    "options": [
+      "Jean",
+      "Pierre",
+      "Paul",
+      "Jacques"
+    ],
+    "answer": "Jean",
+    "explanation": "Le livre s'ouvre par : 'Révélation de Jésus-Christ... qu'il a fait connaître, en envoyant son ange, à son serviteur Jean'.",
+    "reference": "Ap 1:1"
+  },
+  {
+    "id": "ap_4",
+    "category": "Apocalypse",
+    "subcategory": "Questions Générales",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Comment le Seigneur Dieu se désigne-t-il au chapitre 1 verset 8 pour affirmer son éternité ?",
+    "options": [
+      "L'Alpha et l'Oméga",
+      "Le Premier-né des morts",
+      "Le Lion de la tribu de Juda",
+      "L'Étoile brillante du matin"
+    ],
+    "answer": "L'Alpha et l'Oméga",
+    "explanation": "Le Seigneur déclare : 'Je suis l'Alpha et l'Oméga, dit le Seigneur Dieu, celui qui est, qui était, et qui vient, le Tout-Puissant'.",
+    "reference": "Ap 1:8"
+  },
+  {
+    "id": "ap_5",
+    "category": "Apocalypse",
+    "subcategory": "Les 7 Églises",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quelle Église de l'Apocalypse est sévèrement qualifiée de 'tiède' et menacée d'être vomie de la bouche de Dieu ?",
+    "options": [
+      "Laodicée",
+      "Éphèse",
+      "Sardes",
+      "Thyatire"
+    ],
+    "answer": "Laodicée",
+    "explanation": "Jésus reproche à l'Église de Laodicée de n'être ni froide, ni bouillante, mais tiède, à cause de son autosuffisance spirituelle.",
+    "reference": "Ap 3:16"
+  },
+  {
+    "id": "ap_6",
+    "category": "Apocalypse",
+    "subcategory": "Les Sceaux",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Combien de sceaux ferment le livre scellé que seul l'Agneau est digne d'ouvrir ?",
+    "options": [
+      "Sept sceaux",
+      "Douze sceaux",
+      "Dix sceaux",
+      "Trois sceaux"
+    ],
+    "answer": "Sept sceaux",
+    "explanation": "Jean voit dans la main droite de celui qui est assis sur le trône un livre écrit en dedans et en dehors, scellé de sept sceaux.",
+    "reference": "Ap 5:1"
+  },
+  {
+    "id": "ap_7",
+    "category": "Apocalypse",
+    "subcategory": "Symboles de Christ",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel animal symbolise Jésus-Christ comme ayant été immolé mais debout au milieu du trône ?",
+    "options": [
+      "L'Agneau",
+      "Le Lion",
+      "L'Aigle",
+      "Le Veau"
+    ],
+    "answer": "L'Agneau",
+    "explanation": "Jean voit au milieu du trône et des quatre êtres vivants un Agneau debout, comme immolé, ayant sept cornes et sept yeux.",
+    "reference": "Ap 5:6"
+  },
+  {
+    "id": "ap_8",
+    "category": "Apocalypse",
+    "subcategory": "Les Trompettes",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Combien de trompettes sont confiées aux sept anges pour annoncer les fléaux sur la Terre ?",
+    "options": [
+      "Sept trompettes",
+      "Dix trompettes",
+      "Douze trompettes",
+      "Quatre trompettes"
+    ],
+    "answer": "Sept trompettes",
+    "explanation": "Après l'ouverture du septième sceau, Jean voit les sept anges qui se tiennent devant Dieu, et sept trompettes leur sont données.",
+    "reference": "Ap 8:2"
+  },
+  {
+    "id": "ap_9",
+    "category": "Apocalypse",
+    "subcategory": "Les Coupes",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Combien de coupes d'or pleines de la colère de Dieu sont versées sur la Terre par les anges ?",
+    "options": [
+      "Sept coupes",
+      "Dix coupes",
+      "Douze coupes",
+      "Trois coupes"
+    ],
+    "answer": "Sept coupes",
+    "explanation": "Jean entend une voix forte disant aux sept anges d'aller verser sur la terre les sept coupes de la colère de Dieu.",
+    "reference": "Ap 16:1"
+  },
+  {
+    "id": "ap_10",
+    "category": "Apocalypse",
+    "subcategory": "La Bête et son Chiffre",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel est le nombre mystique associé à la bête qui monte de la terre ?",
+    "options": [
+      "666",
+      "777",
+      "144 000",
+      "1000"
+    ],
+    "answer": "666",
+    "explanation": "L'Apocalypse invite à calculer le nombre de la bête : 'C'est un nombre d'homme, et son nombre est six cent soixante-six'.",
+    "reference": "Ap 13:18"
+  },
+  {
+    "id": "ap_11",
+    "category": "Apocalypse",
+    "subcategory": "La Cour Céleste",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Combien de vieillards (ou anciens) couronnés sont assis sur des trônes autour du trône de Dieu ?",
+    "options": [
+      "24 anciens",
+      "12 anciens",
+      "7 anciens",
+      "144 anciens"
+    ],
+    "answer": "24 anciens",
+    "explanation": "Autour du trône divin se trouvent vingt-quatre trônes, et sur ces trônes vingt-quatre vieillards assis, vêtus de vêtements blancs et couronnés d'or.",
+    "reference": "Ap 4:4"
+  },
+  {
+    "id": "ap_12",
+    "category": "Apocalypse",
+    "subcategory": "Satan et ses Symboles",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Sous quelle forme monstrueuse Satan est-il principalement représenté dans ses combats célestes et terrestres ?",
+    "options": [
+      "Le grand dragon / l'ancien serpent",
+      "Un lion rugissant",
+      "Un léopard à cornes",
+      "Un cavalier noir"
+    ],
+    "answer": "Le grand dragon / l'ancien serpent",
+    "explanation": "L'Apocalypse identifie clairement le grand dragon comme 'le serpent ancien, appelé le diable et Satan, celui qui séduit toute la terre'.",
+    "reference": "Ap 12:9"
+  },
+  {
+    "id": "ap_13",
+    "category": "Apocalypse",
+    "subcategory": "Nouvelle Jérusalem",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Combien de portes au total possède la muraille de la nouvelle Jérusalem ?",
+    "options": [
+      "12 portes",
+      "7 portes",
+      "10 portes",
+      "24 portes"
+    ],
+    "answer": "12 portes",
+    "explanation": "La nouvelle Jérusalem a une grande et haute muraille avec douze portes, gardées par douze anges, portant les noms des douze tribus d'Israël.",
+    "reference": "Ap 21:12"
+  },
+  {
+    "id": "ap_14",
+    "category": "Apocalypse",
+    "subcategory": "La Ville Impie",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel nom de cité historique est utilisé pour désigner la grande ville impie, ennemie des croyants, qui s'écroule à la fin des temps ?",
+    "options": [
+      "Babylone la Grande",
+      "Sodome et Gomorrhe",
+      "Ninive la superbe",
+      "Rome impériale"
+    ],
+    "answer": "Babylone la Grande",
+    "explanation": "La ville corrompue et idolâtre est appelée mystiquement 'Babylone la grande, la mère des impudiques et des abominations de la terre'.",
+    "reference": "Ap 17:5"
+  },
+  {
+    "id": "ap_15",
+    "category": "Apocalypse",
+    "subcategory": "Les 7 Églises",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quelle est la toute première Église d'Asie à qui s'adresse le Fils de l'homme au chapitre 2 ?",
+    "options": [
+      "Éphèse",
+      "Smyrne",
+      "Pergame",
+      "Laodicée"
+    ],
+    "answer": "Éphèse",
+    "explanation": "La première lettre dictée par Jésus est destinée à l'ange de l'Église d'Éphèse, le grand port de la province romaine d'Asie.",
+    "reference": "Ap 2:1"
+  },
+  {
+    "id": "ap_16",
+    "category": "Apocalypse",
+    "subcategory": "Les 7 Églises",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel grave reproche Jésus adresse-t-il à l'Église d'Éphèse malgré sa persévérance et son discernement ?",
+    "options": [
+      "Elle a abandonné son premier amour",
+      "Elle tolère la fausse doctrine des Nicolaïtes",
+      "Elle s'est enrichie matériellement",
+      "Elle a renié la foi face aux persécutions"
+    ],
+    "answer": "Elle a abandonné son premier amour",
+    "explanation": "Jésus déclare : 'Mais ce que j'ai contre toi, c'est que tu as abandonné ton premier amour. Souviens-toi donc d'où tu es tombé'.",
+    "reference": "Ap 2:4"
+  },
+  {
+    "id": "ap_17",
+    "category": "Apocalypse",
+    "subcategory": "Les Scellés",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Combien de serviteurs marqués du sceau de Dieu sont dénombrés au chapitre 7 parmi les tribus d'Israël ?",
+    "options": [
+      "144 000 scellés",
+      "12 000 scellés",
+      "24 000 scellés",
+      "1 000 000 scellés"
+    ],
+    "answer": "144 000 scellés",
+    "explanation": "Jean entend le nombre de ceux qui ont été marqués du sceau : 144 000 scellés, issus de toutes les tribus des fils d'Israël (12 000 par tribu).",
+    "reference": "Ap 7:4"
+  },
+  {
+    "id": "ap_18",
+    "category": "Apocalypse",
+    "subcategory": "Le Millénium",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Pendant combien de temps Satan est-il enchaîné et enfermé dans l'abîme pour ne plus séduire les nations ?",
+    "options": [
+      "Mille ans",
+      "Cent ans",
+      "Sept ans",
+      "Trois ans et demi"
+    ],
+    "answer": "Mille ans",
+    "explanation": "Un ange descend du ciel, saisit le dragon, le serpent ancien, et le lie pour mille ans (la période du Millénium).",
+    "reference": "Ap 20:2"
+  },
+  {
+    "id": "ap_19",
+    "category": "Apocalypse",
+    "subcategory": "Jugement Dernier",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Comment est appelée mystiquement l'étape de châtiment éternel représentée par la géhenne et le lac de feu ?",
+    "options": [
+      "La seconde mort",
+      "La perdition finale",
+      "L'abîme sans fin",
+      "La damnation temporelle"
+    ],
+    "answer": "La seconde mort",
+    "explanation": "L'Apocalypse indique que la mort et le séjour des morts ont été jetés dans l'étang de feu. Cet étang de feu est la seconde mort.",
+    "reference": "Ap 20:14"
+  },
+  {
+    "id": "ap_20",
+    "category": "Apocalypse",
+    "subcategory": "Questions Générales",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel jour particulier de la semaine l'apôtre Jean déclare-t-il avoir été ravi en esprit ?",
+    "options": [
+      "Le jour du Seigneur (dimanche)",
+      "Le jour du sabbat (samedi)",
+      "Le vendredi de la Passion",
+      "La Pâque juive"
+    ],
+    "answer": "Le jour du Seigneur (dimanche)",
+    "explanation": "Jean dit : 'Je fus ravi en esprit au jour du Seigneur (Kyriake hemera en grec, traditionnellement le dimanche)'.",
+    "reference": "Ap 1:10"
+  },
+  {
+    "id": "ap_21",
+    "category": "Apocalypse",
+    "subcategory": "Nouvelle Jérusalem",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Combien de fondations précieuses ornées de pierres précieuses soutiennent la muraille de la nouvelle Jérusalem ?",
+    "options": [
+      "Douze fondations",
+      "Sept fondations",
+      "Vingt-quatre fondations",
+      "Quatre fondations"
+    ],
+    "answer": "Douze fondations",
+    "explanation": "La muraille de la ville a douze fondements, et sur eux les noms des douze apôtres de l'Agneau.",
+    "reference": "Ap 21:14"
+  },
+  {
+    "id": "ap_22",
+    "category": "Apocalypse",
+    "subcategory": "Les 4 Cavaliers",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quelle est la couleur du cheval monté par le quatrième cavalier, dont le nom est 'la Mort' ?",
+    "options": [
+      "Pâle (verdâtre)",
+      "Blanc",
+      "Rouge",
+      "Noir"
+    ],
+    "answer": "Pâle (verdâtre)",
+    "explanation": "Jean regarde et voit paraître un cheval pâle. Celui qui le monte se nomme la Mort, et le séjour des morts l'accompagne.",
+    "reference": "Ap 6:8"
+  },
+  {
+    "id": "ap_23",
+    "category": "Apocalypse",
+    "subcategory": "Les 7 Églises",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quelle Église persécutée et pauvre matériellement reçoit l'exhortation 'Sois fidèle jusqu'à la mort, et je te donnerai la couronne de vie' ?",
+    "options": [
+      "Smyrne",
+      "Éphèse",
+      "Philadelphie",
+      "Pergame"
+    ],
+    "answer": "Smyrne",
+    "explanation": "L'Église de Smyrne subit des épreuves et la prison, mais Jésus l'encourage en lui promettant la couronne de vie.",
+    "reference": "Ap 2:10"
+  },
+  {
+    "id": "ap_24",
+    "category": "Apocalypse",
+    "subcategory": "Nouvelle Jérusalem",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Combien de récoltes ou de variétés de fruits produit chaque année l'arbre de vie planté dans la cité céleste ?",
+    "options": [
+      "Douze récoltes (une chaque mois)",
+      "Une seule récolte annuelle",
+      "Quatre récoltes (une par saison)",
+      "Des fruits en abondance sans nombre"
+    ],
+    "answer": "Douze récoltes (une chaque mois)",
+    "explanation": "Au milieu de la place de la ville et sur les deux bords du fleuve se trouve un arbre de vie, produisant douze récoltes, donnant son fruit chaque mois.",
+    "reference": "Ap 22:2"
+  },
+  {
+    "id": "ap_25",
+    "category": "Apocalypse",
+    "subcategory": "Nouvelle Jérusalem",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quelle est la provenance de la nouvelle Jérusalem contemplée par Jean au chapitre 21 ?",
+    "options": [
+      "Elle descend du ciel, d'auprès de Dieu",
+      "Elle est rebâtie sur les ruines de l'ancienne Jérusalem",
+      "Elle émerge des profondeurs de la mer",
+      "Elle est construite par les mains des croyants survivants"
+    ],
+    "answer": "Elle descend du ciel, d'auprès de Dieu",
+    "explanation": "Jean voit la ville sainte, la nouvelle Jérusalem, qui descend du ciel, d'auprès de Dieu, préparée comme une épouse parée pour son époux.",
+    "reference": "Ap 21:2"
+  },
+  {
+    "id": "ap_26",
+    "category": "Apocalypse",
+    "subcategory": "La Cour Céleste",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel cri de louange triomphal retentit dans le ciel au début d'Apocalypse 19 pour célébrer le jugement de la grande prostituée ?",
+    "options": [
+      "Alléluia !",
+      "Hosanna !",
+      "Saint est le Seigneur !",
+      "Maranatha !"
+    ],
+    "answer": "Alléluia !",
+    "explanation": "Jean entend dans le ciel comme la voix forte d'une foule nombreuse qui dit : 'Alléluia ! Le salut, la gloire et la puissance sont à notre Dieu !'.",
+    "reference": "Ap 19:1"
+  },
+  {
+    "id": "ap_27",
+    "category": "Apocalypse",
+    "subcategory": "Le Retour de Christ",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Sur quel cheval chevauche le Verbe de Dieu (Jésus) lorsqu'il revient pour juger et combattre avec justice ?",
+    "options": [
+      "Un cheval blanc",
+      "Un cheval rouge",
+      "Un cheval noir",
+      "Un cheval pâle"
+    ],
+    "answer": "Un cheval blanc",
+    "explanation": "Le ciel s'ouvre et un cheval blanc apparaît. Celui qui le monte s'appelle Fidèle et Véritable, il juge et combat avec justice.",
+    "reference": "Ap 19:11"
+  },
+  {
+    "id": "ap_28",
+    "category": "Apocalypse",
+    "subcategory": "Les Bêtes",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Combien de têtes possède la bête monstrueuse qui monte de la mer au chapitre 13 ?",
+    "options": [
+      "Sept têtes",
+      "Dix têtes",
+      "Douze têtes",
+      "Une seule tête géante"
+    ],
+    "answer": "Sept têtes",
+    "explanation": "Jean voit monter de la mer une bête qui a dix cornes et sept têtes, et sur ses cornes dix diadèmes, et sur ses têtes des noms de blasphème.",
+    "reference": "Ap 13:1"
+  },
+  {
+    "id": "ap_29",
+    "category": "Apocalypse",
+    "subcategory": "La Cour Céleste",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quelle hymne solennelle les quatre êtres vivants proclament-ils jour et nuit sans relâche devant le trône ?",
+    "options": [
+      "Saint, saint, saint est le Seigneur Dieu Tout-Puissant",
+      "Gloire à Dieu dans les cieux très hauts",
+      "Tu es digne, ô Agneau, de recevoir la gloire",
+      "Loué soit l'Éternel à jamais"
+    ],
+    "answer": "Saint, saint, saint est le Seigneur Dieu Tout-Puissant",
+    "explanation": "Ils ne cessent de répéter jour et nuit : 'Saint, saint, saint est le Seigneur Dieu, le Tout-Puissant, qui était, qui est, et qui vient !'.",
+    "reference": "Ap 4:8"
+  },
+  {
+    "id": "ap_30",
+    "category": "Apocalypse",
+    "subcategory": "Les 7 Églises",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quelle Église fidèle reçoit de Jésus l'assurance qu'il a mis devant elle une 'porte ouverte' que nul ne peut fermer ?",
+    "options": [
+      "Philadelphie",
+      "Smyrne",
+      "Sardes",
+      "Pergame"
+    ],
+    "answer": "Philadelphie",
+    "explanation": "Jésus dit à l'Église de Philadelphie : 'Parce que tu as peu de puissance, que tu as gardé ma parole... j'ai mis devant toi une porte ouverte'.",
+    "reference": "Ap 3:8"
+  },
+  {
+    "id": "ap_31",
+    "category": "Apocalypse",
+    "subcategory": "Les 7 Églises",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quelle Église reçoit cette terrible semonce de Jésus : 'Je sais que tu passes pour être vivant, mais tu es mort' ?",
+    "options": [
+      "Sardes",
+      "Laodicée",
+      "Éphèse",
+      "Thyatire"
+    ],
+    "answer": "Sardes",
+    "explanation": "L'Église de Sardes avait une excellente réputation extérieure, mais elle était spirituellement morte aux yeux de Dieu.",
+    "reference": "Ap 3:1"
+  },
+  {
+    "id": "ap_32",
+    "category": "Apocalypse",
+    "subcategory": "Les Bêtes",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Combien de cornes possède la seconde bête, qui monte de la terre et ressemble à un agneau ?",
+    "options": [
+      "Deux cornes",
+      "Dix cornes",
+      "Sept cornes",
+      "Aucune corne"
+    ],
+    "answer": "Deux cornes",
+    "explanation": "Jean voit monter de la terre une autre bête, qui avait deux cornes semblables à celles d'un agneau, mais qui parlait comme un dragon.",
+    "reference": "Ap 13:11"
+  },
+  {
+    "id": "ap_33",
+    "category": "Apocalypse",
+    "subcategory": "Nouvelle Jérusalem",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "D'où prend sa source le fleuve d'eau de la vie éclatant comme du cristal au chapitre 22 ?",
+    "options": [
+      "Du trône de Dieu et de l'Agneau",
+      "Du mont Sion céleste",
+      "Du temple de la nouvelle Jérusalem",
+      "De la mer de verre céleste"
+    ],
+    "answer": "Du trône de Dieu et de l'Agneau",
+    "explanation": "L'ange montre à Jean un fleuve d'eau de la vie, limpide comme du cristal, qui sortait du trône de Dieu et de l'Agneau.",
+    "reference": "Ap 22:1"
+  },
+  {
+    "id": "ap_34",
+    "category": "Apocalypse",
+    "subcategory": "Le Retour de Christ",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quel titre glorieux est inscrit sur le vêtement et sur la cuisse du cavalier au cheval blanc ?",
+    "options": [
+      "Roi des rois et Seigneur des seigneurs",
+      "Fidèle et Véritable",
+      "L'Alpha et l'Oméga",
+      "Le Verbe de Dieu"
+    ],
+    "answer": "Roi des rois et Seigneur des seigneurs",
+    "explanation": "Sur son manteau et sur sa cuisse est écrit ce nom : Roi des rois et Seigneur des seigneurs, affirmant sa suprématie absolue.",
+    "reference": "Ap 19:16"
+  },
+  {
+    "id": "ap_35",
+    "category": "Apocalypse",
+    "subcategory": "Questions Générales",
+    "difficulty": "facile",
+    "type": "qcm",
+    "question": "Quelle invitation de grâce est lancée à la fin de l'Apocalypse (22:17) par l'Esprit et l'Épouse ?",
+    "options": [
+      "Que celui qui a soif vienne prendre l'eau de la vie gratuitement",
+      "Que les impies tremblent devant la colère à venir",
+      "Que le peuple se consacre par des sacrifices",
+      "Que les nations marchent vers la lumière de la ville"
+    ],
+    "answer": "Que celui qui a soif vienne prendre l'eau de la vie gratuitement",
+    "explanation": "Le livre s'achève sur un appel évangélique : 'Que celui qui a soif vienne ; que celui qui veut prenne de l'eau de la vie, gratuitement'.",
+    "reference": "Ap 22:17"
+  },
+  {
+    "id": "ap_36",
+    "category": "Apocalypse",
+    "subcategory": "Les Deux Témoins",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Pendant combien de temps les deux témoins de Dieu prophétisent-ils vêtus de sacs ?",
+    "options": [
+      "1 260 jours",
+      "42 mois",
+      "Mille ans",
+      "144 jours"
+    ],
+    "answer": "1 260 jours",
+    "explanation": "Dieu déclare : 'Je donnerai à mes deux témoins le pouvoir de prophétiser, revêtus de sacs, pendant mille deux cent soixante jours' (soit 3 ans et demi).",
+    "reference": "Ap 11:3"
+  },
+  {
+    "id": "ap_37",
+    "category": "Apocalypse",
+    "subcategory": "Satan et ses Symboles",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel est le nom hébreu de l'ange de l'abîme, roi des sauterelles destructrices au cinquième jugement ?",
+    "options": [
+      "Abaddon",
+      "Apollyon",
+      "Bélial",
+      "Lucifer"
+    ],
+    "answer": "Abaddon",
+    "explanation": "Les sauterelles ont pour roi l'ange de l'abîme, nommé en hébreu Abaddon (ce qui signifie 'destruction'). En grec, son nom est Apollyon.",
+    "reference": "Ap 9:11"
+  },
+  {
+    "id": "ap_38",
+    "category": "Apocalypse",
+    "subcategory": "Symboles de Christ",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Que tient le Fils de l'homme dans sa main droite lors de sa première apparition à Jean (1:16) ?",
+    "options": [
+      "Sept étoiles",
+      "Une épée à double tranchant",
+      "Le livre aux sept sceaux",
+      "Les clefs de la mort et du séjour des morts"
+    ],
+    "answer": "Sept étoiles",
+    "explanation": "Jean voit que le Fils de l'homme 'avait dans sa main droite sept étoiles. De sa bouche sortait une épée aiguë à deux tranchants'.",
+    "reference": "Ap 1:16"
+  },
+  {
+    "id": "ap_39",
+    "category": "Apocalypse",
+    "subcategory": "Symboles de Christ",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quelle est la signification révélée par Jésus pour les sept étoiles qu'il tient dans sa main droite ?",
+    "options": [
+      "Les anges (ou messagers) des sept Églises",
+      "Les sept dons du Saint-Esprit",
+      "Les sept archanges devant le trône",
+      "Les sept sceaux du livre divin"
+    ],
+    "answer": "Les anges (ou messagers) des sept Églises",
+    "explanation": "Jésus révèle le mystère : 'Le mystère des sept étoiles... les sept étoiles sont les anges des sept Églises'.",
+    "reference": "Ap 1:20"
+  },
+  {
+    "id": "ap_40",
+    "category": "Apocalypse",
+    "subcategory": "Symboles de Christ",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Que représentent les sept chandeliers (ou lampes) d'or au milieu desquels marche le Fils de l'homme ?",
+    "options": [
+      "Les sept Églises d'Asie",
+      "Les sept esprits de Dieu",
+      "Les sept dispensations de l'histoire",
+      "Les sept sceaux du jugement"
+    ],
+    "answer": "Les sept Églises d'Asie",
+    "explanation": "Jésus dit explicitement : 'Les sept chandeliers sont les sept Églises'. Le chandelier symbolise le rôle de témoignage et de lumière de l'Église.",
+    "reference": "Ap 1:20"
+  },
+  {
+    "id": "ap_41",
+    "category": "Apocalypse",
+    "subcategory": "Les 7 Églises",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel nom symbolique de reine impie de l'AT Jésus donne-t-il à la fausse prophétesse tolérée à Thyatire ?",
+    "options": [
+      "Jézabel",
+      "Athalie",
+      "Hérodias",
+      "Delilah"
+    ],
+    "answer": "Jézabel",
+    "explanation": "Jésus reproche à l'Église de Thyatire de tolérer 'Jézabel, cette femme qui se dit prophétesse et qui enseigne et égare mes serviteurs pour qu'ils se livrent à l'impudicité'.",
+    "reference": "Ap 2:20"
+  },
+  {
+    "id": "ap_42",
+    "category": "Apocalypse",
+    "subcategory": "Les 7 Églises",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quelle récompense messianique est promise au vainqueur de la communauté d'Éphèse au chapitre 2 ?",
+    "options": [
+      "Manger de l'arbre de vie situé dans le paradis de Dieu",
+      "Recevoir une pierre blanche avec un nom nouveau",
+      "Être revêtu de vêtements de lin blanc",
+      "Devenir une colonne dans le temple de Dieu"
+    ],
+    "answer": "Manger de l'arbre de vie situé dans le paradis de Dieu",
+    "explanation": "Jésus promet : 'Au vainqueur je donnerai à manger de l'arbre de vie, qui est dans le paradis de Dieu'.",
+    "reference": "Ap 2:7"
+  },
+  {
+    "id": "ap_43",
+    "category": "Apocalypse",
+    "subcategory": "La Femme et le Dragon",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Pendant combien de temps la femme vêtue du soleil est-elle nourrie et protégée au désert après avoir fui le dragon ?",
+    "options": [
+      "1 260 jours",
+      "Mille ans",
+      "Sept ans",
+      "120 jours"
+    ],
+    "answer": "1 260 jours",
+    "explanation": "La femme s'enfuit dans le désert, où Dieu lui a préparé un lieu pour qu'elle y soit nourrie pendant mille deux cent soixante jours (Ap 12:6). Au verset 14, cela est exprimé comme 'un temps, des temps, et la moitié d'un temps' (3 ans et demi).",
+    "reference": "Ap 12:6"
+  },
+  {
+    "id": "ap_44",
+    "category": "Apocalypse",
+    "subcategory": "La Femme et le Dragon",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Combien de têtes et de cornes porte le grand dragon rouge qui s'apprête à dévorer l'enfant de la femme ?",
+    "options": [
+      "Sept têtes et dix cornes",
+      "Dix têtes et sept cornes",
+      "Sept têtes et sept cornes",
+      "Douze têtes et douze cornes"
+    ],
+    "answer": "Sept têtes et dix cornes",
+    "explanation": "Le grand dragon rouge feu avait sept têtes et dix cornes, et sur ses têtes sept diadèmes, symbolisant une puissance impériale universelle et hostile.",
+    "reference": "Ap 12:3"
+  },
+  {
+    "id": "ap_45",
+    "category": "Apocalypse",
+    "subcategory": "La Femme et le Dragon",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Par quels moyens les chrétiens (les frères) triomphent-ils du dragon accusateur selon le chant céleste d'Apocalypse 12:11 ?",
+    "options": [
+      "Par le sang de l'Agneau et par la parole de leur témoignage",
+      "Par leur force militaire et leur supériorité numérique",
+      "Par la fuite hors des villes romaines",
+      "Par le respect scrupuleux de la loi mosaïque"
+    ],
+    "answer": "Par le sang de l'Agneau et par la parole de leur témoignage",
+    "explanation": "Le texte dit : 'Ils l'ont vaincu à cause du sang de l'Agneau et à cause de la parole de leur témoignage, et ils n'ont pas aimé leur vie jusqu'à craindre la mort'.",
+    "reference": "Ap 12:11"
+  },
+  {
+    "id": "ap_46",
+    "category": "Apocalypse",
+    "subcategory": "Les Bêtes",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Pendant combien de mois la bête qui monte de la mer reçoit-elle l'autorisation d'agir et de blasphémer ?",
+    "options": [
+      "42 mois",
+      "70 mois",
+      "12 mois",
+      "100 mois"
+    ],
+    "answer": "42 mois",
+    "explanation": "Il lui fut donné une bouche qui proférait des paroles arrogantes et des blasphèmes, et il lui fut donné le pouvoir d'agir pendant quarante-deux mois.",
+    "reference": "Ap 13:5"
+  },
+  {
+    "id": "ap_47",
+    "category": "Apocalypse",
+    "subcategory": "Les Scellés",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Où Jean contemple-t-il l'Agneau debout entouré des 144 000 portant son nom et celui de son Père ?",
+    "options": [
+      "Sur le mont Sion",
+      "Dans le temple céleste",
+      "Au bord de la mer de verre",
+      "Sur le mont des Oliviers"
+    ],
+    "answer": "Sur le mont Sion",
+    "explanation": "Jean regarde et voit l'Agneau debout sur le mont Sion, symbole du rassemblement messianique et du salut final.",
+    "reference": "Ap 14:1"
+  },
+  {
+    "id": "ap_48",
+    "category": "Apocalypse",
+    "subcategory": "Les Coupes",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Que se passe-t-il sur la Terre lorsque le quatrième ange verse sa coupe sur le soleil ?",
+    "options": [
+      "Le soleil brûle les hommes d'une chaleur intense",
+      "Le soleil s'obscurcit totalement",
+      "Le soleil tombe sur la terre",
+      "La lune devient rouge comme du sang"
+    ],
+    "answer": "Le soleil brûle les hommes d'une chaleur intense",
+    "explanation": "Le quatrième ange versa sa coupe sur le soleil, et il lui fut donné de brûler les hommes par le feu, provoquant de grands blasphèmes.",
+    "reference": "Ap 16:8"
+  },
+  {
+    "id": "ap_49",
+    "category": "Apocalypse",
+    "subcategory": "Les Coupes",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Dans quel lieu symbolique les rois de la Terre sont-ils rassemblés sous l'influence de démons lors de la sixième coupe ?",
+    "options": [
+      "Harmaguédon (Armageddon)",
+      "La vallée de Josaphat",
+      "Babylone",
+      "Le désert de Judée"
+    ],
+    "answer": "Harmaguédon (Armageddon)",
+    "explanation": "Les esprits de démons rassemblèrent les rois de la terre dans le lieu qui s'appelle en hébreu Harmaguédon (la montagne de Megiddo).",
+    "reference": "Ap 16:16"
+  },
+  {
+    "id": "ap_50",
+    "category": "Apocalypse",
+    "subcategory": "La Ville Impie",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Sur quoi la grande prostituée mystique appelée Babylone est-elle assise au chapitre 17 ?",
+    "options": [
+      "Une bête écarlate aux sept têtes et dix cornes",
+      "Un grand trône d'or et de perles",
+      "Les eaux de l'Euphrate desséché",
+      "Une montagne de cadavres de saints"
+    ],
+    "answer": "Une bête écarlate aux sept têtes et dix cornes",
+    "explanation": "Jean voit une femme assise sur une bête écarlate, pleine de noms de blasphème, ayant sept têtes et dix cornes.",
+    "reference": "Ap 17:3"
+  },
+  {
+    "id": "ap_51",
+    "category": "Apocalypse",
+    "subcategory": "La Ville Impie",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "En combien de temps la ruine et le jugement de la grande et riche Babylone s'accomplissent-ils selon Apocalypse 18 ?",
+    "options": [
+      "En une seule heure",
+      "En sept jours",
+      "En trois ans et demi",
+      "En un clin d'œil"
+    ],
+    "answer": "En une seule heure",
+    "explanation": "Les rois, les marchands et les marins pleurent la destruction de la ville, s'écriant : 'En une seule heure tant de richesses ont été détruites !'.",
+    "reference": "Ap 18:10"
+  },
+  {
+    "id": "ap_52",
+    "category": "Apocalypse",
+    "subcategory": "Le Retour de Christ",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Que représente symboliquement le vêtement de 'fin lin, éclatant et pur' donné à l'Épouse de l'Agneau pour ses noces ?",
+    "options": [
+      "Les œuvres justes des saints",
+      "Le sang des martyrs chrétiens",
+      "La sagesse des anciens de l'église",
+      "Les ordonnances de la Loi"
+    ],
+    "answer": "Les œuvres justes des saints",
+    "explanation": "Le texte précise : 'Il lui a été donné de se revêtir d'un fin lin, éclatant, pur. Car le fin lin, ce sont les œuvres justes des saints'.",
+    "reference": "Ap 19:8"
+  },
+  {
+    "id": "ap_53",
+    "category": "Apocalypse",
+    "subcategory": "Le Millénium",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "En quoi consiste la 'première résurrection' promise aux martyrs décapités au début du Millénium ?",
+    "options": [
+      "Régner avec le Christ sur la Terre pendant mille ans",
+      "Être enlevé directement au ciel sans mourir",
+      "Être réincarné dans les générations futures",
+      "Devenir des anges protecteurs pour l'Église"
+    ],
+    "answer": "Régner avec le Christ sur la Terre pendant mille ans",
+    "explanation": "Ceux qui n'avaient pas adoré la bête revinrent à la vie, et ils régnèrent avec Christ pendant mille ans. C'est la première résurrection.",
+    "reference": "Ap 20:5–6"
+  },
+  {
+    "id": "ap_54",
+    "category": "Apocalypse",
+    "subcategory": "Jugement Dernier",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Devant quel trône solennel se tiennent les morts, grands et petits, pour être jugés selon leurs œuvres à la fin du monde ?",
+    "options": [
+      "Le grand trône blanc",
+      "Le trône de saphir",
+      "Le trône d'or de l'Agneau",
+      "Le trône de jugement de David"
+    ],
+    "answer": "Le grand trône blanc",
+    "explanation": "Jean voit un grand trône blanc et celui qui y était assis. La terre et le ciel s'enfuirent devant sa face.",
+    "reference": "Ap 20:11"
+  },
+  {
+    "id": "ap_55",
+    "category": "Apocalypse",
+    "subcategory": "Le Millénium",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Comment s'appelle l'ultime bataille menée par Satan et les nations révoltées après les mille ans d'emprisonnement ?",
+    "options": [
+      "La bataille de Gog et Magog",
+      "La bataille d'Armageddon",
+      "Le combat de l'Euphrate",
+      "La guerre des sept coupes"
+    ],
+    "answer": "La bataille de Gog et Magog",
+    "explanation": "Satan sera relâché, et sortira pour séduire les nations aux quatre coins de la terre, Gog et Magog, afin de les rassembler pour la bataille finale.",
+    "reference": "Ap 20:8"
+  },
+  {
+    "id": "ap_56",
+    "category": "Apocalypse",
+    "subcategory": "Nouvelle Jérusalem",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quelle est la mesure de la longueur (et largeur) de la nouvelle Jérusalem mesurée par l'ange avec un roseau d'or ?",
+    "options": [
+      "12 000 stades (de côté)",
+      "144 stades",
+      "1 000 stades",
+      "12 000 coudées"
+    ],
+    "answer": "12 000 stades (de côté)",
+    "explanation": "L'ange mesura la ville avec le roseau, et trouva douze mille stades ; la longueur, la largeur et la hauteur en étaient égales.",
+    "reference": "Ap 21:16"
+  },
+  {
+    "id": "ap_57",
+    "category": "Apocalypse",
+    "subcategory": "Nouvelle Jérusalem",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel édifice sacré Jean remarque-t-il comme étant totalement absent de la nouvelle Jérusalem céleste ?",
+    "options": [
+      "Le Temple (remplacé par la présence de Dieu et de l'Agneau)",
+      "La muraille de pierre",
+      "Les autels de sacrifice",
+      "Le trône de jugement"
+    ],
+    "answer": "Le Temple (remplacé par la présence de Dieu et de l'Agneau)",
+    "explanation": "Jean déclare : 'Je ne vis point de temple dans la ville ; car le Seigneur Dieu Tout-Puissant est son temple, ainsi que l'Agneau'.",
+    "reference": "Ap 21:22"
+  },
+  {
+    "id": "ap_58",
+    "category": "Apocalypse",
+    "subcategory": "Questions Générales",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Combien de fois précisément Jésus proclame-t-il l'avertissement 'Voici, je viens bientôt' dans le tout dernier chapitre de l'Apocalypse (ch. 22) ?",
+    "options": [
+      "Trois fois",
+      "Une seule fois",
+      "Sept fois",
+      "Deux fois"
+    ],
+    "answer": "Trois fois",
+    "explanation": "Jésus le répète aux versets 7 ('Et voici, je viens bientôt...'), 12 ('Voici, je viens bientôt, et ma rétribution est avec moi...'), et 20 ('Oui, je viens bientôt.').",
+    "reference": "Ap 22:7,12,20"
+  },
+  {
+    "id": "ap_59",
+    "category": "Apocalypse",
+    "subcategory": "La Cour Céleste",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Que tiennent les 24 vieillards dans leurs mains lorsqu'ils se prosternent pour adorer l'Agneau au chapitre 5 ?",
+    "options": [
+      "Des harpes et des coupes d'or pleines de parfums (les prières des saints)",
+      "Des couronnes d'or et des palmes",
+      "Des Tables de la Loi et des trompettes",
+      "Des sceptres royaux et des livres"
+    ],
+    "answer": "Des harpes et des coupes d'or pleines de parfums (les prières des saints)",
+    "explanation": "Ils se prosternèrent devant l'Agneau, tenant chacun une harpe et des coupes d'or remplies de parfums, qui sont les prières des saints.",
+    "reference": "Ap 5:8"
+  },
+  {
+    "id": "ap_60",
+    "category": "Apocalypse",
+    "subcategory": "Les 4 Cavaliers",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "De quelle couleur est le cheval monté par le deuxième cavalier qui reçoit le pouvoir d'enlever la paix de la Terre ?",
+    "options": [
+      "Rouge (feu)",
+      "Blanc",
+      "Noir",
+      "Pâle"
+    ],
+    "answer": "Rouge (feu)",
+    "explanation": "Quand le second sceau est ouvert, un autre cheval sort : il est rouge feu. Celui qui le monte reçoit le pouvoir de bannir la paix de la terre.",
+    "reference": "Ap 6:4"
+  },
+  {
+    "id": "ap_61",
+    "category": "Apocalypse",
+    "subcategory": "Les 4 Cavaliers",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Que symbolise historiquement et spirituellement le cavalier au cheval rouge muni d'une grande épée ?",
+    "options": [
+      "La guerre (les conflits armés)",
+      "La famine et la disette",
+      "La peste et les épidémies",
+      "La conquête politique"
+    ],
+    "answer": "La guerre (les conflits armés)",
+    "explanation": "Le cheval rouge représente la guerre, illustrée par le fait que les hommes s'égorgent les uns les autres et par la grande épée donnée au cavalier.",
+    "reference": "Ap 6:4"
+  },
+  {
+    "id": "ap_62",
+    "category": "Apocalypse",
+    "subcategory": "Symboles de Christ",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Combien de cornes (symbole de puissance) et d'yeux (symbole de l'Esprit) possède l'Agneau immolé contemplé par Jean (5:6) ?",
+    "options": [
+      "Sept cornes et sept yeux",
+      "Dix cornes et sept yeux",
+      "Sept cornes et sept esprits",
+      "Douze cornes et douze yeux"
+    ],
+    "answer": "Sept cornes et sept yeux",
+    "explanation": "L'Agneau avait sept cornes et sept yeux, qui sont les sept esprits de Dieu envoyés par toute la terre.",
+    "reference": "Ap 5:6"
+  },
+  {
+    "id": "ap_63",
+    "category": "Apocalypse",
+    "subcategory": "Les Coupes",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Que se passe-t-il dans la nature lorsque le troisième ange verse sa coupe de la colère divine ?",
+    "options": [
+      "Les fleuves et les sources d'eau deviennent du sang",
+      "La mer se change en sang et tue toute vie marine",
+      "Une grande obscurité recouvre le pays",
+      "Les arbres et les cultures sont brûlés"
+    ],
+    "answer": "Les fleuves et les sources d'eau deviennent du sang",
+    "explanation": "Le troisième ange versa sa coupe sur les fleuves et sur les sources d'eau. Et ils devinrent du sang, punition pour avoir versé le sang des saints.",
+    "reference": "Ap 16:4"
+  },
+  {
+    "id": "ap_64",
+    "category": "Apocalypse",
+    "subcategory": "Les Coupes",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Où le cinquième ange verse-t-il sa coupe, provoquant des ténèbres et de grandes souffrances chez les impies ?",
+    "options": [
+      "Sur le trône de la bête",
+      "Sur l'Euphrate",
+      "Dans l'air",
+      "Sur la mer Égée"
+    ],
+    "answer": "Sur le trône de la bête",
+    "explanation": "Le cinquième ange versa sa coupe sur le trône de la bête. Et son royaume fut couvert de ténèbres ; et les gens se mordaient la langue de douleur.",
+    "reference": "Ap 16:10"
+  },
+  {
+    "id": "ap_65",
+    "category": "Apocalypse",
+    "subcategory": "La Ville Impie",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel message solennel le deuxième ange du chapitre 14 proclame-t-il pour annoncer la chute de la ville impie ?",
+    "options": [
+      "'Elle est tombée, elle est tombée, Babylone la grande !'",
+      "'Malheur à la Terre car le diable est descendu !'",
+      "'Craignez Dieu, et donnez-lui gloire !'",
+      "'Voici l'Agneau qui ôte le péché !'"
+    ],
+    "answer": "'Elle est tombée, elle est tombée, Babylone la grande !'",
+    "explanation": "Un autre, un second ange suivit, disant : 'Elle est tombée, elle est tombée, Babylone la grande, qui a fait boire à toutes les nations du vin de la fureur de son impudicité !'.",
+    "reference": "Ap 14:8"
+  },
+  {
+    "id": "ap_66",
+    "category": "Apocalypse",
+    "subcategory": "Nouvelle Jérusalem",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "À quoi sont destinées les feuilles de l'arbre de vie planté de part et d'autre du fleuve céleste ?",
+    "options": [
+      "À la guérison des nations",
+      "À parfumer la cité sainte",
+      "À servir de nourriture exclusive aux anges",
+      "À guérir les plaies physiques des martyrs"
+    ],
+    "answer": "À la guérison des nations",
+    "explanation": "Les feuilles de l'arbre de vie servent à la guérison des nations (Ap 22:2), symbolisant la paix et la restauration universelle sous le règne de Dieu.",
+    "reference": "Ap 22:2"
+  },
+  {
+    "id": "ap_67",
+    "category": "Apocalypse",
+    "subcategory": "Les Scellés",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quels noms précieux sont gravés sur le front des 144 000 serviteurs fidèles du chapitre 14 ?",
+    "options": [
+      "Le nom de l'Agneau et le nom de son Père",
+      "Le nom de la nouvelle Jérusalem",
+      "Les noms des douze apôtres",
+      "Le tétragramme sacré YHWH"
+    ],
+    "answer": "Le nom de l'Agneau et le nom de son Père",
+    "explanation": "Jean voit l'Agneau debout sur le mont Sion, et avec lui 144 000 personnes, qui avaient son nom et le nom de son Père écrits sur leur front.",
+    "reference": "Ap 14:1"
+  },
+  {
+    "id": "ap_68",
+    "category": "Apocalypse",
+    "subcategory": "Questions Générales",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quelle est la réaction physique immédiate de Jean lorsqu'il voit la majesté du Fils de l'homme glorifié au chapitre 1 ?",
+    "options": [
+      "Il tombe à ses pieds comme mort",
+      "Il se met à chanter un cantique",
+      "Il s'enfuit de terreur",
+      "Il l'embrasse chaleureusement"
+    ],
+    "answer": "Il tombe à ses pieds comme mort",
+    "explanation": "Jean déclare : 'Quand je le vis, je tombai à ses pieds comme mort. Il posa sur moi sa main droite en disant : Ne crains point !'.",
+    "reference": "Ap 1:17"
+  },
+  {
+    "id": "ap_70",
+    "category": "Apocalypse",
+    "subcategory": "La Ville Impie",
+    "difficulty": "moyen",
+    "type": "qcm",
+    "question": "Quel geste spectaculaire un ange puissant accomplit-il pour illustrer graphiquement l'anéantissement définitif de Babylone ?",
+    "options": [
+      "Il jette une meule de moulin géante dans la mer",
+      "Il frappe la terre de son épée",
+      "Il verse un torrent de feu du ciel",
+      "Il brise un vase d'argile précieux"
+    ],
+    "answer": "Il jette une meule de moulin géante dans la mer",
+    "explanation": "Un ange puissant prit une pierre semblable à une grande meule, et la jeta dans la mer, en disant : 'C'est ainsi que sera précipitée avec violence Babylone... et on ne la retrouvera plus'.",
+    "reference": "Ap 18:21"
+  },
+  {
+    "id": "ap_71",
+    "category": "Apocalypse",
+    "subcategory": "Les Deux Témoins",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Pendant combien de temps les cadavres des deux témoins restent-ils exposés dans la rue de la grande ville avant leur résurrection ?",
+    "options": [
+      "Trois jours et demi",
+      "Trois jours",
+      "Sept jours",
+      "Quarante jours"
+    ],
+    "answer": "Trois jours et demi",
+    "explanation": "Les hommes de divers peuples voient leurs cadavres pendant trois jours et demi, refusant de les mettre dans un sépulcre, avant que l'esprit de vie de Dieu n'entre en eux.",
+    "reference": "Ap 11:9"
+  },
+  {
+    "id": "ap_72",
+    "category": "Apocalypse",
+    "subcategory": "Satan et ses Symboles",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel est le nom grec (traduit par l'Exterminateur) de l'ange régnant sur l'abîme au cinquième jugement ?",
+    "options": [
+      "Apollyon",
+      "Abaddon",
+      "Lucifer",
+      "Asmodée"
+    ],
+    "answer": "Apollyon",
+    "explanation": "L'ange de l'abîme s'appelle en hébreu Abaddon et en grec Apollyon (qui signifie 'Destructeur' ou 'Exterminateur').",
+    "reference": "Ap 9:11"
+  },
+  {
+    "id": "ap_73",
+    "category": "Apocalypse",
+    "subcategory": "Les Trompettes",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Combien de cavaliers composent l'armée surnaturelle libérée au son de la sixième trompette près de l'Euphrate ?",
+    "options": [
+      "200 millions (deux myriades de myriades)",
+      "144 000 cavaliers",
+      "Un million de cavaliers",
+      "Dix mille cavaliers"
+    ],
+    "answer": "200 millions (deux myriades de myriades)",
+    "explanation": "Jean dit : 'Le nombre des cavaliers de l'armée était de deux myriades de myriades (deux cents millions) ; j'en entendis le nombre'.",
+    "reference": "Ap 9:16"
+  },
+  {
+    "id": "ap_74",
+    "category": "Apocalypse",
+    "subcategory": "Les Trompettes",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel est le nom de la grande étoile enflammée qui tombe du ciel lors de la troisième trompette, rendant les eaux amères ?",
+    "options": [
+      "Absinthe (Armoise)",
+      "Lucifer",
+      "Orion",
+      "Comète amère"
+    ],
+    "answer": "Absinthe (Armoise)",
+    "explanation": "Le nom de cette étoile est Absinthe (Apsinthos en grec). Le tiers des eaux devint de l'absinthe, et beaucoup d'hommes moururent parce qu'elles étaient devenues amères.",
+    "reference": "Ap 8:11"
+  },
+  {
+    "id": "ap_75",
+    "category": "Apocalypse",
+    "subcategory": "Nouvelle Jérusalem",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quelle est l'épaisseur de la muraille de la nouvelle Jérusalem mesurée en coudées ?",
+    "options": [
+      "144 coudées",
+      "12 000 coudées",
+      "72 coudées",
+      "24 coudées"
+    ],
+    "answer": "144 coudées",
+    "explanation": "L'ange mesura la muraille de la ville et trouva 144 coudées, mesure d'homme qui était celle de l'ange.",
+    "reference": "Ap 21:17"
+  },
+  {
+    "id": "ap_76",
+    "category": "Apocalypse",
+    "subcategory": "Nouvelle Jérusalem",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quelle est la toute première pierre précieuse qui orne le premier fondement de la muraille de la cité céleste ?",
+    "options": [
+      "Le jaspe",
+      "Le saphir",
+      "La calcédoine",
+      "L'émeraude"
+    ],
+    "answer": "Le jaspe",
+    "explanation": "Les fondements de la muraille de la ville étaient ornés de pierres précieuses : le premier fondement était de jaspe, le second de saphir...",
+    "reference": "Ap 21:19"
+  },
+  {
+    "id": "ap_77",
+    "category": "Apocalypse",
+    "subcategory": "Nouvelle Jérusalem",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "De quelle matière extraordinaire sont pavées les rues de la nouvelle Jérusalem céleste ?",
+    "options": [
+      "D'or pur semblable à du verre transparent",
+      "De marbre blanc et de jaspe",
+      "De perles écrasées",
+      "De cristal d'eau de roche"
+    ],
+    "answer": "D'or pur semblable à du verre transparent",
+    "explanation": "Le texte indique : 'La rue de la ville était d'or pur, comme du verre transparent', symbolisant la pureté absolue.",
+    "reference": "Ap 21:21"
+  },
+  {
+    "id": "ap_78",
+    "category": "Apocalypse",
+    "subcategory": "Questions Générales",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Combien de béatitudes ('Heureux...') sont prononcées au fil des prophéties du livre de l'Apocalypse ?",
+    "options": [
+      "Sept béatitudes",
+      "Trois béatitudes",
+      "Douze béatitudes",
+      "Cinq béatitudes"
+    ],
+    "answer": "Sept béatitudes",
+    "explanation": "L'Apocalypse égrène 7 déclarations de bonheur spirituel (en Ap 1:3 ; 14:13 ; 16:15 ; 19:9 ; 20:6 ; 22:7, 14).",
+    "reference": "Ap 1:3 ; 14:13 ; 16:15 ; 19:9 ; 20:6 ; 22:7,14"
+  },
+  {
+    "id": "ap_79",
+    "category": "Apocalypse",
+    "subcategory": "Questions Générales",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quelle est la toute première béatitude énoncée au début du livre de l'Apocalypse (1:3) ?",
+    "options": [
+      "Heureux celui qui lit et ceux qui écoutent les paroles de la prophétie et gardent ce qui y est écrit",
+      "Heureux les morts qui meurent dans le Seigneur dès à présent",
+      "Heureux celui qui veille et garde ses vêtements",
+      "Heureux ceux qui sont appelés au festin des noces de l'Agneau"
+    ],
+    "answer": "Heureux celui qui lit et ceux qui écoutent les paroles de la prophétie et gardent ce qui y est écrit",
+    "explanation": "La première béatitude promet une bénédiction spirituelle à ceux qui lisent, entendent et mettent en pratique les prophéties de ce livre.",
+    "reference": "Ap 1:3"
+  },
+  {
+    "id": "ap_80",
+    "category": "Apocalypse",
+    "subcategory": "Les Coupes",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel fléau frappe les hommes révoltés lorsque le premier ange verse sa coupe sur la Terre ?",
+    "options": [
+      "Un ulcère malin et douloureux sur ceux qui ont la marque de la bête",
+      "Une obscurité totale sur tout le royaume",
+      "Un tremblement de terre destructeur",
+      "Une invasion de sauterelles venimeuses"
+    ],
+    "answer": "Un ulcère malin et douloureux sur ceux qui ont la marque de la bête",
+    "explanation": "Le premier alla, et il versa sa coupe sur la terre. Et un ulcère malin et douloureux frappa les hommes qui avaient la marque de la bête et qui adoraient son image.",
+    "reference": "Ap 16:2"
+  },
+  {
+    "id": "ap_81",
+    "category": "Apocalypse",
+    "subcategory": "Les Coupes",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel fléau frappe la création lorsque le second ange verse sa coupe sur la mer ?",
+    "options": [
+      "La mer devient comme le sang d'un mort et tout être vivant y meurt",
+      "La mer s'évapore complètement sous la chaleur",
+      "Les eaux de la mer deviennent amères comme de l'absinthe",
+      "Des monstres marins géants attaquent les ports"
+    ],
+    "answer": "La mer devient comme le sang d'un mort et tout être vivant y meurt",
+    "explanation": "Le second ange versa sa coupe dans la mer. Elle devint comme le sang d'un mort, et tout être vivant mourut dans la mer.",
+    "reference": "Ap 16:3"
+  },
+  {
+    "id": "ap_82",
+    "category": "Apocalypse",
+    "subcategory": "Les Trompettes",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Que se passe-t-il sur la Terre après que le premier ange a sonné de sa trompette ?",
+    "options": [
+      "De la grêle et du feu mêlés de sang tombent sur la terre, brûlant le tiers des arbres",
+      "Le tiers de la mer est changé en sang",
+      "Une grande étoile nommée Absinthe tombe sur les sources d'eau",
+      "Une nuée de sauterelles sort de l'abîme obscur"
+    ],
+    "answer": "De la grêle et du feu mêlés de sang tombent sur la terre, brûlant le tiers des arbres",
+    "explanation": "Le premier sonna de la trompette. Et il y eut de la grêle et du feu mêlés de sang, qui furent jetés sur la terre ; et le tiers de la terre fut brûlé, et le tiers des arbres fut brûlé...",
+    "reference": "Ap 8:7"
+  },
+  {
+    "id": "ap_83",
+    "category": "Apocalypse",
+    "subcategory": "Les Trompettes",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel événement dramatique Jean contemple-t-il au son de la seconde trompette céleste ?",
+    "options": [
+      "Comme une grande montagne embrasée par le feu est jetée dans la mer",
+      "Une grande étoile tombe du ciel brûlant comme un flambeau",
+      "Le soleil, la lune et les étoiles perdent le tiers de leur clarté",
+      "Un ange vole au milieu du ciel criant : Malheur !"
+    ],
+    "answer": "Comme une grande montagne embrasée par le feu est jetée dans la mer",
+    "explanation": "Le second ange sonna de la trompette. Et quelque chose comme une grande montagne embrasée par le feu fut jeté dans la mer ; et le tiers de la mer devint du sang.",
+    "reference": "Ap 8:8"
+  },
+  {
+    "id": "ap_84",
+    "category": "Apocalypse",
+    "subcategory": "Les 7 Églises",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quelle Église d'Asie reçoit la promesse de recevoir 'la manne cachée' et 'un caillou blanc' avec un nom mystérieux ?",
+    "options": [
+      "Pergame",
+      "Sardes",
+      "Thyatire",
+      "Philadelphie"
+    ],
+    "answer": "Pergame",
+    "explanation": "Jésus dit à l'Église de Pergame : 'Au vainqueur je donnerai de la manne cachée, et je lui donnerai un caillou blanc ; et sur ce caillou est écrit un nom nouveau'.",
+    "reference": "Ap 2:17"
+  },
+  {
+    "id": "ap_85",
+    "category": "Apocalypse",
+    "subcategory": "Les 7 Églises",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quelles déviations doctrinales et sectaires Jésus reproche-t-il à l'Église de Pergame de tolérer dans ses rangs ?",
+    "options": [
+      "La doctrine de Balaam et celle des Nicolaïtes",
+      "Les enseignements de la fausse prophétesse Jézabel",
+      "Le reniement du Saint-Esprit",
+      "Le culte exclusif des idoles de Rome"
+    ],
+    "answer": "La doctrine de Balaam et celle des Nicolaïtes",
+    "explanation": "Jésus reproche à Pergame de tolérer des gens attachés à la doctrine de Balaam (qui incitait aux viandes sacrifiées aux idoles) et des Nicolaïtes.",
+    "reference": "Ap 2:14–15"
+  },
+  {
+    "id": "ap_86",
+    "category": "Apocalypse",
+    "subcategory": "Les 7 Églises",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quels conseils métaphoriques Jésus donne-t-il à l'Église de Laodicée pour remédier à sa pauvreté spirituelle cachée ?",
+    "options": [
+      "D'acheter de l'or éprouvé par le feu, des vêtements blancs et du collyre",
+      "De jeûner et de faire l'aumône aux pauvres de la cité",
+      "D'élire de nouveaux anciens et de chasser les hérétiques",
+      "D'abandonner le commerce de la laine noire"
+    ],
+    "answer": "D'acheter de l'or éprouvé par le feu, des vêtements blancs et du collyre",
+    "explanation": "Jésus conseille à Laodicée d'acheter de lui de l'or purifié (la vraie foi), des vêtements blancs (la justice) et du collyre pour oindre ses yeux (le discernement spirituel).",
+    "reference": "Ap 3:18"
+  },
+  {
+    "id": "ap_87",
+    "category": "Apocalypse",
+    "subcategory": "La Cour Céleste",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Combien d'ailes possèdent chacun des quatre êtres vivants (chérubins/séraphins) postés autour du trône de Dieu ?",
+    "options": [
+      "Six ailes chacun",
+      "Quatre ailes chacun",
+      "Deux ailes chacun",
+      "Huit ailes chacun"
+    ],
+    "answer": "Six ailes chacun",
+    "explanation": "Les quatre êtres vivants ont chacun six ailes, et ils sont remplis d'yeux tout autour et au-dedans, symbolisant la vigilance.",
+    "reference": "Ap 4:8"
+  },
+  {
+    "id": "ap_88",
+    "category": "Apocalypse",
+    "subcategory": "Les 4 Cavaliers",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel instrument de mesure le troisième cavalier, monté sur un cheval noir (la Famine), tient-il dans sa main ?",
+    "options": [
+      "Une balance",
+      "Un fléau à blé",
+      "Une mesure de froment",
+      "Un sceptre de fer"
+    ],
+    "answer": "Une balance",
+    "explanation": "Jean voit paraître un cheval noir. Celui qui le monte tient une balance dans sa main, annonçant le rationnement strict des denrées.",
+    "reference": "Ap 6:5"
+  },
+  {
+    "id": "ap_89",
+    "category": "Apocalypse",
+    "subcategory": "La Cour Céleste",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel est l'aspect physique du quatrième être vivant qui adore Dieu autour du trône ?",
+    "options": [
+      "Semblable à un aigle qui vole",
+      "Semblable à un lion",
+      "Semblable à un veau (ou jeune taureau)",
+      "Ayant la face d'un homme"
+    ],
+    "answer": "Semblable à un aigle qui vole",
+    "explanation": "Le premier être vivant ressemble à un lion, le second à un veau, le troisième a la face d'un homme, et le quatrième ressemble à un aigle qui vole.",
+    "reference": "Ap 4:7"
+  },
+  {
+    "id": "ap_90",
+    "category": "Apocalypse",
+    "subcategory": "Les Trompettes",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Pendant combien de temps les sauterelles venimeuses sorties du puits de l'abîme sont-elles autorisées à tourmenter les hommes ?",
+    "options": [
+      "Cinq mois",
+      "Trois ans et demi",
+      "Cinq ans",
+      "Quarante jours"
+    ],
+    "answer": "Cinq mois",
+    "explanation": "Il leur fut donné, non de les tuer, mais de les tourmenter pendant cinq mois ; et le tourment qu'elles causaient était comme celui du scorpion.",
+    "reference": "Ap 9:5"
+  },
+  {
+    "id": "ap_91",
+    "category": "Apocalypse",
+    "subcategory": "Questions Générales",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel effet insolite le petit livre remis par l'ange produit-il sur l'apôtre Jean lorsqu'il le mange ?",
+    "options": [
+      "Doux comme du miel dans la bouche, mais amer dans le ventre",
+      "Amer dans la bouche, mais rafraîchissant dans le ventre",
+      "Il le fortifie instantanément comme du pain de vie",
+      "Il brûle sa langue de feux prophétiques"
+    ],
+    "answer": "Doux comme du miel dans la bouche, mais amer dans le ventre",
+    "explanation": "Jean prend le petit livre et le mange : il est doux comme du miel dans sa bouche (la joie de la révélation), mais remplit son ventre d'amertume (les durs jugements annoncés).",
+    "reference": "Ap 10:9–10"
+  },
+  {
+    "id": "ap_92",
+    "category": "Apocalypse",
+    "subcategory": "La Femme et le Dragon",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel grand signe céleste apparaît dans le ciel juste avant la description de la femme vêtue du soleil ?",
+    "options": [
+      "Une femme enveloppée du soleil, la lune sous ses pieds, et une couronne de 12 étoiles sur sa tête",
+      "Un grand dragon rouge feu prêt à dévorer la terre",
+      "Le temple de Dieu s'ouvrant pour laisser voir l'arche de son alliance",
+      "Une grande étoile flamboyante tombant dans l'Euphrate"
+    ],
+    "answer": "Une femme enveloppée du soleil, la lune sous ses pieds, et une couronne de 12 étoiles sur sa tête",
+    "explanation": "Apocalypse 12 s'ouvre par : 'Un grand signe apparut dans le ciel : une femme enveloppée du soleil, la lune sous ses pieds, et une couronne de douze étoiles sur sa tête'.",
+    "reference": "Ap 12:1"
+  },
+  {
+    "id": "ap_93",
+    "category": "Apocalypse",
+    "subcategory": "La Ville Impie",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "De quoi la femme mystique nommée Babylone, assise sur la bête écarlate, est-elle ivre ?",
+    "options": [
+      "Du sang des saints et des martyrs de Jésus",
+      "Du vin de la vigne terrestre",
+      "De la colère de Dieu le Père",
+      "De l'or et des richesses des marchands"
+    ],
+    "answer": "Du sang des saints et des martyrs de Jésus",
+    "explanation": "Jean voit la femme ivre du sang des saints et du sang des témoins de Jésus, illustrant la persécution féroce menée par l'empire anti-chrétien.",
+    "reference": "Ap 17:6"
+  },
+  {
+    "id": "ap_94",
+    "category": "Apocalypse",
+    "subcategory": "Les Bêtes",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Combien de rois n'ayant pas encore de royaume reçoivent l'autorité royale pour une heure avec la bête ?",
+    "options": [
+      "Dix rois",
+      "Sept rois",
+      "Douze rois",
+      "Vingt-quatre rois"
+    ],
+    "answer": "Dix rois",
+    "explanation": "Les dix cornes que tu as vues sont dix rois, qui n'ont pas encore reçu de royaume, mais qui reçoivent l'autorité comme rois pour une heure avec la bête.",
+    "reference": "Ap 17:12"
+  },
+  {
+    "id": "ap_95",
+    "category": "Apocalypse",
+    "subcategory": "Le Retour de Christ",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Que crie d'insolite l'ange debout dans le soleil pour convoquer les oiseaux au moment de la bataille finale ?",
+    "options": [
+      "Il les invite à se rassembler pour le grand festin de Dieu",
+      "Il leur dit de fuir la terre dévastée",
+      "Il leur annonce la purification des eaux terrestres",
+      "Il proclame le début du règne éternel"
+    ],
+    "answer": "Il les invite à se rassembler pour le grand festin de Dieu",
+    "explanation": "L'ange crie d'une voix forte à tous les oiseaux qui volaient par le milieu du ciel : 'Venez, rassemblez-vous pour le grand festin de Dieu, afin de manger la chair des rois...'.",
+    "reference": "Ap 19:17"
+  },
+  {
+    "id": "ap_96",
+    "category": "Apocalypse",
+    "subcategory": "Le Retour de Christ",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quel châtiment immédiat subissent la bête et le faux prophète lors de la parution triomphale du cavalier au cheval blanc ?",
+    "options": [
+      "Ils sont jetés vivants dans l'étang de feu et de soufre",
+      "Ils sont enchaînés dans l'abîme pour mille ans",
+      "Ils sont foudroyés et enterrés sous la terre",
+      "Leur mémoire est effacée des livres célestes"
+    ],
+    "answer": "Ils sont jetés vivants dans l'étang de feu et de soufre",
+    "explanation": "La bête fut prise, et avec elle le faux prophète... Tous deux furent jetés vivants dans l'étang de feu et de soufre.",
+    "reference": "Ap 19:20"
+  },
+  {
+    "id": "ap_97",
+    "category": "Apocalypse",
+    "subcategory": "La Cour Céleste",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Combien de lampes ardentes (qui représentent les sept esprits de Dieu) brûlent devant le trône divin au chapitre 4 ?",
+    "options": [
+      "Sept lampes ardentes",
+      "Douze lampes ardentes",
+      "Vingt-quatre lampes ardentes",
+      "Quatre lampes ardentes"
+    ],
+    "answer": "Sept lampes ardentes",
+    "explanation": "Du trône sortent des éclairs, des voix et des tonnerres. Devant le trône brûlent sept lampes ardentes, qui sont les sept esprits de Dieu.",
+    "reference": "Ap 4:5"
+  },
+  {
+    "id": "ap_98",
+    "category": "Apocalypse",
+    "subcategory": "La Cour Céleste",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Que représente la 'mer de verre mêlée de feu' sur laquelle se tiennent les vainqueurs de la bête au chapitre 15 ?",
+    "options": [
+      "La plate-forme céleste sur laquelle se tiennent les rachetés triomphants",
+      "Le lac de feu destiné au châtiment",
+      "La mer Rouge traversée par les Hébreux",
+      "Le bassin d'eau de purification du temple céleste"
+    ],
+    "answer": "La plate-forme céleste sur laquelle se tiennent les rachetés triomphants",
+    "explanation": "Jean voit comme une mer de verre, mêlée de feu, et ceux qui avaient vaincu la bête debout sur cette mer, ayant des harpes de Dieu.",
+    "reference": "Ap 15:2"
+  },
+  {
+    "id": "ap_99",
+    "category": "Apocalypse",
+    "subcategory": "Questions Générales",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "Quelle grave malédiction finale frappe toute personne qui ose retrancher ou supprimer des paroles écrites dans le livre de l'Apocalypse ?",
+    "options": [
+      "Dieu retranchera sa part de l'arbre de vie et de la ville sainte",
+      "Il sera frappé de cécité immédiate",
+      "Son nom sera effacé de la généalogie terrestre",
+      "Il subira instantanément les plaies des sept coupes"
+    ],
+    "answer": "Dieu retranchera sa part de l'arbre de vie et de la ville sainte",
+    "explanation": "L'auteur avertit solennellement : 'Si quelqu'un retranche quelque chose des paroles du livre de cette prophétie, Dieu retranchera sa part de l'arbre de la vie et de la ville sainte...'.",
+    "reference": "Ap 22:19"
+  },
+  {
+    "id": "ap_100",
+    "category": "Apocalypse",
+    "subcategory": "Symboles de Christ",
+    "difficulty": "difficile",
+    "type": "qcm",
+    "question": "À quoi Jean compare-t-il la couleur des cheveux du Fils de l'homme glorifié lors de sa vision inaugurale (1:14) ?",
+    "options": [
+      "Blancs comme de la laine blanche, comme de la neige",
+      "Brillants comme de l'or pur",
+      "Noirs comme du jais",
+      "Semblables à des flammes de feu"
+    ],
+    "answer": "Blancs comme de la laine blanche, comme de la neige",
+    "explanation": "Sa tête et ses cheveux étaient blancs comme de la laine blanche, comme de la neige ; et ses yeux étaient comme une flamme de feu.",
+    "reference": "Ap 1:14"
+  }
+]
