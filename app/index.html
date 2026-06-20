@@ -16,6 +16,7 @@
       <h1 class="title-gold">Crack Béréen</h1>
     </div>
     <div class="nav-links">
+      <button class="btn-nav" id="nav-btn-music">🎵 Musique: OFF</button>
       <button class="btn-nav" id="nav-btn-home">Accueil</button>
       <button class="btn-nav" id="nav-btn-rules">Règles</button>
       <button class="btn-nav" id="nav-btn-about">À propos</button>
@@ -188,6 +189,7 @@
       </div>
 
       <div class="action-row">
+        <button class="btn-nav" id="solo-btn-quit" style="margin-right: auto; border-color: rgba(224, 36, 36, 0.4); color: var(--color-wrong);">Quitter la partie ❌</button>
         <button class="btn-gold" id="solo-btn-next" style="display: none;">Question Suivante ➡️</button>
       </div>
     </section>
@@ -566,6 +568,113 @@
           oscNote.start(now + idx * 0.1);
           oscNote.stop(now + idx * 0.1 + 0.3);
         });
+      }
+    }
+
+    // Synthétiseur de musique d'ambiance (nappes d'accords douces et progressives)
+    let musicEnabled = false;
+    let nextChordTime = 0;
+    let musicTimer = null;
+    let activeOscillators = [];
+    let activeGains = [];
+    const chords = [
+      [110.00, 220.00, 261.63, 329.63], // Am (La mineur)
+      [87.31, 174.61, 220.00, 261.63],  // F (Fa majeur)
+      [130.81, 261.63, 329.63, 392.00], // C (Do majeur)
+      [98.00, 196.00, 246.94, 293.66]   // G (Sol majeur)
+    ];
+    let currentChordIdx = 0;
+
+    function startMusic() {
+      if (audioCtx.state === 'suspended') {
+        audioCtx.resume();
+      }
+      musicEnabled = true;
+      nextChordTime = audioCtx.currentTime;
+      scheduler();
+    }
+
+    function stopMusic() {
+      musicEnabled = false;
+      if (musicTimer) clearTimeout(musicTimer);
+      activeOscillators.forEach(osc => {
+        try { osc.stop(); } catch(e) {}
+      });
+      activeOscillators = [];
+      activeGains.forEach(g => {
+        try { g.disconnect(); } catch(e) {}
+      });
+      activeGains = [];
+    }
+
+    function scheduler() {
+      while (nextChordTime < audioCtx.currentTime + 2.0 && musicEnabled) {
+        scheduleChord(currentChordIdx, nextChordTime);
+        nextChordTime += 4.0; // Un accord toutes les 4 secondes
+        currentChordIdx = (currentChordIdx + 1) % chords.length;
+      }
+      if (musicEnabled) {
+        musicTimer = setTimeout(scheduler, 1000);
+      }
+    }
+
+    function scheduleChord(chordIdx, time) {
+      const chordNotes = chords[chordIdx];
+      const duration = 4.2; // Légère superposition pour une transition fluide
+      
+      const filter = audioCtx.createBiquadFilter();
+      filter.type = 'lowpass';
+      filter.frequency.setValueAtTime(350, time); // Son très doux, feutré
+      filter.connect(audioCtx.destination);
+
+      chordNotes.forEach(freq => {
+        const osc = audioCtx.createOscillator();
+        const gain = audioCtx.createGain();
+        
+        osc.type = 'triangle';
+        osc.frequency.setValueAtTime(freq, time);
+        
+        // Enveloppe d'amplitude (attaque lente, extinction lente)
+        gain.gain.setValueAtTime(0, time);
+        gain.gain.linearRampToValueAtTime(0.04, time + 1.2); // Volume de fond discret
+        gain.gain.setValueAtTime(0.04, time + duration - 1.5);
+        gain.gain.linearRampToValueAtTime(0, time + duration);
+        
+        osc.connect(gain);
+        gain.connect(filter);
+        
+        osc.start(time);
+        osc.stop(time + duration);
+        
+        activeOscillators.push(osc);
+        activeGains.push(gain);
+        
+        // Nettoyage après fin de note
+        setTimeout(() => {
+          activeOscillators = activeOscillators.filter(o => o !== osc);
+          activeGains = activeGains.filter(g => g !== gain);
+        }, (time + duration - audioCtx.currentTime) * 1000 + 1000);
+      });
+    }
+
+    function toggleBackgroundMusic() {
+      const btn = document.getElementById('nav-btn-music');
+      if (!musicEnabled) {
+        startMusic();
+        if (btn) {
+          btn.textContent = '🎵 Musique: ON';
+          btn.style.background = 'rgba(255, 191, 0, 0.15)';
+          btn.style.borderColor = 'var(--color-gold)';
+          btn.style.color = 'var(--color-gold)';
+        }
+      } else {
+        stopMusic();
+        if (btn) {
+          btn.textContent = '🎵 Musique: OFF';
+          btn.style.background = 'transparent';
+          btn.style.borderColor = 'rgba(255, 191, 0, 0.3)';
+          btn.style.color = 'var(--color-text-main)';
+        }
       }
     }
   </script>

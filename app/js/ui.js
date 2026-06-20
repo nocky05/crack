@@ -63,6 +63,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   }
 
   // --- NAVIGATION ÉVÉNEMENTS ---
+  document.getElementById('nav-btn-music').addEventListener('click', () => toggleBackgroundMusic());
   document.getElementById('nav-btn-home').addEventListener('click', () => showScreen('home'));
   document.getElementById('logo-home').addEventListener('click', () => showScreen('home'));
   document.getElementById('nav-btn-rules').addEventListener('click', () => showScreen('rules'));
@@ -267,6 +268,15 @@ document.addEventListener('DOMContentLoaded', async () => {
       document.getElementById('results-score-display').textContent = `${window.engine.soloScore} pts`;
       document.getElementById('results-comment').textContent = `Félicitations pour avoir complété ce quiz d'entraînement ! Réessayez pour améliorer votre score.`;
       showScreen('results');
+    }
+  });
+
+  document.getElementById('solo-btn-quit').addEventListener('click', () => {
+    if (confirm("Voulez-vous vraiment quitter et abandonner cette partie en cours ?")) {
+      if (window.engine.soloTimerInterval) {
+        clearInterval(window.engine.soloTimerInterval);
+      }
+      showScreen('home');
     }
   });
 
