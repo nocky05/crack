@@ -46,8 +46,8 @@ function apply5050Joker() {
   
   let countRemoved = 0;
   optionButtons.forEach(btn => {
-    const text = btn.querySelector('.option-text').textContent;
-    if (text !== correctAnswer && countRemoved < 2) {
+    const text = btn.querySelector('.option-text').textContent.trim();
+    if (text !== correctAnswer.trim() && countRemoved < 2) {
       btn.style.opacity = '0.2';
       btn.disabled = true;
       countRemoved++;
@@ -182,18 +182,16 @@ document.addEventListener('DOMContentLoaded', async () => {
     document.getElementById('solo-explanation').style.display = 'none';
     document.getElementById('solo-btn-next').style.display = 'none';
 
-    // Rendre les options
+    // Rendre les options (mélangées pour éviter que la bonne réponse soit toujours en A)
     const optionsGrid = document.getElementById('solo-options');
     optionsGrid.innerHTML = '';
     
-    q.options.forEach((opt, idx) => {
+    const shuffledOptions = window.db.shuffleArray([...q.options]);
+    shuffledOptions.forEach((opt, idx) => {
       const letter = String.fromCharCode(65 + idx); // A, B, C, D
       const btn = document.createElement('button');
       btn.className = 'option-btn';
-      btn.innerHTML = `
-        <span class="option-prefix">${letter}</span>
-        <span class="option-text">${opt}</span>
-      `;
+      btn.innerHTML = `<span class="option-prefix">${letter}</span><span class="option-text">${opt}</span>`;
       btn.addEventListener('click', () => submitSoloOption(opt, btn));
       optionsGrid.appendChild(btn);
     });
@@ -231,7 +229,7 @@ document.addEventListener('DOMContentLoaded', async () => {
       btnElement.classList.add('wrong');
       // Mettre en vert la bonne réponse
       document.querySelectorAll('#solo-options .option-btn').forEach(btn => {
-        if (btn.querySelector('.option-text').textContent === result.correctAnswer) {
+        if (btn.querySelector('.option-text').textContent.trim() === result.correctAnswer.trim()) {
           btn.classList.add('correct');
         }
       });
@@ -245,7 +243,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     const q = window.engine.currentQuestions[window.engine.currentQuestionIdx];
     document.querySelectorAll('#solo-options .option-btn').forEach(btn => {
       btn.disabled = true;
-      if (btn.querySelector('.option-text').textContent === q.answer) {
+      if (btn.querySelector('.option-text').textContent.trim() === q.answer.trim()) {
         btn.classList.add('correct');
       }
     });
@@ -296,14 +294,13 @@ document.addEventListener('DOMContentLoaded', async () => {
     const optionsGrid = document.getElementById('pres-options');
     optionsGrid.innerHTML = '';
     
-    q.options.forEach((opt, idx) => {
+    // Mélanger les options pour le mode présentateur aussi
+    const shuffledPresOptions = window.db.shuffleArray([...q.options]);
+    shuffledPresOptions.forEach((opt, idx) => {
       const letter = String.fromCharCode(65 + idx);
       const btn = document.createElement('button');
       btn.className = 'option-btn';
-      btn.innerHTML = `
-        <span class="option-prefix">${letter}</span>
-        <span class="option-text">${opt}</span>
-      `;
+      btn.innerHTML = `<span class="option-prefix">${letter}</span><span class="option-text">${opt}</span>`;
       btn.disabled = true; // L'animateur gère la validation
       optionsGrid.appendChild(btn);
     });
@@ -335,8 +332,8 @@ document.addEventListener('DOMContentLoaded', async () => {
     
     // Colorer les options
     document.querySelectorAll('#pres-options .option-btn').forEach(btn => {
-      const text = btn.querySelector('.option-text').textContent;
-      if (text === q.answer) {
+      const text = btn.querySelector('.option-text').textContent.trim();
+      if (text === q.answer.trim()) {
         btn.classList.add('correct');
       } else {
         btn.classList.add('wrong');
