@@ -26,7 +26,7 @@
   --text-muted: #94a3b8;
   --text-subtle: #64748b;
 
-  --border-glass: rgba(255, 255, 255, 0.1);
+  --border-glass: rgba(255, 255, 255, 0.12);
   --border-glow: rgba(245, 158, 11, 0.2);
 
   --radius-sm: 8px;
@@ -82,15 +82,24 @@ h1, h2, h3, h4, h5, h6 {
 .glass-pill {
   background: rgba(255, 255, 255, 0.06);
   backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
   border: 1px solid var(--border-glass);
   border-radius: var(--radius-full);
-  padding: 6px 14px;
+  padding: 8px 16px;
   display: inline-flex;
   align-items: center;
-  gap: 6px;
+  justify-content: center;
+  gap: 8px;
   font-weight: 600;
-  font-size: 0.82rem;
-  max-width: 100%;
+  font-size: 0.85rem;
+  white-space: nowrap;
+  flex-shrink: 0;
+  transition: all 0.2s ease;
+}
+
+.glass-pill:hover {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.25);
 }
 
 /* Custom Buttons */
@@ -111,6 +120,7 @@ h1, h2, h3, h4, h5, h6 {
   justify-content: center;
   gap: 8px;
   touch-action: manipulation;
+  white-space: nowrap;
 }
 
 .btn-primary:hover {
@@ -139,6 +149,7 @@ h1, h2, h3, h4, h5, h6 {
   justify-content: center;
   gap: 8px;
   touch-action: manipulation;
+  white-space: nowrap;
 }
 
 .btn-secondary:hover {
@@ -211,6 +222,13 @@ h1, h2, h3, h4, h5, h6 {
 
   h3 {
     font-size: 1.15rem !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .header-container {
+    justify-content: center !important;
+    gap: 12px !important;
   }
 }
 

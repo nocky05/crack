@@ -69,7 +69,7 @@ export default function HomeScreen() {
           margin: '0 auto 20px',
           lineHeight: '1.5'
         }}>
-          Testez votre culture biblique sans inscription. Un simple lien d'invitation suffit !
+          Défis bibliques 1v1 instantanés, sans inscription.
         </p>
 
         {/* Pseudo Input Field */}

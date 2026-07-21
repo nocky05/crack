@@ -4,7 +4,7 @@ import { BookOpen, User, Wifi, Edit2, Check } from 'lucide-react';
 import { playSound } from '../utils/audio';
 
 export default function Header() {
-  const { playerPseudo, setPlayerPseudo, isP2P, opponentPseudo, gameState } = useGame();
+  const { playerPseudo, setPlayerPseudo, isP2P, gameState } = useGame();
   const [isEditing, setIsEditing] = useState(false);
   const [tempPseudo, setTempPseudo] = useState(playerPseudo);
 
@@ -15,52 +15,68 @@ export default function Header() {
   };
 
   return (
-    <header style={{
+    <header className="header-container" style={{
       width: '100%',
       maxWidth: '1000px',
       margin: '0 auto',
-      padding: '16px 16px 8px',
+      padding: '16px 20px 8px',
       display: 'flex',
       alignItems: 'center',
       justifyContent: 'space-between',
       gap: '12px',
       flexWrap: 'wrap'
     }}>
-      {/* Brand Logo */}
-      <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
+      {/* Brand Logo & Title (Sans sous-texte pour une meilleure clarté mobile) */}
+      <div style={{ display: 'flex', alignItems: 'center', gap: '12px', flexShrink: 0 }}>
         <div style={{
-          width: '38px',
-          height: '38px',
-          borderRadius: '10px',
+          width: '40px',
+          height: '40px',
+          borderRadius: '11px',
           background: 'linear-gradient(135deg, #f59e0b 0%, #8b5cf6 100%)',
           display: 'flex',
           alignItems: 'center',
           justifyContent: 'center',
-          boxShadow: '0 4px 15px rgba(245, 158, 11, 0.3)',
+          boxShadow: '0 4px 15px rgba(245, 158, 11, 0.35)',
           flexShrink: 0
         }}>
-          <BookOpen size={20} color="#ffffff" />
+          <BookOpen size={22} color="#ffffff" />
         </div>
-        <div>
-          <h1 style={{ fontSize: '1.2rem', fontWeight: '800', margin: 0, lineHeight: 1.1 }}>
-            CRACK <span className="gradient-text">BÉRÉEN</span>
-          </h1>
-          <span style={{ fontSize: '0.7rem', color: 'var(--text-muted)', fontWeight: '500' }}>
-            Quiz Chrétien V2 • P2P 1v1
-          </span>
-        </div>
+        <h1 style={{
+          fontSize: '1.3rem',
+          fontWeight: '800',
+          margin: 0,
+          lineHeight: '1',
+          whiteSpace: 'nowrap',
+          letterSpacing: '-0.02em'
+        }}>
+          CRACK <span className="gradient-text">BÉRÉEN</span>
+        </h1>
       </div>
 
-      {/* Badges Info */}
-      <div style={{ display: 'flex', alignItems: 'center', gap: '8px', flexWrap: 'wrap' }}>
-        {/* Connection Mode Status */}
+      {/* Badges Info Section */}
+      <div style={{
+        display: 'flex',
+        alignItems: 'center',
+        gap: '8px',
+        flexShrink: 0,
+        flexWrap: 'nowrap'
+      }}>
+        {/* Connection Mode Status Badge */}
         <div className="glass-pill" style={{
-          borderColor: isP2P ? 'var(--success)' : 'var(--border-glass)',
-          color: isP2P ? 'var(--success)' : 'var(--text-muted)',
-          fontSize: '0.78rem'
+          borderColor: isP2P ? 'var(--success)' : 'rgba(255, 255, 255, 0.12)',
+          color: isP2P ? 'var(--success)' : 'var(--text-main)',
+          background: isP2P ? 'rgba(16, 185, 129, 0.12)' : 'rgba(255, 255, 255, 0.05)',
+          padding: '7px 13px',
+          fontSize: '0.8rem',
+          display: 'inline-flex',
+          alignItems: 'center',
+          gap: '6px',
+          whiteSpace: 'nowrap'
         }}>
-          <Wifi size={14} />
-          <span>{isP2P ? '1v1 P2P Direct' : 'Mode Solo'}</span>
+          <Wifi size={14} style={{ flexShrink: 0 }} />
+          <span style={{ whiteSpace: 'nowrap', fontWeight: '600' }}>
+            {isP2P ? '1v1 P2P Direct' : 'Mode Solo'}
+          </span>
         </div>
 
         {/* Pseudo Badge */}
@@ -71,14 +87,14 @@ export default function Header() {
               value={tempPseudo}
               onChange={(e) => setTempPseudo(e.target.value)}
               style={{
-                background: 'rgba(255, 255, 255, 0.1)',
+                background: 'rgba(255, 255, 255, 0.12)',
                 border: '1px solid var(--accent-gold)',
                 color: 'white',
-                padding: '4px 10px',
-                borderRadius: '8px',
+                padding: '5px 10px',
+                borderRadius: '20px',
                 outline: 'none',
                 fontFamily: 'inherit',
-                fontSize: '0.85rem',
+                fontSize: '0.82rem',
                 width: '110px'
               }}
               maxLength={15}
@@ -89,24 +105,36 @@ export default function Header() {
                 background: 'var(--accent-gold)',
                 border: 'none',
                 color: '#0f172a',
-                padding: '6px 8px',
-                borderRadius: '8px',
-                cursor: 'pointer'
+                padding: '5px 9px',
+                borderRadius: '50%',
+                cursor: 'pointer',
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center'
               }}
             >
-              <Check size={14} />
+              <Check size={13} />
             </button>
           </div>
         ) : (
           <div
             onClick={() => { playSound.click(); setIsEditing(true); }}
             className="glass-pill"
-            style={{ cursor: gameState === 'HOME' ? 'pointer' : 'default', fontSize: '0.78rem' }}
+            style={{
+              cursor: gameState === 'HOME' ? 'pointer' : 'default',
+              padding: '7px 14px',
+              fontSize: '0.8rem',
+              display: 'inline-flex',
+              alignItems: 'center',
+              gap: '6px',
+              whiteSpace: 'nowrap',
+              background: 'rgba(255, 255, 255, 0.05)'
+            }}
             title="Cliquer pour modifier le pseudo"
           >
-            <User size={14} color="var(--accent-gold)" />
-            <span>{playerPseudo}</span>
-            {gameState === 'HOME' && <Edit2 size={11} style={{ opacity: 0.6 }} />}
+            <User size={14} color="var(--accent-gold)" style={{ flexShrink: 0 }} />
+            <span style={{ whiteSpace: 'nowrap', fontWeight: '600' }}>{playerPseudo}</span>
+            {gameState === 'HOME' && <Edit2 size={11} style={{ opacity: 0.7, flexShrink: 0 }} />}
           </div>
         )}
       </div>
