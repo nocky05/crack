@@ -96,6 +96,7 @@ export default function QuizScreen() {
           display: 'flex',
           alignItems: 'center',
           justifyContent: 'space-between',
+          flexWrap: 'wrap',
           gap: '12px'
         }}>
           {/* Mon Score & Combo */}
@@ -114,7 +115,6 @@ export default function QuizScreen() {
               {playerPseudo.charAt(0).toUpperCase()}
             </div>
             <div>
-              <div style={{ fontSize: '0.85rem', color: 'var(--text-muted)' }}>{playerPseudo}</div>
               <div style={{ fontSize: '1.25rem', fontWeight: '800', color: 'var(--accent-gold)' }}>
                 {score} pts {streak >= 3 && <span style={{ fontSize: '0.8rem' }}>🔥x{streak}</span>}
               </div>
@@ -158,11 +158,7 @@ export default function QuizScreen() {
                 {opponentPseudo.charAt(0).toUpperCase()}
               </div>
             </div>
-          ) : (
-            <div className="glass-pill" style={{ color: 'var(--accent-cyan)' }}>
-              <BookOpen size={16} /> Mode Solo
-            </div>
-          )}
+          ) : null}
         </div>
 
         {/* Indicateur de réponse adverse */}

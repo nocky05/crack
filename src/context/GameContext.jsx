@@ -51,6 +51,8 @@ export const GameProvider = ({ children }) => {
 
     if (joinId) {
       console.log('🔗 URL d\'invitation détectée:', joinId);
+      // Nettoyer l'URL immédiatement pour éviter les boucles si l'effet se relance
+      window.history.replaceState({}, document.title, window.location.pathname);
       joinP2PGame(joinId);
     }
 
@@ -140,6 +142,8 @@ export const GameProvider = ({ children }) => {
       alert("Impossible de rejoindre le salon P2P. Le lien a peut-être expiré.");
       setIsPeerConnecting(false);
       setGameState('HOME');
+      // Nettoyer l'URL même en cas d'erreur
+      window.history.replaceState({}, document.title, window.location.pathname);
     }
   };
 
