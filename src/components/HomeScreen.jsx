@@ -59,7 +59,7 @@ export default function HomeScreen() {
         </div>
 
         <h2 style={{ fontSize: 'min(2.2rem, 7.5vw)', fontWeight: '900', marginBottom: '10px', lineHeight: 1.2 }}>
-          Affronte tes amis en <span className="gradient-text">Duel 1v1 P2P</span>
+          CRACK <span className="gradient-text">BÉRÉEN</span>
         </h2>
 
         <p style={{

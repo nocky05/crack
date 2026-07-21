@@ -24,33 +24,21 @@ export default function Header() {
       alignItems: 'center',
       justifyContent: 'space-between',
       gap: '12px',
-      flexWrap: 'wrap'
+      flexWrap: 'nowrap'
     }}>
-      {/* Brand Logo & Title (Sans sous-texte pour une meilleure clarté mobile) */}
-      <div style={{ display: 'flex', alignItems: 'center', gap: '12px', flexShrink: 0 }}>
-        <div style={{
-          width: '40px',
-          height: '40px',
-          borderRadius: '11px',
-          background: 'linear-gradient(135deg, #f59e0b 0%, #8b5cf6 100%)',
-          display: 'flex',
-          alignItems: 'center',
-          justifyContent: 'center',
-          boxShadow: '0 4px 15px rgba(245, 158, 11, 0.35)',
-          flexShrink: 0
-        }}>
-          <BookOpen size={22} color="#ffffff" />
-        </div>
-        <h1 style={{
-          fontSize: '1.3rem',
-          fontWeight: '800',
-          margin: 0,
-          lineHeight: '1',
-          whiteSpace: 'nowrap',
-          letterSpacing: '-0.02em'
-        }}>
-          CRACK <span className="gradient-text">BÉRÉEN</span>
-        </h1>
+      {/* Brand Logo Only */}
+      <div style={{
+        width: '40px',
+        height: '40px',
+        borderRadius: '11px',
+        background: 'linear-gradient(135deg, #f59e0b 0%, #8b5cf6 100%)',
+        display: 'flex',
+        alignItems: 'center',
+        justifyContent: 'center',
+        boxShadow: '0 4px 15px rgba(245, 158, 11, 0.35)',
+        flexShrink: 0
+      }}>
+        <BookOpen size={22} color="#ffffff" />
       </div>
 
       {/* Badges Info Section */}
