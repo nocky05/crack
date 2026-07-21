@@ -1,0 +1,24 @@
+{
+  "name": "crack-bereen-v2",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "node scripts/generate_data.js && vite build",
+    "preview": "vite preview",
+    "generate-data": "node scripts/generate_data.js"
+  },
+  "dependencies": {
+    "canvas-confetti": "^1.9.4",
+    "framer-motion": "^12.4.7",
+    "lucide-react": "^0.475.0",
+    "peerjs": "^1.5.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.1.0"
+  }
+}
