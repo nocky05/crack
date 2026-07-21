@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "node scripts/generate_data.js && vite build",
+    "build": "node scripts/generate_data.js && vite build && node -e \"const fs = require('fs'); fs.copyFileSync('dist/index.html', 'index.html'); fs.cpSync('dist/assets', 'assets', {recursive: true});\"",
     "preview": "vite preview",
     "generate-data": "node scripts/generate_data.js"
   },
